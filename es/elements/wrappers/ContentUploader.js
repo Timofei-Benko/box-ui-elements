@@ -109,3 +109,4 @@ function (_ES6Wrapper) {
 global.Box = global.Box || {};
 global.Box.ContentUploader = ContentUploader;
 export default ContentUploader;
+//# sourceMappingURL=ContentUploader.js.map

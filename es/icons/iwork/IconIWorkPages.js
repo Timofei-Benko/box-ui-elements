@@ -94,3 +94,4 @@ _defineProperty(IconIWorkPages, "defaultProps", {
 });
 
 export default IconIWorkPages;
+//# sourceMappingURL=IconIWorkPages.js.map

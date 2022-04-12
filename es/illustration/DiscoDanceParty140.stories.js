@@ -10,3 +10,4 @@ export default {
     notes: "`import DiscoDanceParty140 from 'box-ui-elements/es/illustration/DiscoDanceParty140';`"
   }
 };
+//# sourceMappingURL=DiscoDanceParty140.stories.js.map

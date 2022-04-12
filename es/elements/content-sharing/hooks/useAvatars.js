@@ -98,3 +98,4 @@ function useAvatars(api, itemID, collaboratorsList) {
 }
 
 export default useAvatars;
+//# sourceMappingURL=useAvatars.js.map

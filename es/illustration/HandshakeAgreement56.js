@@ -42,3 +42,4 @@ var HandshakeAgreement56 = function HandshakeAgreement56(props) {
 };
 
 export default HandshakeAgreement56;
+//# sourceMappingURL=HandshakeAgreement56.js.map

@@ -28,3 +28,4 @@ var Classify16 = function Classify16(props) {
 };
 
 export default Classify16;
+//# sourceMappingURL=Classify16.js.map

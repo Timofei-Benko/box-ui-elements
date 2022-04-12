@@ -21,3 +21,4 @@ var IconFileBase = function IconFileBase(_ref) {
 };
 
 export default IconFileBase;
+//# sourceMappingURL=IconFileBase.js.map

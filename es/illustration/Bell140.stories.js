@@ -10,3 +10,4 @@ export default {
     notes: "`import Bell140 from 'box-ui-elements/es/illustration/Bell140';`"
   }
 };
+//# sourceMappingURL=Bell140.stories.js.map

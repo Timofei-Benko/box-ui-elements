@@ -10,3 +10,4 @@ export default {
     notes: "`import ChangeOrder56 from 'box-ui-elements/es/illustration/ChangeOrder56';`"
   }
 };
+//# sourceMappingURL=ChangeOrder56.stories.js.map

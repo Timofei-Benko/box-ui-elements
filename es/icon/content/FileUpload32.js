@@ -34,3 +34,4 @@ var FileUpload32 = function FileUpload32(props) {
 };
 
 export default FileUpload32;
+//# sourceMappingURL=FileUpload32.js.map

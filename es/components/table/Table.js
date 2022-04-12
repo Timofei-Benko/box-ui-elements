@@ -23,3 +23,4 @@ var Table = function Table(_ref) {
 };
 
 export default Table;
+//# sourceMappingURL=Table.js.map

@@ -118,3 +118,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default DeleteConfirmation;
+//# sourceMappingURL=DeleteConfirmation.js.map

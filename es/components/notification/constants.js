@@ -9,3 +9,4 @@ export var TYPE_ERROR = 'error'; // Overflow constants
 
 export var OVERFLOW_WRAP = 'wrap';
 export var OVERFLOW_ELLIPSIS = 'ellipsis';
+//# sourceMappingURL=constants.js.map

@@ -28,3 +28,4 @@ var Plane16 = function Plane16(props) {
 };
 
 export default Plane16;
+//# sourceMappingURL=Plane16.js.map

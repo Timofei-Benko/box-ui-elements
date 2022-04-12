@@ -73,3 +73,4 @@ function () {
 }();
 
 export default Channel;
+//# sourceMappingURL=Channel.js.map

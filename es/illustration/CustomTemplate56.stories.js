@@ -10,3 +10,4 @@ export default {
     notes: "`import CustomTemplate56 from 'box-ui-elements/es/illustration/CustomTemplate56';`"
   }
 };
+//# sourceMappingURL=CustomTemplate56.stories.js.map

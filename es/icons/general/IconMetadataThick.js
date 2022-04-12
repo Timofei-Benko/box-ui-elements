@@ -25,3 +25,4 @@ var IconMetadataThick = function IconMetadataThick(_ref) {
 };
 
 export default IconMetadataThick;
+//# sourceMappingURL=IconMetadataThick.js.map

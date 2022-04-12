@@ -10,3 +10,4 @@ export default {
     notes: "`import Calendar16 from 'box-ui-elements/es/icon/fill/Calendar16';`"
   }
 };
+//# sourceMappingURL=Calendar16.stories.js.map

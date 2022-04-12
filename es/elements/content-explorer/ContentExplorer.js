@@ -1709,4 +1709,4 @@ _defineProperty(ContentExplorer, "defaultProps", {
 
 export { ContentExplorer as ContentExplorerComponent };
 export default flow([makeResponsive, withFeatureConsumer, withFeatureProvider])(ContentExplorer);
-import { bpfrpt_proptype_FeatureConfig } from "../common/feature-checking";
+//# sourceMappingURL=ContentExplorer.js.map

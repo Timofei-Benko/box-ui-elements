@@ -28,3 +28,4 @@ var BoxDev16 = function BoxDev16(props) {
 };
 
 export default BoxDev16;
+//# sourceMappingURL=BoxDev16.js.map

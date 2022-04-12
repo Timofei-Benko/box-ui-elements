@@ -62,3 +62,4 @@ var CollaboratorListItem = function CollaboratorListItem(props) {
 };
 
 export default CollaboratorListItem;
+//# sourceMappingURL=CollaboratorListItem.js.map

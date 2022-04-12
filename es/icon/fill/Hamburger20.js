@@ -28,3 +28,4 @@ var Hamburger20 = function Hamburger20(props) {
 };
 
 export default Hamburger20;
+//# sourceMappingURL=Hamburger20.js.map

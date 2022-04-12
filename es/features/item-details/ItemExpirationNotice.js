@@ -44,3 +44,4 @@ ItemExpirationNotice.propTypes = {
   itemType: PropTypes.oneOf([FILE, FOLDER, WEBLINK]).isRequired
 };
 export default ItemExpirationNotice;
+//# sourceMappingURL=ItemExpirationNotice.js.map

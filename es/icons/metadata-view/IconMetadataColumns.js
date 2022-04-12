@@ -21,3 +21,4 @@ var IconMetadataColumns = function IconMetadataColumns(_ref) {
 };
 
 export default IconMetadataColumns;
+//# sourceMappingURL=IconMetadataColumns.js.map

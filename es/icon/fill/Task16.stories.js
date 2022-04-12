@@ -10,3 +10,4 @@ export default {
     notes: "`import Task16 from 'box-ui-elements/es/icon/fill/Task16';`"
   }
 };
+//# sourceMappingURL=Task16.stories.js.map

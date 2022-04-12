@@ -123,3 +123,4 @@ _defineProperty(CollaboratorAvatars, "defaultProps", {
 });
 
 export default CollaboratorAvatars;
+//# sourceMappingURL=CollaboratorAvatars.js.map

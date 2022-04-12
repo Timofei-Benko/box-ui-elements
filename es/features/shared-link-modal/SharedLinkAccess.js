@@ -53,3 +53,4 @@ var SharedLinkAccess = function SharedLinkAccess(props) {
 };
 
 export default SharedLinkAccess;
+//# sourceMappingURL=SharedLinkAccess.js.map

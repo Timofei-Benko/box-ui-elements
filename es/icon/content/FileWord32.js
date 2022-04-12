@@ -35,3 +35,4 @@ var FileWord32 = function FileWord32(props) {
 };
 
 export default FileWord32;
+//# sourceMappingURL=FileWord32.js.map

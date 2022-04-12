@@ -28,3 +28,4 @@ var FileExcel16 = function FileExcel16(props) {
 };
 
 export default FileExcel16;
+//# sourceMappingURL=FileExcel16.js.map

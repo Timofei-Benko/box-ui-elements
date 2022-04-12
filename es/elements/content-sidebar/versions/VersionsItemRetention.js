@@ -44,3 +44,4 @@ var VersionsItemRetention = function VersionsItemRetention(_ref) {
 };
 
 export default VersionsItemRetention;
+//# sourceMappingURL=VersionsItemRetention.js.map

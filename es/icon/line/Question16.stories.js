@@ -10,3 +10,4 @@ export default {
     notes: "`import Question16 from 'box-ui-elements/es/icon/line/Question16';`"
   }
 };
+//# sourceMappingURL=Question16.stories.js.map

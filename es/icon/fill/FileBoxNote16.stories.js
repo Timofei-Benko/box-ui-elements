@@ -10,3 +10,4 @@ export default {
     notes: "`import FileBoxNote16 from 'box-ui-elements/es/icon/fill/FileBoxNote16';`"
   }
 };
+//# sourceMappingURL=FileBoxNote16.stories.js.map

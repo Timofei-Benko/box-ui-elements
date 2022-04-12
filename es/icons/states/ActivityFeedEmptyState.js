@@ -35,3 +35,4 @@ var ActivityFeedEmptyState = function ActivityFeedEmptyState(_ref) {
 };
 
 export default ActivityFeedEmptyState;
+//# sourceMappingURL=ActivityFeedEmptyState.js.map

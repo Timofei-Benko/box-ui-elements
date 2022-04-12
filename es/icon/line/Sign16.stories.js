@@ -10,3 +10,4 @@ export default {
     notes: "`import Sign16 from 'box-ui-elements/es/icon/line/Sign16';`"
   }
 };
+//# sourceMappingURL=Sign16.stories.js.map

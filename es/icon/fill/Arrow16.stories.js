@@ -10,3 +10,4 @@ export default {
     notes: "`import Arrow16 from 'box-ui-elements/es/icon/fill/Arrow16';`"
   }
 };
+//# sourceMappingURL=Arrow16.stories.js.map

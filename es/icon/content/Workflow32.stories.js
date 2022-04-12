@@ -10,3 +10,4 @@ export default {
     notes: "`import Workflow32 from 'box-ui-elements/es/icon/content/Workflow32';`"
   }
 };
+//# sourceMappingURL=Workflow32.stories.js.map

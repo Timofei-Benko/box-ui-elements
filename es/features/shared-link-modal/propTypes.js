@@ -8,3 +8,4 @@ var accessLevelPropType = PropTypes.oneOf([PEOPLE_WITH_LINK, PEOPLE_IN_COMPANY, 
 var allowedAccessLevelsPropType = PropTypes.shape((_PropTypes$shape = {}, _defineProperty(_PropTypes$shape, PEOPLE_WITH_LINK, PropTypes.boolean), _defineProperty(_PropTypes$shape, PEOPLE_IN_COMPANY, PropTypes.boolean), _defineProperty(_PropTypes$shape, PEOPLE_IN_ITEM, PropTypes.boolean), _PropTypes$shape)).isRequired;
 var permissionLevelPropType = PropTypes.oneOf([CAN_EDIT, CAN_VIEW]);
 export { accessLevelPropType, allowedAccessLevelsPropType, permissionLevelPropType };
+//# sourceMappingURL=propTypes.js.map

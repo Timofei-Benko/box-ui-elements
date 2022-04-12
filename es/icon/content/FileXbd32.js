@@ -36,3 +36,4 @@ var FileXbd32 = function FileXbd32(props) {
 };
 
 export default FileXbd32;
+//# sourceMappingURL=FileXbd32.js.map

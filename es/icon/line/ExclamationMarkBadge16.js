@@ -28,3 +28,4 @@ var ExclamationMarkBadge16 = function ExclamationMarkBadge16(props) {
 };
 
 export default ExclamationMarkBadge16;
+//# sourceMappingURL=ExclamationMarkBadge16.js.map

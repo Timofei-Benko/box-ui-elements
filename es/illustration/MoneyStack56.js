@@ -47,3 +47,4 @@ var MoneyStack56 = function MoneyStack56(props) {
 };
 
 export default MoneyStack56;
+//# sourceMappingURL=MoneyStack56.js.map

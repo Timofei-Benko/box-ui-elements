@@ -114,3 +114,4 @@ function (_React$Component) {
 
 export { SingleSelectField as SingleSelectFieldBase };
 export default injectIntl(SingleSelectField);
+//# sourceMappingURL=SingleSelectField.js.map

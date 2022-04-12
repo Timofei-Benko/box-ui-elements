@@ -28,3 +28,4 @@ var Collection16 = function Collection16(props) {
 };
 
 export default Collection16;
+//# sourceMappingURL=Collection16.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderExternal32 from 'box-ui-elements/es/icon/content/FolderExternal32';`"
   }
 };
+//# sourceMappingURL=FolderExternal32.stories.js.map

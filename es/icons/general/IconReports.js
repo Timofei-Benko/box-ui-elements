@@ -63,3 +63,4 @@ var IconReports = function IconReports(_ref) {
 };
 
 export default IconReports;
+//# sourceMappingURL=IconReports.js.map

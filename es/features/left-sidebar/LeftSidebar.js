@@ -304,3 +304,4 @@ _defineProperty(LeftSidebar, "defaultProps", {
 });
 
 export default LeftSidebar;
+//# sourceMappingURL=LeftSidebar.js.map

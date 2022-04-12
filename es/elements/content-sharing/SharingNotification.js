@@ -273,3 +273,4 @@ function SharingNotification(_ref) {
 }
 
 export default SharingNotification;
+//# sourceMappingURL=SharingNotification.js.map

@@ -34,3 +34,4 @@ var FolderPersonal32 = function FolderPersonal32(props) {
 };
 
 export default FolderPersonal32;
+//# sourceMappingURL=FolderPersonal32.js.map

@@ -39,3 +39,4 @@ var FileImage32 = function FileImage32(props) {
 };
 
 export default FileImage32;
+//# sourceMappingURL=FileImage32.js.map

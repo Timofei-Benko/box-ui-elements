@@ -33,3 +33,4 @@ ReadonlyDescription.propTypes = {
   value: PropTypes.string
 };
 export default ReadonlyDescription;
+//# sourceMappingURL=ReadonlyDescription.js.map

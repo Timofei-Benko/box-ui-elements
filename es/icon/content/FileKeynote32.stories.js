@@ -10,3 +10,4 @@ export default {
     notes: "`import FileKeynote32 from 'box-ui-elements/es/icon/content/FileKeynote32';`"
   }
 };
+//# sourceMappingURL=FileKeynote32.stories.js.map

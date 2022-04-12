@@ -10,3 +10,4 @@ export default {
     notes: "`import CustomApp56 from 'box-ui-elements/es/illustration/CustomApp56';`"
   }
 };
+//# sourceMappingURL=CustomApp56.stories.js.map

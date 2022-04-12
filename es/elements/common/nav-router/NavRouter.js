@@ -20,3 +20,4 @@ var NavRouter = function NavRouter(_ref) {
 };
 
 export default NavRouter;
+//# sourceMappingURL=NavRouter.js.map

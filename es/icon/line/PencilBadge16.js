@@ -28,3 +28,4 @@ var PencilBadge16 = function PencilBadge16(props) {
 };
 
 export default PencilBadge16;
+//# sourceMappingURL=PencilBadge16.js.map

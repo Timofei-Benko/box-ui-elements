@@ -28,3 +28,4 @@ var IconChat = function IconChat(_ref) {
 };
 
 export default IconChat;
+//# sourceMappingURL=IconChat.js.map

@@ -3,3 +3,4 @@ export default {
   FOLDER: 'folder',
   BOOKMARK: 'web_link'
 };
+//# sourceMappingURL=item-types.js.map

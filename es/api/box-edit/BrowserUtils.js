@@ -296,3 +296,4 @@ var BrowserInstance = new BrowserUtils(); // for testing only
 export { BrowserUtils, BROWSER_CONSTANTS, MIN_FOLDER_UPLOAD_CHROME, MIN_FOLDER_UPLOAD_EDGE, MIN_FOLDER_UPLOAD_FIREFOX, MIN_FOLDER_UPLOAD_SAFARI }; // export as a singleton
 
 export default BrowserInstance;
+//# sourceMappingURL=BrowserUtils.js.map

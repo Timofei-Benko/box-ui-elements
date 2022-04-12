@@ -86,3 +86,4 @@ _defineProperty(IconGoogle, "defaultProps", {
 });
 
 export default IconGoogle;
+//# sourceMappingURL=IconGoogle.js.map

@@ -32,3 +32,4 @@ var IconExclamationMark = function IconExclamationMark(_ref) {
 };
 
 export default IconExclamationMark;
+//# sourceMappingURL=IconExclamationMark.js.map

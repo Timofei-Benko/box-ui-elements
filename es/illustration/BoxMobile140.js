@@ -140,3 +140,4 @@ var BoxMobile140 = function BoxMobile140(props) {
 };
 
 export default BoxMobile140;
+//# sourceMappingURL=BoxMobile140.js.map

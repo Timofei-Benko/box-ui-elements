@@ -210,3 +210,4 @@ _defineProperty(Logger, "defaultProps", {
 });
 
 export default Logger;
+//# sourceMappingURL=Logger.js.map

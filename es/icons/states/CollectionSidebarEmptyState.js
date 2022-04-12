@@ -65,3 +65,4 @@ var CollectionSidebarEmptyState = function CollectionSidebarEmptyState(_ref) {
 };
 
 export default CollectionSidebarEmptyState;
+//# sourceMappingURL=CollectionSidebarEmptyState.js.map

@@ -20,3 +20,4 @@ var LoadingIndicator = function LoadingIndicator(_ref) {
 };
 
 export default LoadingIndicator;
+//# sourceMappingURL=LoadingIndicator.js.map

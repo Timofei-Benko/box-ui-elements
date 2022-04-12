@@ -7,3 +7,4 @@ export { default as withFeatureProvider } from './withFeatureProvider';
 export { isFeatureEnabled, getFeatureConfig } from './util';
 export * from './flowTypes';
 export * from './hooks';
+//# sourceMappingURL=index.js.map

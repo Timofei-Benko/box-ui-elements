@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/components/ghost/index.tsx"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,SAAxB","sourcesContent":["export { default } from './Ghost';\n"],"file":"index.js"}

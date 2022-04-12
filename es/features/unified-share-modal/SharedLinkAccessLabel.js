@@ -40,3 +40,4 @@ var SharedLinkAccessLabel = function SharedLinkAccessLabel(_ref) {
 };
 
 export default SharedLinkAccessLabel;
+//# sourceMappingURL=SharedLinkAccessLabel.js.map

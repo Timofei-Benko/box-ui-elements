@@ -10,3 +10,4 @@ export default {
     notes: "`import MetricsReview56 from 'box-ui-elements/es/illustration/MetricsReview56';`"
   }
 };
+//# sourceMappingURL=MetricsReview56.stories.js.map

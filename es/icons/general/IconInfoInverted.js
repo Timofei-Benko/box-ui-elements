@@ -26,3 +26,4 @@ var IconInfoInverted = function IconInfoInverted(_ref) {
 };
 
 export default IconInfoInverted;
+//# sourceMappingURL=IconInfoInverted.js.map

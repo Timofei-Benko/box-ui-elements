@@ -48,3 +48,4 @@ var LegalFolder56 = function LegalFolder56(props) {
 };
 
 export default LegalFolder56;
+//# sourceMappingURL=LegalFolder56.js.map

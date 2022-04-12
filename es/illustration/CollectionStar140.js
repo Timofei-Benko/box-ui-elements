@@ -58,3 +58,4 @@ var CollectionStar140 = function CollectionStar140(props) {
 };
 
 export default CollectionStar140;
+//# sourceMappingURL=CollectionStar140.js.map

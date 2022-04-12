@@ -10,3 +10,4 @@ export default {
     notes: "`import CreditCard16 from 'box-ui-elements/es/icon/fill/CreditCard16';`"
   }
 };
+//# sourceMappingURL=CreditCard16.stories.js.map

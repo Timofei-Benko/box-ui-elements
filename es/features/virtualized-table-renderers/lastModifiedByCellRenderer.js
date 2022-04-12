@@ -50,3 +50,4 @@ var lastModifiedByCellRenderer = function lastModifiedByCellRenderer(intl) {
 };
 
 export default lastModifiedByCellRenderer;
+//# sourceMappingURL=lastModifiedByCellRenderer.js.map

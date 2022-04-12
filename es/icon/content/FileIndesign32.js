@@ -39,3 +39,4 @@ var FileIndesign32 = function FileIndesign32(props) {
 };
 
 export default FileIndesign32;
+//# sourceMappingURL=FileIndesign32.js.map

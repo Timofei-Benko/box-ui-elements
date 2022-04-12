@@ -10,3 +10,4 @@ export default {
     notes: "`import AnnotationsDrawing16 from 'box-ui-elements/es/icon/fill/AnnotationsDrawing16';`"
   }
 };
+//# sourceMappingURL=AnnotationsDrawing16.stories.js.map

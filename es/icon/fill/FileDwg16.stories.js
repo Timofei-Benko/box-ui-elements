@@ -10,3 +10,4 @@ export default {
     notes: "`import FileDwg16 from 'box-ui-elements/es/icon/fill/FileDwg16';`"
   }
 };
+//# sourceMappingURL=FileDwg16.stories.js.map

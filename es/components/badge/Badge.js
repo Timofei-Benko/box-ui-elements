@@ -24,3 +24,4 @@ var Badge = function Badge(_ref) {
 };
 
 export default Badge;
+//# sourceMappingURL=Badge.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import AdobeAcrobat32 from 'box-ui-elements/es/icon/logo/AdobeAcrobat32';`"
   }
 };
+//# sourceMappingURL=AdobeAcrobat32.stories.js.map

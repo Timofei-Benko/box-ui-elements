@@ -12,3 +12,4 @@ function MessageFormattedDate(_ref) {
 }
 
 export default MessageFormattedDate;
+//# sourceMappingURL=MessageFormattedDate.js.map

@@ -39,3 +39,4 @@ var classificationColorsMap = (_classificationColors = {}, _defineProperty(_clas
   tinycon: vars.bdlGray62
 }), _classificationColors);
 export default classificationColorsMap;
+//# sourceMappingURL=classificationColorsMap.js.map

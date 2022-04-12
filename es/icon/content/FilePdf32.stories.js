@@ -10,3 +10,4 @@ export default {
     notes: "`import FilePdf32 from 'box-ui-elements/es/icon/content/FilePdf32';`"
   }
 };
+//# sourceMappingURL=FilePdf32.stories.js.map

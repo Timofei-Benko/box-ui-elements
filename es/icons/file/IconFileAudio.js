@@ -19,3 +19,4 @@ var IconFileAudio = function IconFileAudio(props) {
 };
 
 export default IconFileAudio;
+//# sourceMappingURL=IconFileAudio.js.map

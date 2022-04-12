@@ -10,3 +10,4 @@ export default {
     notes: "`import Help20 from 'box-ui-elements/es/icon/fill/Help20';`"
   }
 };
+//# sourceMappingURL=Help20.stories.js.map

@@ -19,3 +19,4 @@ var IconFileGoogleSheets = function IconFileGoogleSheets(props) {
 };
 
 export default IconFileGoogleSheets;
+//# sourceMappingURL=IconFileGoogleSheets.js.map

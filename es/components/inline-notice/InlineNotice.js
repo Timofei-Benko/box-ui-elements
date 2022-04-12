@@ -22,3 +22,4 @@ var InlineNotice = function InlineNotice(_ref) {
 };
 
 export default InlineNotice;
+//# sourceMappingURL=InlineNotice.js.map

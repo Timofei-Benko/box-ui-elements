@@ -28,3 +28,4 @@ var CircleCheck16 = function CircleCheck16(props) {
 };
 
 export default CircleCheck16;
+//# sourceMappingURL=CircleCheck16.js.map

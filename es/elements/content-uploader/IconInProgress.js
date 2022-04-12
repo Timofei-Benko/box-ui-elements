@@ -14,3 +14,4 @@ var IconInProgress = function IconInProgress() {
 };
 
 export default IconInProgress;
+//# sourceMappingURL=IconInProgress.js.map

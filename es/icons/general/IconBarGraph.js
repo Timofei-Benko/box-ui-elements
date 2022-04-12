@@ -26,3 +26,4 @@ var IconBarGraph = function IconBarGraph(_ref) {
 };
 
 export default IconBarGraph;
+//# sourceMappingURL=IconBarGraph.js.map

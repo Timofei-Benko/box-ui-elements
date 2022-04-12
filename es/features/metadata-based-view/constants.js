@@ -12,3 +12,4 @@ export var FIXED_ROW_NUMBER = 1; // Header row
 
 export var HEADER_ROW_INDEX = 0;
 export var MIN_METADATA_COLUMN_WIDTH = 250;
+//# sourceMappingURL=constants.js.map

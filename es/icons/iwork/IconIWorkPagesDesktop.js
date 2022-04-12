@@ -485,3 +485,4 @@ _defineProperty(IconIWorkPagesDesktop, "defaultProps", {
 });
 
 export default IconIWorkPagesDesktop;
+//# sourceMappingURL=IconIWorkPagesDesktop.js.map

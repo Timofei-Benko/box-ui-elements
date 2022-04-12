@@ -66,3 +66,4 @@ _defineProperty(UnknownUserAvatar, "defaultProps", {
 });
 
 export default UnknownUserAvatar;
+//# sourceMappingURL=UnknownUserAvatar.js.map

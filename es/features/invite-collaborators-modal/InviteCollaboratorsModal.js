@@ -473,3 +473,4 @@ _defineProperty(InviteCollaboratorsModal, "defaultProps", {
 
 export { InviteCollaboratorsModal as InviteCollaboratorsModalBase };
 export default injectIntl(InviteCollaboratorsModal);
+//# sourceMappingURL=InviteCollaboratorsModal.js.map

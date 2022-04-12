@@ -24,3 +24,4 @@ var ReloadNotification = function ReloadNotification(_ref) {
 };
 
 export default ReloadNotification;
+//# sourceMappingURL=ReloadNotification.js.map

@@ -75,3 +75,4 @@ _defineProperty(AsyncError, "defaultProps", {
 });
 
 export default AsyncError;
+//# sourceMappingURL=AsyncError.js.map

@@ -37,3 +37,4 @@ var TranscriptRow = function TranscriptRow(_ref) {
 };
 
 export default TranscriptRow;
+//# sourceMappingURL=TranscriptRow.js.map

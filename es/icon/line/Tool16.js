@@ -28,3 +28,4 @@ var Tool16 = function Tool16(props) {
 };
 
 export default Tool16;
+//# sourceMappingURL=Tool16.js.map

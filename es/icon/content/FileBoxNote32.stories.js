@@ -10,3 +10,4 @@ export default {
     notes: "`import FileBoxNote32 from 'box-ui-elements/es/icon/content/FileBoxNote32';`"
   }
 };
+//# sourceMappingURL=FileBoxNote32.stories.js.map

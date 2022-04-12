@@ -87,3 +87,4 @@ var SyncEmptyState = function SyncEmptyState(_ref) {
 };
 
 export default SyncEmptyState;
+//# sourceMappingURL=SyncEmptyState.js.map

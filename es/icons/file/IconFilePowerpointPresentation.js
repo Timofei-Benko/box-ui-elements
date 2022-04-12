@@ -22,3 +22,4 @@ var IconFilePowerpointPresentation = function IconFilePowerpointPresentation(pro
 };
 
 export default IconFilePowerpointPresentation;
+//# sourceMappingURL=IconFilePowerpointPresentation.js.map

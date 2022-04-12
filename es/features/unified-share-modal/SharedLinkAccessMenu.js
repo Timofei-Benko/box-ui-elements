@@ -164,3 +164,4 @@ _defineProperty(SharedLinkAccessMenu, "defaultProps", {
 });
 
 export default SharedLinkAccessMenu;
+//# sourceMappingURL=SharedLinkAccessMenu.js.map

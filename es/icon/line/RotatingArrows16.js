@@ -27,3 +27,4 @@ var RotatingArrows16 = function RotatingArrows16(props) {
 };
 
 export default RotatingArrows16;
+//# sourceMappingURL=RotatingArrows16.js.map

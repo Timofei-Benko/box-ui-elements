@@ -94,3 +94,4 @@ function (_Base) {
 }(Base);
 
 export default AppIntegrations;
+//# sourceMappingURL=AppIntegrations.js.map

@@ -205,3 +205,4 @@ function (_TasksBase) {
 }(TasksBase);
 
 export default TasksNew;
+//# sourceMappingURL=TasksNew.js.map

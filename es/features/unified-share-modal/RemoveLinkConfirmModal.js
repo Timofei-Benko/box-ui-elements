@@ -79,3 +79,4 @@ function (_Component) {
 }(Component);
 
 export default RemoveLinkConfirmModal;
+//# sourceMappingURL=RemoveLinkConfirmModal.js.map

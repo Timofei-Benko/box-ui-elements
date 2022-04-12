@@ -27,3 +27,4 @@ var IconOfficeWordmark = function IconOfficeWordmark(_ref) {
 };
 
 export default IconOfficeWordmark;
+//# sourceMappingURL=IconOfficeWordmark.js.map

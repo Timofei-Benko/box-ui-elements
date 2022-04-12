@@ -22,3 +22,4 @@ export default function withAnnotatorContext(WrappedComponent) {
     });
   });
 }
+//# sourceMappingURL=withAnnotatorContext.js.map

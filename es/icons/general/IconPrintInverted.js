@@ -29,3 +29,4 @@ var IconPrintInverted = function IconPrintInverted(_ref) {
 };
 
 export default IconPrintInverted;
+//# sourceMappingURL=IconPrintInverted.js.map

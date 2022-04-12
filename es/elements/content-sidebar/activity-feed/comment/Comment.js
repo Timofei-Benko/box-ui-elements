@@ -245,3 +245,4 @@ _defineProperty(Comment, "defaultProps", {
 });
 
 export default Comment;
+//# sourceMappingURL=Comment.js.map

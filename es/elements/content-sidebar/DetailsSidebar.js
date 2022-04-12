@@ -341,3 +341,4 @@ _defineProperty(DetailsSidebar, "defaultProps", {
 
 export { DetailsSidebar as DetailsSidebarComponent };
 export default flow([withLogger(ORIGIN_DETAILS_SIDEBAR), withErrorBoundary(ORIGIN_DETAILS_SIDEBAR), withAPIContext])(DetailsSidebar);
+//# sourceMappingURL=DetailsSidebar.js.map

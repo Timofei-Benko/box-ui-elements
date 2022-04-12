@@ -19,3 +19,4 @@ var IconFileSpreadsheet = function IconFileSpreadsheet(props) {
 };
 
 export default IconFileSpreadsheet;
+//# sourceMappingURL=IconFileSpreadsheet.js.map

@@ -49,3 +49,4 @@ var MultiSelectMetadataField = function MultiSelectMetadataField(_ref) {
 
 export { MultiSelectMetadataField as MultiSelectMetadataFieldBase };
 export default MultiSelectMetadataField;
+//# sourceMappingURL=MultiSelectMetadataField.js.map

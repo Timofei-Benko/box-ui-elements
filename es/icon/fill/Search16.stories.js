@@ -10,3 +10,4 @@ export default {
     notes: "`import Search16 from 'box-ui-elements/es/icon/fill/Search16';`"
   }
 };
+//# sourceMappingURL=Search16.stories.js.map

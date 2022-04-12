@@ -53,3 +53,4 @@ var CollaboratorAvatarItem = function CollaboratorAvatarItem(props) {
 };
 
 export default CollaboratorAvatarItem;
+//# sourceMappingURL=CollaboratorAvatarItem.js.map

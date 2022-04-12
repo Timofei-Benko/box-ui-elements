@@ -9,3 +9,4 @@ global.Box = global.Box || {};
 global.Box.FilePicker = FilePicker;
 global.Box.FolderPicker = FolderPicker;
 global.Box.ContentPicker = ContentPicker;
+//# sourceMappingURL=ContentPickers.js.map

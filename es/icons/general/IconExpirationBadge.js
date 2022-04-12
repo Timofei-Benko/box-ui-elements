@@ -33,3 +33,4 @@ var IconExpirationBadge = function IconExpirationBadge(_ref) {
 };
 
 export default IconExpirationBadge;
+//# sourceMappingURL=IconExpirationBadge.js.map

@@ -30,3 +30,4 @@ var IconUnsync = function IconUnsync(_ref) {
 };
 
 export default IconUnsync;
+//# sourceMappingURL=IconUnsync.js.map

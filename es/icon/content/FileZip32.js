@@ -36,3 +36,4 @@ var FileZip32 = function FileZip32(props) {
 };
 
 export default FileZip32;
+//# sourceMappingURL=FileZip32.js.map

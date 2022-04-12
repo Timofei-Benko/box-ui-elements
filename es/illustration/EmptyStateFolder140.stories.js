@@ -10,3 +10,4 @@ export default {
     notes: "`import EmptyStateFolder140 from 'box-ui-elements/es/illustration/EmptyStateFolder140';`"
   }
 };
+//# sourceMappingURL=EmptyStateFolder140.stories.js.map

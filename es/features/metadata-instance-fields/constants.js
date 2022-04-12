@@ -4,3 +4,4 @@ export var FIELD_TYPE_INTEGER = 'integer';
 export var FIELD_TYPE_FLOAT = 'float';
 export var FIELD_TYPE_MULTISELECT = 'multiSelect';
 export var FIELD_TYPE_STRING = 'string';
+//# sourceMappingURL=constants.js.map

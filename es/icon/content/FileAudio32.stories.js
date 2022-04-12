@@ -10,3 +10,4 @@ export default {
     notes: "`import FileAudio32 from 'box-ui-elements/es/icon/content/FileAudio32';`"
   }
 };
+//# sourceMappingURL=FileAudio32.stories.js.map

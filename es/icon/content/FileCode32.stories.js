@@ -10,3 +10,4 @@ export default {
     notes: "`import FileCode32 from 'box-ui-elements/es/icon/content/FileCode32';`"
   }
 };
+//# sourceMappingURL=FileCode32.stories.js.map

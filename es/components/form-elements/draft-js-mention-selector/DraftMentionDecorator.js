@@ -14,3 +14,4 @@ var DraftMentionDecorator = new CompositeDecorator([{
   component: DraftMentionItem
 }]);
 export default DraftMentionDecorator;
+//# sourceMappingURL=DraftMentionDecorator.js.map

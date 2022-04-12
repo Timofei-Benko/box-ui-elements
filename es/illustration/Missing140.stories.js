@@ -10,3 +10,4 @@ export default {
     notes: "`import Missing140 from 'box-ui-elements/es/illustration/Missing140';`"
   }
 };
+//# sourceMappingURL=Missing140.stories.js.map

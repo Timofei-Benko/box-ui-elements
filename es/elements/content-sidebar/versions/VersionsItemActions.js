@@ -117,3 +117,4 @@ var VersionsItemActions = function VersionsItemActions(_ref) {
 };
 
 export default VersionsItemActions;
+//# sourceMappingURL=VersionsItemActions.js.map

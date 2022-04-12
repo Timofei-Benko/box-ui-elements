@@ -232,3 +232,4 @@ var PagesForMac32 = function PagesForMac32(props) {
 };
 
 export default PagesForMac32;
+//# sourceMappingURL=PagesForMac32.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import PlatformCam32 from 'box-ui-elements/es/icon/content/PlatformCam32';`"
   }
 };
+//# sourceMappingURL=PlatformCam32.stories.js.map

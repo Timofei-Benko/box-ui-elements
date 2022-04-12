@@ -26,3 +26,4 @@ var IconMaximize = function IconMaximize(_ref) {
 };
 
 export default IconMaximize;
+//# sourceMappingURL=IconMaximize.js.map

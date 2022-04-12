@@ -231,3 +231,4 @@ _defineProperty(SearchForm, "defaultProps", {
 });
 
 export default injectIntl(SearchForm);
+//# sourceMappingURL=SearchForm.js.map

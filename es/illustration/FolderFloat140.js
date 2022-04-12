@@ -71,3 +71,4 @@ var FolderFloat140 = function FolderFloat140(props) {
 };
 
 export default FolderFloat140;
+//# sourceMappingURL=FolderFloat140.js.map

@@ -27,3 +27,4 @@ var Info16 = function Info16(props) {
 };
 
 export default Info16;
+//# sourceMappingURL=Info16.js.map

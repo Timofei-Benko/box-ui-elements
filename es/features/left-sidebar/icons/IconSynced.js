@@ -29,3 +29,4 @@ var IconSynced = function IconSynced(_ref) {
 };
 
 export default IconSynced;
+//# sourceMappingURL=IconSynced.js.map

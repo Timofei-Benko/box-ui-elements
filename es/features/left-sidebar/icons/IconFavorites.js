@@ -29,3 +29,4 @@ var IconFavorites = function IconFavorites(_ref) {
 };
 
 export default IconFavorites;
+//# sourceMappingURL=IconFavorites.js.map

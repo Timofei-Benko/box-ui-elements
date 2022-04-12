@@ -8,3 +8,4 @@ var getDefaultPermissionLevel = function getDefaultPermissionLevel(inviteePermis
 };
 
 export default getDefaultPermissionLevel;
+//# sourceMappingURL=defaultPermissionLevel.js.map

@@ -39,3 +39,4 @@ var FileText32 = function FileText32(props) {
 };
 
 export default FileText32;
+//# sourceMappingURL=FileText32.js.map

@@ -29,3 +29,4 @@ var IconSecurityClassification = function IconSecurityClassification(_ref) {
 };
 
 export default IconSecurityClassification;
+//# sourceMappingURL=IconSecurityClassification.js.map

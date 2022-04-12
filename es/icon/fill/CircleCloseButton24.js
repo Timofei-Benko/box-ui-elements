@@ -35,3 +35,4 @@ var CircleCloseButton24 = function CircleCloseButton24(props) {
 };
 
 export default CircleCloseButton24;
+//# sourceMappingURL=CircleCloseButton24.js.map

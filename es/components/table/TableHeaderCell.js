@@ -23,3 +23,4 @@ var TableHeaderCell = function TableHeaderCell(_ref) {
 };
 
 export default TableHeaderCell;
+//# sourceMappingURL=TableHeaderCell.js.map

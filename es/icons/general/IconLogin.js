@@ -26,3 +26,4 @@ var IconLogin = function IconLogin(_ref) {
 };
 
 export default IconLogin;
+//# sourceMappingURL=IconLogin.js.map

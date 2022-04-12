@@ -25,3 +25,4 @@ var IconChatRound = function IconChatRound(_ref) {
 };
 
 export default IconChatRound;
+//# sourceMappingURL=IconChatRound.js.map

@@ -25,3 +25,4 @@ var IconExpand = function IconExpand(_ref) {
 };
 
 export default IconExpand;
+//# sourceMappingURL=IconExpand.js.map

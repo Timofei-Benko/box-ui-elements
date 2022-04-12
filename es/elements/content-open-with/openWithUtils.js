@@ -14,3 +14,4 @@ var isDisabledBecauseBoxToolsIsNotInstalled = function isDisabledBecauseBoxTools
 export default {
   isDisabledBecauseBoxToolsIsNotInstalled: isDisabledBecauseBoxToolsIsNotInstalled
 };
+//# sourceMappingURL=openWithUtils.js.map

@@ -56,3 +56,4 @@ var AccessStats = function AccessStats(_ref) {
 };
 
 export default AccessStats;
+//# sourceMappingURL=AccessStats.js.map

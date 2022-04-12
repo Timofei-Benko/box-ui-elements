@@ -10,3 +10,4 @@ export default {
     notes: "`import FileZip16 from 'box-ui-elements/es/icon/fill/FileZip16';`"
   }
 };
+//# sourceMappingURL=FileZip16.stories.js.map

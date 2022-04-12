@@ -28,11 +28,5 @@ var MessageContextProvider = function MessageContextProvider(_ref) {
   }, children);
 };
 
-MessageContextProvider.propTypes = {
-  children: PropTypes.node.isRequired,
-  messageApi: function messageApi() {
-    return (typeof MessageApi === "function" ? PropTypes.instanceOf(MessageApi).isRequired : PropTypes.any.isRequired).apply(this, arguments);
-  }
-};
 export default MessageContextProvider;
-import PropTypes from "prop-types";
+//# sourceMappingURL=MessageContextProvider.js.map

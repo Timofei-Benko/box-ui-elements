@@ -28,3 +28,4 @@ var IconApps = function IconApps(_ref) {
 };
 
 export default IconApps;
+//# sourceMappingURL=IconApps.js.map

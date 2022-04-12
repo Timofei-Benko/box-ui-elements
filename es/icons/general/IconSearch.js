@@ -27,3 +27,4 @@ var IconSearch = function IconSearch(_ref) {
 };
 
 export default IconSearch;
+//# sourceMappingURL=IconSearch.js.map

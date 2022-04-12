@@ -48,3 +48,4 @@ var shallowConnected = function shallowConnected(element) {
 export * from 'enzyme'; // Export wrapped methods
 
 export { mountConnected, shallowConnected };
+//# sourceMappingURL=enzyme.js.map

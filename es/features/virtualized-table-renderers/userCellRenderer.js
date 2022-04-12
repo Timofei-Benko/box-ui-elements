@@ -18,3 +18,4 @@ var userCellRenderer = function userCellRenderer(intl) {
 };
 
 export default userCellRenderer;
+//# sourceMappingURL=userCellRenderer.js.map

@@ -56,3 +56,4 @@ var Label = function Label(_ref) {
 };
 
 export default Label;
+//# sourceMappingURL=Label.js.map

@@ -34,3 +34,4 @@ var AsyncLoad = function AsyncLoad() {
 };
 
 export default AsyncLoad;
+//# sourceMappingURL=AsyncLoad.js.map

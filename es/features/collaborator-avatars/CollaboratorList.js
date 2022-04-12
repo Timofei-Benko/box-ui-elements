@@ -113,3 +113,4 @@ _defineProperty(CollaboratorList, "defaultProps", {
 });
 
 export default CollaboratorList;
+//# sourceMappingURL=CollaboratorList.js.map

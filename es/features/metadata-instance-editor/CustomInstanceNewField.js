@@ -172,3 +172,4 @@ function (_React$PureComponent) {
 
 export { CustomInstanceNewField as CustomInstanceNewFieldBase };
 export default injectIntl(CustomInstanceNewField);
+//# sourceMappingURL=CustomInstanceNewField.js.map

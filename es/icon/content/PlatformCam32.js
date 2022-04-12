@@ -34,3 +34,4 @@ var PlatformCam32 = function PlatformCam32(props) {
 };
 
 export default PlatformCam32;
+//# sourceMappingURL=PlatformCam32.js.map

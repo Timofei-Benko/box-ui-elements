@@ -28,3 +28,4 @@ var Star16 = function Star16(props) {
 };
 
 export default Star16;
+//# sourceMappingURL=Star16.js.map

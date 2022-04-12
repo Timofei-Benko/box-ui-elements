@@ -42,3 +42,4 @@ ClassifiedBadge.defaultProps = {
   color: bdlYellow50
 };
 export default ClassifiedBadge;
+//# sourceMappingURL=ClassifiedBadge.js.map

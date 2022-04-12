@@ -187,3 +187,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default FocusTrap;
+//# sourceMappingURL=FocusTrap.js.map

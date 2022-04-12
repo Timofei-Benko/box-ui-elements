@@ -53,3 +53,4 @@ var UnifiedShareModalTitle = function UnifiedShareModalTitle(_ref) {
 };
 
 export default UnifiedShareModalTitle;
+//# sourceMappingURL=UnifiedShareModalTitle.js.map

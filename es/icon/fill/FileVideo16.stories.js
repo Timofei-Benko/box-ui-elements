@@ -10,3 +10,4 @@ export default {
     notes: "`import FileVideo16 from 'box-ui-elements/es/icon/fill/FileVideo16';`"
   }
 };
+//# sourceMappingURL=FileVideo16.stories.js.map

@@ -26,3 +26,4 @@ var IconGraduationHat = function IconGraduationHat(_ref) {
 };
 
 export default IconGraduationHat;
+//# sourceMappingURL=IconGraduationHat.js.map

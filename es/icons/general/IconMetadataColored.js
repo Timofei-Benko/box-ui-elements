@@ -39,3 +39,4 @@ var IconMetadataColored = function IconMetadataColored(_ref) {
 };
 
 export default IconMetadataColored;
+//# sourceMappingURL=IconMetadataColored.js.map

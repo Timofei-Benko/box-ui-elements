@@ -86,3 +86,4 @@ var FavoritesEmptyState = function FavoritesEmptyState(_ref) {
 };
 
 export default FavoritesEmptyState;
+//# sourceMappingURL=FavoritesEmptyState.js.map

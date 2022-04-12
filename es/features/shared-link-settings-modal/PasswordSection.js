@@ -81,3 +81,4 @@ PasswordSection.propTypes = {
 };
 export { PasswordSection as PasswordSectionBase };
 export default injectIntl(PasswordSection);
+//# sourceMappingURL=PasswordSection.js.map

@@ -45,3 +45,4 @@ var LegalContract56 = function LegalContract56(props) {
 };
 
 export default LegalContract56;
+//# sourceMappingURL=LegalContract56.js.map

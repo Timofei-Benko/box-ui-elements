@@ -33,3 +33,4 @@ var mergeContacts = function mergeContacts(existingContacts, fetchedContacts) {
 };
 
 export default mergeContacts;
+//# sourceMappingURL=mergeContacts.js.map

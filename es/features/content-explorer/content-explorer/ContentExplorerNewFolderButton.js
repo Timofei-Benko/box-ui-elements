@@ -33,3 +33,4 @@ ContentExplorerNewFolderButton.propTypes = {
 };
 export { ContentExplorerNewFolderButton as ContentExplorerNewFolderButtonBase };
 export default injectIntl(ContentExplorerNewFolderButton);
+//# sourceMappingURL=ContentExplorerNewFolderButton.js.map

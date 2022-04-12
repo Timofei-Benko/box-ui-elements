@@ -26,3 +26,4 @@ var IconRemove = function IconRemove(_ref) {
 };
 
 export default IconRemove;
+//# sourceMappingURL=IconRemove.js.map

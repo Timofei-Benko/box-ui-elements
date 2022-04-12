@@ -10,3 +10,4 @@ export default {
     notes: "`import CollectionStar140 from 'box-ui-elements/es/illustration/CollectionStar140';`"
   }
 };
+//# sourceMappingURL=CollectionStar140.stories.js.map

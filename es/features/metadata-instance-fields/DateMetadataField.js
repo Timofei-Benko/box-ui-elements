@@ -38,3 +38,4 @@ var DateMetadataField = function DateMetadataField(_ref) {
 
 export { DateMetadataField as DateMetadataFieldBase };
 export default injectIntl(DateMetadataField);
+//# sourceMappingURL=DateMetadataField.js.map

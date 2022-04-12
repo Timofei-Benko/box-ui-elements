@@ -26,3 +26,4 @@ var View16 = function View16(props) {
 };
 
 export default View16;
+//# sourceMappingURL=View16.js.map

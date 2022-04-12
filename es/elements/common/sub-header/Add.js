@@ -28,3 +28,4 @@ var Add = function Add(_ref) {
 };
 
 export default Add;
+//# sourceMappingURL=Add.js.map

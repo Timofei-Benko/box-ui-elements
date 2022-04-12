@@ -70,3 +70,4 @@ var IconAlertDefault = function IconAlertDefault(_ref) {
 };
 
 export default IconAlertDefault;
+//# sourceMappingURL=IconAlertDefault.js.map

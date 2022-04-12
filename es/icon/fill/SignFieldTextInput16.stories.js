@@ -10,3 +10,4 @@ export default {
     notes: "`import SignFieldTextInput16 from 'box-ui-elements/es/icon/fill/SignFieldTextInput16';`"
   }
 };
+//# sourceMappingURL=SignFieldTextInput16.stories.js.map

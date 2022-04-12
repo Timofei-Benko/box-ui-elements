@@ -31,3 +31,4 @@ var IconAdobeSign = function IconAdobeSign(_ref) {
 };
 
 export default IconAdobeSign;
+//# sourceMappingURL=IconAdobeSign.js.map

@@ -53,3 +53,4 @@ export default {
   getVersionAction: getVersionAction,
   getVersionUser: getVersionUser
 };
+//# sourceMappingURL=version.js.map

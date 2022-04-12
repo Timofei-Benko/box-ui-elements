@@ -13,3 +13,4 @@ var TetherPosition;
 })(TetherPosition || (TetherPosition = {}));
 
 export default TetherPosition;
+//# sourceMappingURL=tether-positions.js.map

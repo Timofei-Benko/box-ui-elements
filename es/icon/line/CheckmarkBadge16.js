@@ -28,3 +28,4 @@ var CheckmarkBadge16 = function CheckmarkBadge16(props) {
 };
 
 export default CheckmarkBadge16;
+//# sourceMappingURL=CheckmarkBadge16.js.map

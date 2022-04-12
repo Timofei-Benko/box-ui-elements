@@ -14,3 +14,4 @@ var Footer = function Footer(_ref) {
 };
 
 export default Footer;
+//# sourceMappingURL=Footer.js.map

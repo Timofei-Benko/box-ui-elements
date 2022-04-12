@@ -86,3 +86,4 @@ var PreviewDialog = function PreviewDialog(_ref) {
 };
 
 export default injectIntl(PreviewDialog);
+//# sourceMappingURL=PreviewDialog.js.map

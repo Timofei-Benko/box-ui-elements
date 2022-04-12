@@ -27,3 +27,4 @@ var PaperAirplane16 = function PaperAirplane16(props) {
 };
 
 export default PaperAirplane16;
+//# sourceMappingURL=PaperAirplane16.js.map

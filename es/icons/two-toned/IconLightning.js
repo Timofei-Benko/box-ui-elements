@@ -30,3 +30,4 @@ var IconLightning = function IconLightning(_ref) {
 };
 
 export default IconLightning;
+//# sourceMappingURL=IconLightning.js.map

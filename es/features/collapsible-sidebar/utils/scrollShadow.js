@@ -24,3 +24,4 @@ var getScrollShadowClassName = function getScrollShadowClassName(scrollTop, scro
 };
 
 export { getScrollShadowClassName, getScrollShadowState };
+//# sourceMappingURL=scrollShadow.js.map

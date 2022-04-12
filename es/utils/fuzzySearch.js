@@ -81,3 +81,4 @@ var fuzzySearch = function fuzzySearch(search, content) {
 };
 
 export default fuzzySearch;
+//# sourceMappingURL=fuzzySearch.js.map

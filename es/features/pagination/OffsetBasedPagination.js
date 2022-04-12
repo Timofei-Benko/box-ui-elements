@@ -59,3 +59,4 @@ var OffsetBasedPagination = function OffsetBasedPagination(_ref) {
 };
 
 export default OffsetBasedPagination;
+//# sourceMappingURL=OffsetBasedPagination.js.map

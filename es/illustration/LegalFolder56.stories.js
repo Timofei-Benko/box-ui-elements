@@ -10,3 +10,4 @@ export default {
     notes: "`import LegalFolder56 from 'box-ui-elements/es/illustration/LegalFolder56';`"
   }
 };
+//# sourceMappingURL=LegalFolder56.stories.js.map

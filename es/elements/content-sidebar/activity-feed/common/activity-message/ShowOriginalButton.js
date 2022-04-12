@@ -16,3 +16,4 @@ var ShowOriginalButton = function ShowOriginalButton(_ref) {
 };
 
 export default ShowOriginalButton;
+//# sourceMappingURL=ShowOriginalButton.js.map

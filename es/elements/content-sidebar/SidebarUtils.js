@@ -262,3 +262,4 @@ function () {
 }();
 
 export default SidebarUtils;
+//# sourceMappingURL=SidebarUtils.js.map

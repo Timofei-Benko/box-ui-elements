@@ -10,3 +10,4 @@ export default {
     notes: "`import SyncArrows16 from 'box-ui-elements/es/icon/line/SyncArrows16';`"
   }
 };
+//# sourceMappingURL=SyncArrows16.stories.js.map

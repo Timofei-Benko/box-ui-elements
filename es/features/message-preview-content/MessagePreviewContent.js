@@ -70,3 +70,4 @@ function MessagePreviewContent(_ref) {
 }
 
 export default MessagePreviewContent;
+//# sourceMappingURL=MessagePreviewContent.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderPersonal16 from 'box-ui-elements/es/icon/fill/FolderPersonal16';`"
   }
 };
+//# sourceMappingURL=FolderPersonal16.stories.js.map

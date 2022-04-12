@@ -10,3 +10,4 @@ export default {
     notes: "`import Caret8 from 'box-ui-elements/es/icon/fill/Caret8';`"
   }
 };
+//# sourceMappingURL=Caret8.stories.js.map

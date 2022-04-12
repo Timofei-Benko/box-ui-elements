@@ -19,3 +19,4 @@ var IconFileCode = function IconFileCode(props) {
 };
 
 export default IconFileCode;
+//# sourceMappingURL=IconFileCode.js.map

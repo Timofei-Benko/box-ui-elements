@@ -10,3 +10,4 @@ export default {
     notes: "`import FilePresentation32 from 'box-ui-elements/es/icon/content/FilePresentation32';`"
   }
 };
+//# sourceMappingURL=FilePresentation32.stories.js.map

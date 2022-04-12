@@ -35,3 +35,4 @@ var FileExcel32 = function FileExcel32(props) {
 };
 
 export default FileExcel32;
+//# sourceMappingURL=FileExcel32.js.map

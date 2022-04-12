@@ -10,3 +10,4 @@ export default {
     notes: "`import FilePowerpoint16 from 'box-ui-elements/es/icon/fill/FilePowerpoint16';`"
   }
 };
+//# sourceMappingURL=FilePowerpoint16.stories.js.map

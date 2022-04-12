@@ -24,3 +24,4 @@ var withErrorBoundary = function withErrorBoundary(errorOrigin) {
 };
 
 export default withErrorBoundary;
+//# sourceMappingURL=withErrorBoundary.js.map

@@ -26,3 +26,4 @@ var IconPuzzlePiece = function IconPuzzlePiece(_ref) {
 };
 
 export default IconPuzzlePiece;
+//# sourceMappingURL=IconPuzzlePiece.js.map

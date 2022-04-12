@@ -30,3 +30,4 @@ var IconBoxRelay = function IconBoxRelay(_ref) {
 };
 
 export default IconBoxRelay;
+//# sourceMappingURL=IconBoxRelay.js.map

@@ -248,9 +248,5 @@ var makeDroppable = function makeDroppable(_ref) {
   };
 };
 
-makeDroppable.propTypes = {
-  dropValidator: PropTypes.func,
-  onDrop: PropTypes.func
-};
 export default makeDroppable;
-import PropTypes from "prop-types";
+//# sourceMappingURL=makeDroppable.js.map

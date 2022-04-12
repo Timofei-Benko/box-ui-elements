@@ -35,3 +35,4 @@ var IconRetention = function IconRetention(_ref) {
 };
 
 export default IconRetention;
+//# sourceMappingURL=IconRetention.js.map

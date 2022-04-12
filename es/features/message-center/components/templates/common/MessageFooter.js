@@ -42,3 +42,4 @@ function MessageFooter(_ref) {
 }
 
 export default MessageFooter;
+//# sourceMappingURL=MessageFooter.js.map

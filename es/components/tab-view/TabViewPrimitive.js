@@ -385,3 +385,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default TabViewPrimitive;
+//# sourceMappingURL=TabViewPrimitive.js.map

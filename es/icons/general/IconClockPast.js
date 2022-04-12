@@ -51,3 +51,4 @@ var IconClockPast = function IconClockPast(_ref) {
 };
 
 export default IconClockPast;
+//# sourceMappingURL=IconClockPast.js.map

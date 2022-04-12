@@ -1321,3 +1321,4 @@ _defineProperty(ContentPreview, "defaultProps", {
 
 export { ContentPreview as ContentPreviewComponent };
 export default flow([makeResponsive, withAnnotatorContext, withAnnotations, withRouter, withNavRouter, withFeatureProvider, withLogger(ORIGIN_CONTENT_PREVIEW), withErrorBoundary(ORIGIN_CONTENT_PREVIEW)])(ContentPreview);
+//# sourceMappingURL=ContentPreview.js.map

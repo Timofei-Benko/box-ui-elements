@@ -23,3 +23,4 @@ var DraggableList = function DraggableList(_ref) {
 };
 
 export default DraggableList;
+//# sourceMappingURL=DraggableList.js.map

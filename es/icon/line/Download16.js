@@ -28,3 +28,4 @@ var Download16 = function Download16(props) {
 };
 
 export default Download16;
+//# sourceMappingURL=Download16.js.map

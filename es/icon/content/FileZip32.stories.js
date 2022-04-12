@@ -10,3 +10,4 @@ export default {
     notes: "`import FileZip32 from 'box-ui-elements/es/icon/content/FileZip32';`"
   }
 };
+//# sourceMappingURL=FileZip32.stories.js.map

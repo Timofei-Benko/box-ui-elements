@@ -32,3 +32,4 @@ var InfoBadge16 = function InfoBadge16(props) {
 };
 
 export default InfoBadge16;
+//# sourceMappingURL=InfoBadge16.js.map

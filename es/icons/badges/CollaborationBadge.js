@@ -33,3 +33,4 @@ var CollaborationBadge = function CollaborationBadge(_ref) {
 };
 
 export default CollaborationBadge;
+//# sourceMappingURL=CollaborationBadge.js.map

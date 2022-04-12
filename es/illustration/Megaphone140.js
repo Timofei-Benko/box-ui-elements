@@ -66,3 +66,4 @@ var Megaphone140 = function Megaphone140(props) {
 };
 
 export default Megaphone140;
+//# sourceMappingURL=Megaphone140.js.map

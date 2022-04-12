@@ -20,3 +20,4 @@ export default function PreviewMask(_ref) {
     extension: extension
   }));
 }
+//# sourceMappingURL=PreviewMask.js.map

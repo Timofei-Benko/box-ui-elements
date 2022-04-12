@@ -26,3 +26,4 @@ var IconDoubleArrows = function IconDoubleArrows(_ref) {
 };
 
 export default IconDoubleArrows;
+//# sourceMappingURL=IconDoubleArrows.js.map

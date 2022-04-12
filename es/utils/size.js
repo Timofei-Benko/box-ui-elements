@@ -18,3 +18,4 @@ export default function (size) {
   var exp = Math.floor(Math.log(size) / Math.log(kilo));
   return "".concat(parseFloat((size / Math.pow(kilo, exp)).toFixed(decimals)), " ").concat(sizes[exp]);
 }
+//# sourceMappingURL=size.js.map

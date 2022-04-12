@@ -45,3 +45,4 @@ var IconAlertCircle = function IconAlertCircle(_ref) {
 };
 
 export default IconAlertCircle;
+//# sourceMappingURL=IconAlertCircle.js.map

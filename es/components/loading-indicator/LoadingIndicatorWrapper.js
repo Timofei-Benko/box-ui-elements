@@ -43,3 +43,4 @@ var LoadingIndicatorWrapper = function LoadingIndicatorWrapper(_ref) {
 };
 
 export default LoadingIndicatorWrapper;
+//# sourceMappingURL=LoadingIndicatorWrapper.js.map

@@ -79,3 +79,4 @@ _defineProperty(LeftNavPlaceholder, "defaultProps", {
 });
 
 export default LeftNavPlaceholder;
+//# sourceMappingURL=LeftNavPlaceholder.js.map

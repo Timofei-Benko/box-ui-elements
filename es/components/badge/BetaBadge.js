@@ -24,3 +24,4 @@ var BetaBadge = function BetaBadge(_ref) {
 };
 
 export default BetaBadge;
+//# sourceMappingURL=BetaBadge.js.map

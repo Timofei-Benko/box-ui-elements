@@ -27,3 +27,4 @@ var IconLeftArrow = function IconLeftArrow(_ref) {
 };
 
 export default IconLeftArrow;
+//# sourceMappingURL=IconLeftArrow.js.map

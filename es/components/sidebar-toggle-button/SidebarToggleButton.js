@@ -66,3 +66,4 @@ var SidebarToggleButton = function SidebarToggleButton(_ref) {
 };
 
 export default injectIntl(SidebarToggleButton);
+//# sourceMappingURL=SidebarToggleButton.js.map

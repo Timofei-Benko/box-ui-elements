@@ -10,3 +10,4 @@ export default {
     notes: "`import PaperAirplane16 from 'box-ui-elements/es/icon/fill/PaperAirplane16';`"
   }
 };
+//# sourceMappingURL=PaperAirplane16.stories.js.map

@@ -28,3 +28,4 @@ var IconFileThreeD = function IconFileThreeD(props) {
 };
 
 export default IconFileThreeD;
+//# sourceMappingURL=IconFileThreeD.js.map

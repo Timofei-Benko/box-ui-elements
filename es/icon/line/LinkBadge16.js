@@ -28,3 +28,4 @@ var LinkBadge16 = function LinkBadge16(props) {
 };
 
 export default LinkBadge16;
+//# sourceMappingURL=LinkBadge16.js.map

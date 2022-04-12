@@ -28,3 +28,4 @@ var Plus16 = function Plus16(props) {
 };
 
 export default Plus16;
+//# sourceMappingURL=Plus16.js.map

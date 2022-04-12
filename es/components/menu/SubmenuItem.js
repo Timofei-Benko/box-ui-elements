@@ -231,3 +231,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default SubmenuItem;
+//# sourceMappingURL=SubmenuItem.js.map

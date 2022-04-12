@@ -33,3 +33,4 @@ var BoxSign32 = function BoxSign32(props) {
 };
 
 export default BoxSign32;
+//# sourceMappingURL=BoxSign32.js.map

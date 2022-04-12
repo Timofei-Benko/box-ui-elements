@@ -44,3 +44,4 @@ var SidebarNotices = function SidebarNotices(_ref) {
 };
 
 export default SidebarNotices;
+//# sourceMappingURL=SidebarNotices.js.map

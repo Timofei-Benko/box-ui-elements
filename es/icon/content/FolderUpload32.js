@@ -33,3 +33,4 @@ var FolderUpload32 = function FolderUpload32(props) {
 };
 
 export default FolderUpload32;
+//# sourceMappingURL=FolderUpload32.js.map

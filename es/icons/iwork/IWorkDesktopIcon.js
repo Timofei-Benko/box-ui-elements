@@ -39,3 +39,4 @@ var IWorkDesktopIcon = function IWorkDesktopIcon(_ref) {
 };
 
 export default IWorkDesktopIcon;
+//# sourceMappingURL=IWorkDesktopIcon.js.map

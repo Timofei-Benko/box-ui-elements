@@ -176,3 +176,4 @@ function (_TasksBase) {
 }(TasksBase);
 
 export default TaskCollaborators;
+//# sourceMappingURL=TaskCollaborators.js.map

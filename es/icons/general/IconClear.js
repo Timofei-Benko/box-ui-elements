@@ -34,3 +34,4 @@ var IconClear = function IconClear(_ref) {
 };
 
 export default IconClear;
+//# sourceMappingURL=IconClear.js.map

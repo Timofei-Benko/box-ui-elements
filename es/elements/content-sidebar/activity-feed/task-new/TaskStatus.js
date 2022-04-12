@@ -17,3 +17,4 @@ var Status = React.memo(function (_ref) {
   }, React.createElement(LabelPill.Text, null, React.createElement(FormattedMessage, statusMessageKeyMap[status])));
 });
 export default Status;
+//# sourceMappingURL=TaskStatus.js.map

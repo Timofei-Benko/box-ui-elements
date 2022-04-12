@@ -36,3 +36,4 @@ var FileBookmark32 = function FileBookmark32(props) {
 };
 
 export default FileBookmark32;
+//# sourceMappingURL=FileBookmark32.js.map

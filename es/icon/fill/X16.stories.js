@@ -10,3 +10,4 @@ export default {
     notes: "`import X16 from 'box-ui-elements/es/icon/fill/X16';`"
   }
 };
+//# sourceMappingURL=X16.stories.js.map

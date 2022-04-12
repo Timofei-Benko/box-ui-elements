@@ -10,3 +10,4 @@ export default {
     notes: "`import BarChart16 from 'box-ui-elements/es/icon/fill/BarChart16';`"
   }
 };
+//# sourceMappingURL=BarChart16.stories.js.map

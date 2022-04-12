@@ -198,3 +198,4 @@ function (_MarkerBasedAPI) {
 }(MarkerBasedAPI);
 
 export default AppActivity;
+//# sourceMappingURL=AppActivity.js.map

@@ -54,3 +54,4 @@ var EnumMetadataField = function EnumMetadataField(_ref) {
 
 export { EnumMetadataField as EnumMetadataFieldBase };
 export default injectIntl(EnumMetadataField);
+//# sourceMappingURL=EnumMetadataField.js.map

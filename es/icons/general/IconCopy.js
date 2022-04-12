@@ -29,3 +29,4 @@ var IconCopy = function IconCopy(_ref) {
 };
 
 export default IconCopy;
+//# sourceMappingURL=IconCopy.js.map

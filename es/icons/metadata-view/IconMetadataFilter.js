@@ -23,3 +23,4 @@ var IconMetadataFilter = function IconMetadataFilter(_ref) {
 };
 
 export default IconMetadataFilter;
+//# sourceMappingURL=IconMetadataFilter.js.map

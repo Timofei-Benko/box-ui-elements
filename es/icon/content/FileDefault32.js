@@ -33,3 +33,4 @@ var FileDefault32 = function FileDefault32(props) {
 };
 
 export default FileDefault32;
+//# sourceMappingURL=FileDefault32.js.map

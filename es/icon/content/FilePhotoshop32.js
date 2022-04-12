@@ -39,3 +39,4 @@ var FilePhotoshop32 = function FilePhotoshop32(props) {
 };
 
 export default FilePhotoshop32;
+//# sourceMappingURL=FilePhotoshop32.js.map

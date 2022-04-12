@@ -31,3 +31,4 @@ var IconRetry = function IconRetry(_ref) {
 };
 
 export default IconRetry;
+//# sourceMappingURL=IconRetry.js.map

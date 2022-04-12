@@ -57,3 +57,4 @@ ItemListButton.propTypes = {
   name: PropTypes.string.isRequired
 };
 export default ItemListButton;
+//# sourceMappingURL=ItemListButton.js.map

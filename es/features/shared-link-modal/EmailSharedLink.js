@@ -278,3 +278,4 @@ _defineProperty(EmailSharedLink, "defaultProps", {
 
 export { EmailSharedLink as EmailSharedLinkBase };
 export default injectIntl(EmailSharedLink);
+//# sourceMappingURL=EmailSharedLink.js.map

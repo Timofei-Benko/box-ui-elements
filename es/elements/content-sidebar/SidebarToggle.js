@@ -29,3 +29,4 @@ var SidebarToggle = function SidebarToggle(_ref) {
 
 export { SidebarToggle as SidebarToggleComponent };
 export default withRouter(SidebarToggle);
+//# sourceMappingURL=SidebarToggle.js.map

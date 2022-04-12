@@ -57,3 +57,4 @@ var IconAlertBlank = function IconAlertBlank(_ref) {
 };
 
 export default IconAlertBlank;
+//# sourceMappingURL=IconAlertBlank.js.map

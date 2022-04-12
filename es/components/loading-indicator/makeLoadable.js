@@ -21,3 +21,4 @@ var makeLoadable = function makeLoadable(BaseComponent) {
 };
 
 export default makeLoadable;
+//# sourceMappingURL=makeLoadable.js.map

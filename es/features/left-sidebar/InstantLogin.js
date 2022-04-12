@@ -21,3 +21,4 @@ var InstantLogin = function InstantLogin(_ref) {
 };
 
 export default InstantLogin;
+//# sourceMappingURL=InstantLogin.js.map

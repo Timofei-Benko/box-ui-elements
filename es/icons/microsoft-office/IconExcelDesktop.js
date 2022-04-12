@@ -114,3 +114,4 @@ _defineProperty(IconExcelDesktop, "defaultProps", {
 });
 
 export default IconExcelDesktop;
+//# sourceMappingURL=IconExcelDesktop.js.map

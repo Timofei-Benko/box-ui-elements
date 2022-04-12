@@ -10,3 +10,4 @@ export default {
     notes: "`import ClockArrow16 from 'box-ui-elements/es/icon/line/ClockArrow16';`"
   }
 };
+//# sourceMappingURL=ClockArrow16.stories.js.map

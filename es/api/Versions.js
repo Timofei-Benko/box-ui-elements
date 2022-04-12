@@ -358,3 +358,4 @@ function (_OffsetBasedAPI) {
 }(OffsetBasedAPI);
 
 export default Versions;
+//# sourceMappingURL=Versions.js.map

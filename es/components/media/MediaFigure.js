@@ -21,3 +21,4 @@ var MediaFigure = function MediaFigure(_ref) {
 };
 
 export default MediaFigure;
+//# sourceMappingURL=MediaFigure.js.map

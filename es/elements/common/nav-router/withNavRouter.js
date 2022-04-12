@@ -22,3 +22,4 @@ var withNavRouter = function withNavRouter(Component) {
 };
 
 export default withNavRouter;
+//# sourceMappingURL=withNavRouter.js.map

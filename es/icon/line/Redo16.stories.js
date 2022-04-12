@@ -10,3 +10,4 @@ export default {
     notes: "`import Redo16 from 'box-ui-elements/es/icon/line/Redo16';`"
   }
 };
+//# sourceMappingURL=Redo16.stories.js.map

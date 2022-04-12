@@ -19,3 +19,4 @@ QuickSearchMessage.defaultProps = {
   isShown: false
 };
 export default QuickSearchMessage;
+//# sourceMappingURL=QuickSearchMessage.js.map

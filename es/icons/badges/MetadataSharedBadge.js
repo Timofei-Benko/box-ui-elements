@@ -31,3 +31,4 @@ var MetadataSharedBadge = function MetadataSharedBadge(_ref) {
 };
 
 export default MetadataSharedBadge;
+//# sourceMappingURL=MetadataSharedBadge.js.map

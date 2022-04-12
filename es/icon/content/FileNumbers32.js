@@ -36,3 +36,4 @@ var FileNumbers32 = function FileNumbers32(props) {
 };
 
 export default FileNumbers32;
+//# sourceMappingURL=FileNumbers32.js.map

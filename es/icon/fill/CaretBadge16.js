@@ -28,3 +28,4 @@ var CaretBadge16 = function CaretBadge16(props) {
 };
 
 export default CaretBadge16;
+//# sourceMappingURL=CaretBadge16.js.map

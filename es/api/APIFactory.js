@@ -837,3 +837,4 @@ function () {
 }();
 
 export default APIFactory;
+//# sourceMappingURL=APIFactory.js.map

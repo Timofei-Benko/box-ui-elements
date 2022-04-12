@@ -426,3 +426,4 @@ _defineProperty(Task, "defaultProps", {
 
 export { Task as TaskComponent };
 export default flow([withFeatureConsumer, withAPIContext])(Task);
+//# sourceMappingURL=Task.js.map

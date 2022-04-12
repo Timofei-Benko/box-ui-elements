@@ -20,3 +20,4 @@ export default (function (_onClick) {
     });
   };
 });
+//# sourceMappingURL=removeCellRenderer.js.map

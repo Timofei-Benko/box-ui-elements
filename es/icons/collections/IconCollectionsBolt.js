@@ -28,3 +28,4 @@ var IconCollectionsBolt = function IconCollectionsBolt(_ref) {
 };
 
 export default IconCollectionsBolt;
+//# sourceMappingURL=IconCollectionsBolt.js.map

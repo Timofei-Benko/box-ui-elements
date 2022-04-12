@@ -10,3 +10,4 @@ export default {
     notes: "`import ExclamationMarkBadge16 from 'box-ui-elements/es/icon/line/ExclamationMarkBadge16';`"
   }
 };
+//# sourceMappingURL=ExclamationMarkBadge16.stories.js.map

@@ -18,3 +18,4 @@ var AvatarImage = function AvatarImage(_ref) {
 };
 
 export default AvatarImage;
+//# sourceMappingURL=AvatarImage.js.map

@@ -86,3 +86,4 @@ export var SKILLS_TARGETS = {
   }
 };
 export var INTERACTION_TARGET = 'data-resin-target';
+//# sourceMappingURL=interactionTargets.js.map

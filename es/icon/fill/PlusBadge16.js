@@ -28,3 +28,4 @@ var PlusBadge16 = function PlusBadge16(props) {
 };
 
 export default PlusBadge16;
+//# sourceMappingURL=PlusBadge16.js.map

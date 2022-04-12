@@ -22,3 +22,4 @@ var IconFileZip = function IconFileZip(props) {
 };
 
 export default IconFileZip;
+//# sourceMappingURL=IconFileZip.js.map

@@ -11,3 +11,4 @@ var HiddenLabel = function HiddenLabel(_ref) {
 };
 
 export default HiddenLabel;
+//# sourceMappingURL=HiddenLabel.js.map

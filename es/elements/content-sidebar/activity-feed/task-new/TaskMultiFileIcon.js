@@ -19,3 +19,4 @@ var TaskMultiFileIcon = function TaskMultiFileIcon(_ref) {
 };
 
 export default TaskMultiFileIcon;
+//# sourceMappingURL=TaskMultiFileIcon.js.map

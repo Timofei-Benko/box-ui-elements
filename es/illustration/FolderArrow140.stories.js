@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderArrow140 from 'box-ui-elements/es/illustration/FolderArrow140';`"
   }
 };
+//# sourceMappingURL=FolderArrow140.stories.js.map

@@ -28,3 +28,4 @@ var FilePowerpoint16 = function FilePowerpoint16(props) {
 };
 
 export default FilePowerpoint16;
+//# sourceMappingURL=FilePowerpoint16.js.map

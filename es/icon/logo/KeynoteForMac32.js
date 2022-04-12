@@ -159,3 +159,4 @@ var KeynoteForMac32 = function KeynoteForMac32(props) {
 };
 
 export default KeynoteForMac32;
+//# sourceMappingURL=KeynoteForMac32.js.map

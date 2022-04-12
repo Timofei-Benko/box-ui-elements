@@ -51,3 +51,4 @@ SlideCarouselPrimitive.defaultProps = {
   onSelection: function onSelection() {}
 };
 export default SlideCarouselPrimitive;
+//# sourceMappingURL=SlideCarouselPrimitive.js.map

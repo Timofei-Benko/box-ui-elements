@@ -40,3 +40,4 @@ var QueryBar = function QueryBar(_ref) {
 };
 
 export default QueryBar;
+//# sourceMappingURL=QueryBar.js.map

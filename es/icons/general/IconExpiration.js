@@ -65,3 +65,4 @@ var IconExpiration = function IconExpiration(_ref) {
 };
 
 export default IconExpiration;
+//# sourceMappingURL=IconExpiration.js.map

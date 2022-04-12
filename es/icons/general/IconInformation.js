@@ -26,3 +26,4 @@ var IconInformation = function IconInformation(_ref) {
 };
 
 export default IconInformation;
+//# sourceMappingURL=IconInformation.js.map

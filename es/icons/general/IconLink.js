@@ -31,3 +31,4 @@ var IconLink = function IconLink(_ref) {
 };
 
 export default IconLink;
+//# sourceMappingURL=IconLink.js.map

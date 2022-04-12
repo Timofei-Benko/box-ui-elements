@@ -10,3 +10,4 @@ export default {
     notes: "`import PagesForMac32 from 'box-ui-elements/es/icon/logo/PagesForMac32';`"
   }
 };
+//# sourceMappingURL=PagesForMac32.stories.js.map

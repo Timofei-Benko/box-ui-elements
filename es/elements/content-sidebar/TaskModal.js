@@ -52,3 +52,4 @@ var TaskModal = function TaskModal(props) {
 };
 
 export default TaskModal;
+//# sourceMappingURL=TaskModal.js.map

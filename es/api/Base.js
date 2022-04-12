@@ -402,3 +402,4 @@ function () {
 }();
 
 export default Base;
+//# sourceMappingURL=Base.js.map

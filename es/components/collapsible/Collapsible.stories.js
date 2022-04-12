@@ -44,3 +44,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=Collapsible.stories.js.map

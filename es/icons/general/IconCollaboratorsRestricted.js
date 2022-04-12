@@ -28,3 +28,4 @@ var IconCollaboratorsRestricted = function IconCollaboratorsRestricted(_ref) {
 };
 
 export default IconCollaboratorsRestricted;
+//# sourceMappingURL=IconCollaboratorsRestricted.js.map

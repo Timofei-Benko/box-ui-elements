@@ -224,3 +224,4 @@ function (_Base) {
 }(Base);
 
 export default OffsetBasedApi;
+//# sourceMappingURL=OffsetBasedAPI.js.map

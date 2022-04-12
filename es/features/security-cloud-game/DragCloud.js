@@ -81,3 +81,4 @@ DragCloud.propTypes = {
 }; // Actual export
 
 export default DragCloud;
+//# sourceMappingURL=DragCloud.js.map

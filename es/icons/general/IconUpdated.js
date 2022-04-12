@@ -38,3 +38,4 @@ var IconUpdated = function IconUpdated(_ref) {
 };
 
 export default IconUpdated;
+//# sourceMappingURL=IconUpdated.js.map

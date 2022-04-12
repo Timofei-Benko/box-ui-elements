@@ -10,3 +10,4 @@ export default {
     notes: "`import Playbook56 from 'box-ui-elements/es/illustration/Playbook56';`"
   }
 };
+//# sourceMappingURL=Playbook56.stories.js.map

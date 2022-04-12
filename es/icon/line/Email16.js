@@ -28,3 +28,4 @@ var Email16 = function Email16(props) {
 };
 
 export default Email16;
+//# sourceMappingURL=Email16.js.map

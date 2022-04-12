@@ -25,3 +25,4 @@ var IconMagicWand = function IconMagicWand(_ref) {
 };
 
 export default IconMagicWand;
+//# sourceMappingURL=IconMagicWand.js.map

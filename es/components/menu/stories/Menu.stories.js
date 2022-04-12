@@ -67,3 +67,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=Menu.stories.js.map

@@ -56,3 +56,4 @@ function (_ItemCollaborations) {
 }(ItemCollaborations);
 
 export default FolderCollaborations;
+//# sourceMappingURL=FolderCollaborations.js.map

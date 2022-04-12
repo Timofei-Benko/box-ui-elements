@@ -166,3 +166,4 @@ _defineProperty(ModalDialog, "defaultProps", {
 
 export { ModalDialog as ModalDialogBase };
 export default injectIntl(ModalDialog);
+//# sourceMappingURL=ModalDialog.js.map

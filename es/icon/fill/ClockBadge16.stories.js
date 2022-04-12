@@ -10,3 +10,4 @@ export default {
     notes: "`import ClockBadge16 from 'box-ui-elements/es/icon/fill/ClockBadge16';`"
   }
 };
+//# sourceMappingURL=ClockBadge16.stories.js.map

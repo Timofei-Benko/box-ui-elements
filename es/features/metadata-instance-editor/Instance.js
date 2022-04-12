@@ -666,3 +666,4 @@ _defineProperty(Instance, "defaultProps", {
 
 export { Instance as InstanceBase };
 export default injectIntl(Instance);
+//# sourceMappingURL=Instance.js.map

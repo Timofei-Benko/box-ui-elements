@@ -48,3 +48,4 @@ var FileBoxNote32 = function FileBoxNote32(props) {
 };
 
 export default FileBoxNote32;
+//# sourceMappingURL=FileBoxNote32.js.map

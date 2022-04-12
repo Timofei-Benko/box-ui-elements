@@ -10,3 +10,4 @@ export default {
     notes: "`import SignOthers32 from 'box-ui-elements/es/icon/fill/SignOthers32';`"
   }
 };
+//# sourceMappingURL=SignOthers32.stories.js.map

@@ -198,3 +198,4 @@ _defineProperty(AppActivity, "defaultProps", {
 });
 
 export default injectIntl(AppActivity);
+//# sourceMappingURL=AppActivity.js.map

@@ -186,3 +186,4 @@ function (_Base) {
 }(Base);
 
 export default MetadataQuery;
+//# sourceMappingURL=MetadataQuery.js.map

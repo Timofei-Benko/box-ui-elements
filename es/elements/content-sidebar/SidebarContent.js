@@ -46,3 +46,4 @@ SidebarContent.defaultProps = {
   sidebarView: ''
 };
 export default SidebarContent;
+//# sourceMappingURL=SidebarContent.js.map

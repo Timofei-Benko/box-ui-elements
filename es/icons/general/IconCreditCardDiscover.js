@@ -41,3 +41,4 @@ var IconCreditCardDiscover = function IconCreditCardDiscover(_ref) {
 };
 
 export default IconCreditCardDiscover;
+//# sourceMappingURL=IconCreditCardDiscover.js.map

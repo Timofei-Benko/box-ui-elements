@@ -25,3 +25,4 @@ var IconForward = function IconForward(_ref) {
 };
 
 export default IconForward;
+//# sourceMappingURL=IconForward.js.map

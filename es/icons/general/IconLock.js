@@ -36,3 +36,4 @@ var IconLock = function IconLock(_ref) {
 };
 
 export default IconLock;
+//# sourceMappingURL=IconLock.js.map

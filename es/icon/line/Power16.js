@@ -27,3 +27,4 @@ var Power16 = function Power16(props) {
 };
 
 export default Power16;
+//# sourceMappingURL=Power16.js.map

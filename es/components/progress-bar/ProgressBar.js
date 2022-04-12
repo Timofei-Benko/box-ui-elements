@@ -18,3 +18,4 @@ var ProgressBar = function ProgressBar(_ref) {
 };
 
 export default ProgressBar;
+//# sourceMappingURL=ProgressBar.js.map

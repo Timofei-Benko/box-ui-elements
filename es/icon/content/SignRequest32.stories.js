@@ -10,3 +10,4 @@ export default {
     notes: "`import SignRequest32 from 'box-ui-elements/es/icon/content/SignRequest32';`"
   }
 };
+//# sourceMappingURL=SignRequest32.stories.js.map

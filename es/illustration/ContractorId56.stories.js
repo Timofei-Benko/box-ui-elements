@@ -10,3 +10,4 @@ export default {
     notes: "`import ContractorId56 from 'box-ui-elements/es/illustration/ContractorId56';`"
   }
 };
+//# sourceMappingURL=ContractorId56.stories.js.map

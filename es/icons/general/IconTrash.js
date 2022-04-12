@@ -27,3 +27,4 @@ var IconTrash = function IconTrash(_ref) {
 };
 
 export default IconTrash;
+//# sourceMappingURL=IconTrash.js.map

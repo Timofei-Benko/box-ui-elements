@@ -10,3 +10,4 @@ export default {
     notes: "`import Avatar16 from 'box-ui-elements/es/icon/line/Avatar16';`"
   }
 };
+//# sourceMappingURL=Avatar16.stories.js.map

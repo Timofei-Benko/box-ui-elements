@@ -10,3 +10,4 @@ export default {
     notes: "`import Shield16 from 'box-ui-elements/es/icon/line/Shield16';`"
   }
 };
+//# sourceMappingURL=Shield16.stories.js.map

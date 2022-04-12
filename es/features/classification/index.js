@@ -6,3 +6,4 @@ export { default as SecurityControls } from './security-controls';
 export { default as classificationColorsMap } from './classificationColorsMap';
 export { getClassificationLabelColor, getClassificationTinyconColor } from './utils';
 export * from './constants';
+//# sourceMappingURL=index.js.map

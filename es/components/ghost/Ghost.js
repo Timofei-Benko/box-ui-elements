@@ -38,3 +38,4 @@ var Ghost = function Ghost(_ref) {
 };
 
 export default Ghost;
+//# sourceMappingURL=Ghost.js.map

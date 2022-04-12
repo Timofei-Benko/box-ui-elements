@@ -27,3 +27,4 @@ var IconMail = function IconMail(_ref) {
 };
 
 export default IconMail;
+//# sourceMappingURL=IconMail.js.map

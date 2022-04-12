@@ -39,3 +39,4 @@ var IWorkIcon = function IWorkIcon(_ref) {
 };
 
 export default IWorkIcon;
+//# sourceMappingURL=IWorkIcon.js.map

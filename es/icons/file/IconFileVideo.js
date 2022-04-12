@@ -19,3 +19,4 @@ var IconFileVideo = function IconFileVideo(props) {
 };
 
 export default IconFileVideo;
+//# sourceMappingURL=IconFileVideo.js.map

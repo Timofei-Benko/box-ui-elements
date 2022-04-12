@@ -301,3 +301,4 @@ _defineProperty(SecurityCloudGame, "defaultProps", {
 });
 
 export default SecurityCloudGame;
+//# sourceMappingURL=SecurityCloudGame.js.map

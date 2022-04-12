@@ -213,3 +213,4 @@ export default function withAnnotations(WrappedComponent) {
   ComponentWithAnnotations.displayName = "WithAnnotations(".concat(displayName, ")");
   return ComponentWithAnnotations;
 }
+//# sourceMappingURL=withAnnotations.js.map

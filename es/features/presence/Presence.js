@@ -277,3 +277,4 @@ _defineProperty(Presence, "defaultProps", {
 
 export { Presence as PresenceComponent };
 export default injectIntl(Presence);
+//# sourceMappingURL=Presence.js.map

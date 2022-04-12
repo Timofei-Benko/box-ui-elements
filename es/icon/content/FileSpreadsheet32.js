@@ -36,3 +36,4 @@ var FileSpreadsheet32 = function FileSpreadsheet32(props) {
 };
 
 export default FileSpreadsheet32;
+//# sourceMappingURL=FileSpreadsheet32.js.map

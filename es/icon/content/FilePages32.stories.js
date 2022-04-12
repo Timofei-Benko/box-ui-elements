@@ -10,3 +10,4 @@ export default {
     notes: "`import FilePages32 from 'box-ui-elements/es/icon/content/FilePages32';`"
   }
 };
+//# sourceMappingURL=FilePages32.stories.js.map

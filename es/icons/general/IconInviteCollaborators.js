@@ -52,3 +52,4 @@ var IconInviteCollaborators = function IconInviteCollaborators(_ref) {
 };
 
 export default IconInviteCollaborators;
+//# sourceMappingURL=IconInviteCollaborators.js.map

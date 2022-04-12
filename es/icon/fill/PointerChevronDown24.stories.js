@@ -10,3 +10,4 @@ export default {
     notes: "`import PointerChevronDown24 from 'box-ui-elements/es/icon/fill/PointerChevronDown24';`"
   }
 };
+//# sourceMappingURL=PointerChevronDown24.stories.js.map

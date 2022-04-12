@@ -10,3 +10,4 @@ export default {
     notes: "`import Star16 from 'box-ui-elements/es/icon/line/Star16';`"
   }
 };
+//# sourceMappingURL=Star16.stories.js.map

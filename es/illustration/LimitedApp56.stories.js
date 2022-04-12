@@ -10,3 +10,4 @@ export default {
     notes: "`import LimitedApp56 from 'box-ui-elements/es/illustration/LimitedApp56';`"
   }
 };
+//# sourceMappingURL=LimitedApp56.stories.js.map

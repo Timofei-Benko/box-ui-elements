@@ -28,3 +28,4 @@ var ArrowBoxRight16 = function ArrowBoxRight16(props) {
 };
 
 export default ArrowBoxRight16;
+//# sourceMappingURL=ArrowBoxRight16.js.map

@@ -216,3 +216,4 @@ var IconAutoCAD = function IconAutoCAD(_ref) {
 };
 
 export default IconAutoCAD;
+//# sourceMappingURL=IconAutoCAD.js.map

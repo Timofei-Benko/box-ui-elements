@@ -47,3 +47,4 @@ var SidebarFileProperties = function SidebarFileProperties(_ref) {
 
 export { SidebarFileProperties as SidebarFilePropertiesComponent };
 export default injectIntl(withErrorHandling(SidebarFileProperties));
+//# sourceMappingURL=SidebarFileProperties.js.map

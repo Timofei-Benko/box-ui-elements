@@ -29,3 +29,4 @@ var IconAddThin = function IconAddThin(_ref) {
 };
 
 export default IconAddThin;
+//# sourceMappingURL=IconAddThin.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import BudgetApproval56 from 'box-ui-elements/es/illustration/BudgetApproval56';`"
   }
 };
+//# sourceMappingURL=BudgetApproval56.stories.js.map

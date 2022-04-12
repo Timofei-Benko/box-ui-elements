@@ -10,3 +10,4 @@ export default {
     notes: "`import CreativeAssets56 from 'box-ui-elements/es/illustration/CreativeAssets56';`"
   }
 };
+//# sourceMappingURL=CreativeAssets56.stories.js.map

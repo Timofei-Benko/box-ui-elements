@@ -72,3 +72,4 @@ var AccessDescription = function AccessDescription(props) {
 
 AccessDescription.displayName = 'AccessDescription';
 export default AccessDescription;
+//# sourceMappingURL=AccessDescription.js.map

@@ -27,3 +27,4 @@ var XBadge16 = function XBadge16(props) {
 };
 
 export default XBadge16;
+//# sourceMappingURL=XBadge16.js.map

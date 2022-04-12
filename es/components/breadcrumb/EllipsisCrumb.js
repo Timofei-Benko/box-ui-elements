@@ -11,3 +11,4 @@ var EllipsisCrumb = function EllipsisCrumb(_ref) {
 };
 
 export default EllipsisCrumb;
+//# sourceMappingURL=EllipsisCrumb.js.map

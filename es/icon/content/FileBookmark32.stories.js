@@ -10,3 +10,4 @@ export default {
     notes: "`import FileBookmark32 from 'box-ui-elements/es/icon/content/FileBookmark32';`"
   }
 };
+//# sourceMappingURL=FileBookmark32.stories.js.map

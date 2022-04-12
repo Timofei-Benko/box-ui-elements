@@ -41,3 +41,4 @@ var IconCreditCardMasterCard = function IconCreditCardMasterCard(_ref) {
 };
 
 export default IconCreditCardMasterCard;
+//# sourceMappingURL=IconCreditCardMasterCard.js.map

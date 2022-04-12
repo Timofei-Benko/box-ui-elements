@@ -275,3 +275,4 @@ _defineProperty(ContactsField, "defaultProps", {
 
 export { ContactsField as ContactsFieldBase };
 export default injectIntl(ContactsField);
+//# sourceMappingURL=ContactsField.js.map

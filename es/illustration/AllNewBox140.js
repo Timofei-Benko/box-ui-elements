@@ -107,3 +107,4 @@ var AllNewBox140 = function AllNewBox140(props) {
 };
 
 export default AllNewBox140;
+//# sourceMappingURL=AllNewBox140.js.map

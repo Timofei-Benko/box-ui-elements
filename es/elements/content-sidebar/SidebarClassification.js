@@ -42,3 +42,4 @@ var SidebarClassification = function SidebarClassification(_ref) {
 };
 
 export default SidebarClassification;
+//# sourceMappingURL=SidebarClassification.js.map

@@ -36,3 +36,4 @@ var BoxToolsInstallMessage = function BoxToolsInstallMessage(_ref) {
 };
 
 export default BoxToolsInstallMessage;
+//# sourceMappingURL=BoxToolsInstallMessage.js.map

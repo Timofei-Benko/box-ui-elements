@@ -19,3 +19,4 @@ var MenuSectionHeader = function MenuSectionHeader(_ref) {
 };
 
 export default MenuSectionHeader;
+//# sourceMappingURL=MenuSectionHeader.js.map

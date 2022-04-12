@@ -30,3 +30,4 @@ var Badgeable = function Badgeable(props) {
 };
 
 export default Badgeable;
+//# sourceMappingURL=Badgeable.js.map

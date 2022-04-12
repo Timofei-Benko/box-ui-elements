@@ -23,3 +23,4 @@ var HotkeyFriendlyModal = function HotkeyFriendlyModal(_ref) {
 };
 
 export default HotkeyFriendlyModal;
+//# sourceMappingURL=HotkeyFriendlyModal.js.map

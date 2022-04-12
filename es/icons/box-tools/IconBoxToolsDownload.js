@@ -119,3 +119,4 @@ _defineProperty(IconBoxToolsDownload, "defaultProps", {
 });
 
 export default IconBoxToolsDownload;
+//# sourceMappingURL=IconBoxToolsDownload.js.map

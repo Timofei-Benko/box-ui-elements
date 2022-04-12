@@ -89,3 +89,4 @@ var UploadState = function UploadState(_ref) {
 };
 
 export default UploadState;
+//# sourceMappingURL=UploadState.js.map

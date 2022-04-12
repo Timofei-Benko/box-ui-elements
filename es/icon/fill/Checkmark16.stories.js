@@ -10,3 +10,4 @@ export default {
     notes: "`import Checkmark16 from 'box-ui-elements/es/icon/fill/Checkmark16';`"
   }
 };
+//# sourceMappingURL=Checkmark16.stories.js.map

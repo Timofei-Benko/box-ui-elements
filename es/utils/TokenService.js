@@ -310,3 +310,4 @@ function () {
 }();
 
 export default TokenService;
+//# sourceMappingURL=TokenService.js.map

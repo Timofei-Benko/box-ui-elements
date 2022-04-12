@@ -29,3 +29,4 @@ var IconNavigateRight = function IconNavigateRight(_ref) {
 };
 
 export default IconNavigateRight;
+//# sourceMappingURL=IconNavigateRight.js.map

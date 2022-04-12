@@ -28,3 +28,4 @@ var FileThreeD16 = function FileThreeD16(props) {
 };
 
 export default FileThreeD16;
+//# sourceMappingURL=FileThreeD16.js.map

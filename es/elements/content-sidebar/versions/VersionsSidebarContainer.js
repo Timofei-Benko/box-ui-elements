@@ -389,3 +389,4 @@ _defineProperty(VersionsSidebarContainer, "defaultProps", {
 });
 
 export default flow([withRouter, withAPIContext])(VersionsSidebarContainer);
+//# sourceMappingURL=VersionsSidebarContainer.js.map

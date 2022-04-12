@@ -187,3 +187,4 @@ function (_EventEmitter) {
 }(EventEmitter);
 
 export default ES6Wrapper;
+//# sourceMappingURL=ES6Wrapper.js.map

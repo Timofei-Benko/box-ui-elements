@@ -31,3 +31,4 @@ var IconBoxNotes = function IconBoxNotes(_ref) {
 };
 
 export default IconBoxNotes;
+//# sourceMappingURL=IconBoxNotes.js.map

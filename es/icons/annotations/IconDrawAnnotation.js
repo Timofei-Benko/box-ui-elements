@@ -27,3 +27,4 @@ var IconDrawAnnotationMode = function IconDrawAnnotationMode(_ref) {
 };
 
 export default IconDrawAnnotationMode;
+//# sourceMappingURL=IconDrawAnnotation.js.map

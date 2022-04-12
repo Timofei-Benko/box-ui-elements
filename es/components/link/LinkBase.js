@@ -34,3 +34,4 @@ var LinkBase = function LinkBase(_ref) {
 };
 
 export default LinkBase;
+//# sourceMappingURL=LinkBase.js.map

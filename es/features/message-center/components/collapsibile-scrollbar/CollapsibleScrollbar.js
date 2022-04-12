@@ -170,3 +170,4 @@ function CollapsibleScrollbar(_ref, ref) {
 }
 
 export default React.forwardRef(CollapsibleScrollbar);
+//# sourceMappingURL=CollapsibleScrollbar.js.map

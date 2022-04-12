@@ -19,3 +19,4 @@ var IconFilePDF = function IconFilePDF(props) {
 };
 
 export default IconFilePDF;
+//# sourceMappingURL=IconFilePDF.js.map

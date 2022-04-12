@@ -32,3 +32,4 @@ var MetadataDefaultBadge = function MetadataDefaultBadge(_ref) {
 };
 
 export default MetadataDefaultBadge;
+//# sourceMappingURL=MetadataDefaultBadge.js.map

@@ -28,3 +28,4 @@ var FileCode16 = function FileCode16(props) {
 };
 
 export default FileCode16;
+//# sourceMappingURL=FileCode16.js.map

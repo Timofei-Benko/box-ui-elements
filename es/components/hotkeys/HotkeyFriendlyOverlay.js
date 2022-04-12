@@ -15,3 +15,4 @@ var HotkeyFriendlyOverlay = function HotkeyFriendlyOverlay(_ref) {
 };
 
 export default HotkeyFriendlyOverlay;
+//# sourceMappingURL=HotkeyFriendlyOverlay.js.map

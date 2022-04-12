@@ -21,3 +21,4 @@ var InviteePermissionsLabel = function InviteePermissionsLabel(_ref) {
 };
 
 export default InviteePermissionsLabel;
+//# sourceMappingURL=InviteePermissionsLabel.js.map

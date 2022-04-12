@@ -24,3 +24,4 @@ var AvatarInitials = function AvatarInitials(_ref) {
 };
 
 export default AvatarInitials;
+//# sourceMappingURL=AvatarInitials.js.map

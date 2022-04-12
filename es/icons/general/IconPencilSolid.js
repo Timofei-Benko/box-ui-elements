@@ -25,3 +25,4 @@ var IconPencilSolid = function IconPencilSolid(_ref) {
 };
 
 export default IconPencilSolid;
+//# sourceMappingURL=IconPencilSolid.js.map

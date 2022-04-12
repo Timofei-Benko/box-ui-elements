@@ -10,3 +10,4 @@ export default {
     notes: "`import FileSlides32 from 'box-ui-elements/es/icon/content/FileSlides32';`"
   }
 };
+//# sourceMappingURL=FileSlides32.stories.js.map

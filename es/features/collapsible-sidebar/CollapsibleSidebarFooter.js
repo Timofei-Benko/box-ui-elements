@@ -26,3 +26,4 @@ function CollapsibleSidebarFooter(props) {
 }
 
 export default CollapsibleSidebarFooter;
+//# sourceMappingURL=CollapsibleSidebarFooter.js.map

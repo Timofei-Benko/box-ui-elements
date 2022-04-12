@@ -10,3 +10,4 @@ export default {
     notes: "`import CertificateSigning56 from 'box-ui-elements/es/illustration/CertificateSigning56';`"
   }
 };
+//# sourceMappingURL=CertificateSigning56.stories.js.map

@@ -41,3 +41,4 @@ var UploadEmptyState = function UploadEmptyState(_ref) {
 };
 
 export default UploadEmptyState;
+//# sourceMappingURL=UploadEmptyState.js.map

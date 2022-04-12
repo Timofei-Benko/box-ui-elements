@@ -28,3 +28,4 @@ var FileSlides16 = function FileSlides16(props) {
 };
 
 export default FileSlides16;
+//# sourceMappingURL=FileSlides16.js.map

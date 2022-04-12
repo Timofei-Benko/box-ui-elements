@@ -104,3 +104,4 @@ var IconGiftWithWings = function IconGiftWithWings(_ref) {
 };
 
 export default IconGiftWithWings;
+//# sourceMappingURL=IconGiftWithWings.js.map

@@ -36,3 +36,4 @@ var FileAudio32 = function FileAudio32(props) {
 };
 
 export default FileAudio32;
+//# sourceMappingURL=FileAudio32.js.map

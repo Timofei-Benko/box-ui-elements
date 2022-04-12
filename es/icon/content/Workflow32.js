@@ -38,3 +38,4 @@ var Workflow32 = function Workflow32(props) {
 };
 
 export default Workflow32;
+//# sourceMappingURL=Workflow32.js.map

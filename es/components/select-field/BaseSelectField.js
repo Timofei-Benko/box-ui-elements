@@ -629,3 +629,4 @@ _defineProperty(BaseSelectField, "defaultProps", {
 
 export { BaseSelectField as BaseSelectFieldBase };
 export default injectIntl(BaseSelectField);
+//# sourceMappingURL=BaseSelectField.js.map

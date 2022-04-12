@@ -25,3 +25,4 @@ var IconSort = function IconSort(_ref) {
 };
 
 export default IconSort;
+//# sourceMappingURL=IconSort.js.map

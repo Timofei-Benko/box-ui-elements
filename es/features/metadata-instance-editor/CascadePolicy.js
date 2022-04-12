@@ -62,3 +62,4 @@ var CascadePolicy = function CascadePolicy(_ref) {
 };
 
 export default CascadePolicy;
+//# sourceMappingURL=CascadePolicy.js.map

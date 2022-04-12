@@ -244,3 +244,4 @@ function (_Channel) {
 }(Channel);
 
 export default HTTPChannel;
+//# sourceMappingURL=HTTPChannel.js.map

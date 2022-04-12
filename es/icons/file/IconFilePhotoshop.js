@@ -19,3 +19,4 @@ var IconFilePhotoshop = function IconFilePhotoshop(props) {
 };
 
 export default IconFilePhotoshop;
+//# sourceMappingURL=IconFilePhotoshop.js.map

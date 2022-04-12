@@ -36,3 +36,4 @@ var UploadsManagerAction = function UploadsManagerAction(_ref) {
 };
 
 export default UploadsManagerAction;
+//# sourceMappingURL=UploadsManagerAction.js.map

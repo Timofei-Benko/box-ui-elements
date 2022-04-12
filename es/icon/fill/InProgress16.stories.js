@@ -10,3 +10,4 @@ export default {
     notes: "`import InProgress16 from 'box-ui-elements/es/icon/fill/InProgress16';`"
   }
 };
+//# sourceMappingURL=InProgress16.stories.js.map

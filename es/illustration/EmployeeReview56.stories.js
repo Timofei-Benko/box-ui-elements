@@ -10,3 +10,4 @@ export default {
     notes: "`import EmployeeReview56 from 'box-ui-elements/es/illustration/EmployeeReview56';`"
   }
 };
+//# sourceMappingURL=EmployeeReview56.stories.js.map

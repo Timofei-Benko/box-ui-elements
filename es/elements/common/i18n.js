@@ -19,3 +19,4 @@ export default {
   language: language,
   messages: messages
 };
+//# sourceMappingURL=i18n.js.map

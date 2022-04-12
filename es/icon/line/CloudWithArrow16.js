@@ -28,3 +28,4 @@ var CloudWithArrow16 = function CloudWithArrow16(props) {
 };
 
 export default CloudWithArrow16;
+//# sourceMappingURL=CloudWithArrow16.js.map

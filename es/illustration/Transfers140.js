@@ -37,3 +37,4 @@ var Transfers140 = function Transfers140(props) {
 };
 
 export default Transfers140;
+//# sourceMappingURL=Transfers140.js.map

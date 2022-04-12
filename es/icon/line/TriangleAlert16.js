@@ -33,3 +33,4 @@ var TriangleAlert16 = function TriangleAlert16(props) {
 };
 
 export default TriangleAlert16;
+//# sourceMappingURL=TriangleAlert16.js.map

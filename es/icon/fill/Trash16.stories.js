@@ -10,3 +10,4 @@ export default {
     notes: "`import Trash16 from 'box-ui-elements/es/icon/fill/Trash16';`"
   }
 };
+//# sourceMappingURL=Trash16.stories.js.map

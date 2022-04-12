@@ -34,3 +34,4 @@ var FormattedUser = function FormattedUser(props) {
 
 export { formatUser };
 export default FormattedUser;
+//# sourceMappingURL=FormattedUser.js.map

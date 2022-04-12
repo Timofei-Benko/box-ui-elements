@@ -7,3 +7,4 @@ var MenuSeparator = function MenuSeparator() {
 };
 
 export default MenuSeparator;
+//# sourceMappingURL=MenuSeparator.js.map

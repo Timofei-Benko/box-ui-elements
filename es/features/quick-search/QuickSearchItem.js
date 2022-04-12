@@ -156,3 +156,4 @@ var QuickSearchItem = function QuickSearchItem(_ref) {
 };
 
 export default injectIntl(QuickSearchItem);
+//# sourceMappingURL=QuickSearchItem.js.map

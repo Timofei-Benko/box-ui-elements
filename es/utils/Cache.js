@@ -124,3 +124,4 @@ function () {
 }();
 
 export default Cache;
+//# sourceMappingURL=Cache.js.map

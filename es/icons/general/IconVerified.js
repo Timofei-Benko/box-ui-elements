@@ -29,3 +29,4 @@ var IconVerified = function IconVerified(_ref) {
 };
 
 export default IconVerified;
+//# sourceMappingURL=IconVerified.js.map

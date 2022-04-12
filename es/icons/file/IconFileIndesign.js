@@ -19,3 +19,4 @@ var IconFileIndesign = function IconFileIndesign(props) {
 };
 
 export default IconFileIndesign;
+//# sourceMappingURL=IconFileIndesign.js.map

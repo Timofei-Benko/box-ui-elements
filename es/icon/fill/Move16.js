@@ -27,3 +27,4 @@ var Move16 = function Move16(props) {
 };
 
 export default Move16;
+//# sourceMappingURL=Move16.js.map

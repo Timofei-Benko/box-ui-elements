@@ -118,3 +118,4 @@ var IconMobileApp = function IconMobileApp(_ref) {
 };
 
 export default IconMobileApp;
+//# sourceMappingURL=IconMobileApp.js.map

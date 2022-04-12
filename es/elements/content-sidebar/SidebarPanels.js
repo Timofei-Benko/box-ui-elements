@@ -261,3 +261,4 @@ function (_React$Component) {
 
 export { SidebarPanels as SidebarPanelsComponent };
 export default flow([withSidebarAnnotations, withAPIContext, withAnnotatorContext, withRouterAndRef])(SidebarPanels);
+//# sourceMappingURL=SidebarPanels.js.map

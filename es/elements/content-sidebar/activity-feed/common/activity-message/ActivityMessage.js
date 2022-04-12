@@ -153,3 +153,4 @@ _defineProperty(ActivityMessage, "defaultProps", {
 });
 
 export default ActivityMessage;
+//# sourceMappingURL=ActivityMessage.js.map

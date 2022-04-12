@@ -61,3 +61,4 @@ var Certificate56 = function Certificate56(props) {
 };
 
 export default Certificate56;
+//# sourceMappingURL=Certificate56.js.map

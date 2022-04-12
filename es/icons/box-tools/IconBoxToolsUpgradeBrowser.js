@@ -123,3 +123,4 @@ _defineProperty(IconBoxToolsUpgradeBrowser, "defaultProps", {
 });
 
 export default IconBoxToolsUpgradeBrowser;
+//# sourceMappingURL=IconBoxToolsUpgradeBrowser.js.map

@@ -9,3 +9,4 @@ export var messageNamespaces = {
   contextual: contextual,
   programmatic: programmatic
 };
+//# sourceMappingURL=message.js.map

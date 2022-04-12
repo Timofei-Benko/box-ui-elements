@@ -33,3 +33,4 @@ var Name = function Name(_ref) {
 };
 
 export default Name;
+//# sourceMappingURL=Name.js.map

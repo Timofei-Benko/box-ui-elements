@@ -28,3 +28,4 @@ var IconPublic = function IconPublic(_ref) {
 };
 
 export default IconPublic;
+//# sourceMappingURL=IconPublic.js.map

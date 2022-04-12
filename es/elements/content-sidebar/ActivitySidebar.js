@@ -678,3 +678,4 @@ _defineProperty(ActivitySidebar, "defaultProps", {
 
 export { ActivitySidebar as ActivitySidebarComponent };
 export default flow([withLogger(ORIGIN_ACTIVITY_SIDEBAR), withErrorBoundary(ORIGIN_ACTIVITY_SIDEBAR), withAPIContext, withFeatureConsumer, withAnnotatorContext, withRouterAndRef])(ActivitySidebar);
+//# sourceMappingURL=ActivitySidebar.js.map

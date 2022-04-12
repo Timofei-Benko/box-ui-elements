@@ -10,3 +10,4 @@ export default {
     notes: "`import FileThreeD16 from 'box-ui-elements/es/icon/fill/FileThreeD16';`"
   }
 };
+//# sourceMappingURL=FileThreeD16.stories.js.map

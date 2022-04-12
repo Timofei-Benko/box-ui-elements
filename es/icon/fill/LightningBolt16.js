@@ -27,3 +27,4 @@ var LightningBolt16 = function LightningBolt16(props) {
 };
 
 export default LightningBolt16;
+//# sourceMappingURL=LightningBolt16.js.map

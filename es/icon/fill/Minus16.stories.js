@@ -10,3 +10,4 @@ export default {
     notes: "`import Minus16 from 'box-ui-elements/es/icon/fill/Minus16';`"
   }
 };
+//# sourceMappingURL=Minus16.stories.js.map

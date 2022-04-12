@@ -200,3 +200,4 @@ _defineProperty(PresenceCollaboratorsList, "propTypes", {
 
 export { PresenceCollaboratorsList as PresenceCollaboratorsListComponent };
 export default injectIntl(PresenceCollaboratorsList);
+//# sourceMappingURL=PresenceCollaboratorsList.js.map

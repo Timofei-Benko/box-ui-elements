@@ -49,3 +49,4 @@ var IconFileText = function IconFileText(props) {
 };
 
 export default IconFileText;
+//# sourceMappingURL=IconFileText.js.map

@@ -28,3 +28,4 @@ var IconHamburger = function IconHamburger(_ref) {
 };
 
 export default IconHamburger;
+//# sourceMappingURL=IconHamburger.js.map

@@ -28,3 +28,4 @@ var QuarantineBadge = function QuarantineBadge(_ref) {
 };
 
 export default QuarantineBadge;
+//# sourceMappingURL=QuarantineBadge.js.map

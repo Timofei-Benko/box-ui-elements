@@ -26,3 +26,4 @@ var IconFlagSolid = function IconFlagSolid(_ref) {
 };
 
 export default IconFlagSolid;
+//# sourceMappingURL=IconFlagSolid.js.map

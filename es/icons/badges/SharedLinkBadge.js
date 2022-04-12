@@ -37,3 +37,4 @@ var SharedLinkBadge = function SharedLinkBadge(_ref) {
 };
 
 export default SharedLinkBadge;
+//# sourceMappingURL=SharedLinkBadge.js.map

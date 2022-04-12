@@ -28,3 +28,4 @@ var CollectionBolt16 = function CollectionBolt16(props) {
 };
 
 export default CollectionBolt16;
+//# sourceMappingURL=CollectionBolt16.js.map

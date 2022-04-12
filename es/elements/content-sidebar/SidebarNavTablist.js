@@ -82,3 +82,4 @@ var SidebarNavTablist = function SidebarNavTablist(_ref) {
 };
 
 export default withRouter(SidebarNavTablist);
+//# sourceMappingURL=SidebarNavTablist.js.map

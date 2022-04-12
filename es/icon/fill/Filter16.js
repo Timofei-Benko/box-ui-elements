@@ -28,3 +28,4 @@ var Filter16 = function Filter16(props) {
 };
 
 export default Filter16;
+//# sourceMappingURL=Filter16.js.map

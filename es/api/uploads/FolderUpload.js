@@ -220,3 +220,4 @@ function () {
 }();
 
 export default FolderUpload;
+//# sourceMappingURL=FolderUpload.js.map

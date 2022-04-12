@@ -38,3 +38,4 @@ VersionHistoryLink.defaultProps = {
   className: ''
 };
 export default VersionHistoryLink;
+//# sourceMappingURL=VersionHistoryLink.js.map

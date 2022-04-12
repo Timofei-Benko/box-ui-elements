@@ -28,3 +28,4 @@ var IconDrag = function IconDrag(_ref) {
 };
 
 export default IconDrag;
+//# sourceMappingURL=IconDrag.js.map

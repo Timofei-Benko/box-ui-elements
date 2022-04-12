@@ -169,3 +169,4 @@ function (_MarkerBasedApi) {
 }(MarkerBasedApi);
 
 export { Annotations as default };
+//# sourceMappingURL=Annotations.js.map

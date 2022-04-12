@@ -231,3 +231,4 @@ _defineProperty(UnifiedShareModal, "defaultProps", {
 
 export { UnifiedShareModal as UnifiedShareModalBase };
 export default injectIntl(UnifiedShareModal);
+//# sourceMappingURL=UnifiedShareModal.js.map

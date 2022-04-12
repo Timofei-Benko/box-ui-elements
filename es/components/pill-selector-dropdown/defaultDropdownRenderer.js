@@ -12,3 +12,4 @@ function defaultDropdownRenderer(options) {
 }
 
 export default defaultDropdownRenderer;
+//# sourceMappingURL=defaultDropdownRenderer.js.map

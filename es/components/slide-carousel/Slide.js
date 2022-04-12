@@ -18,3 +18,4 @@ var Slide = function Slide(_ref) {
 };
 
 export default Slide;
+//# sourceMappingURL=Slide.js.map

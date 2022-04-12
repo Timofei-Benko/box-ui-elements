@@ -109,3 +109,4 @@ var CollaboratorsEmptyState = function CollaboratorsEmptyState(_ref) {
 };
 
 export default CollaboratorsEmptyState;
+//# sourceMappingURL=CollaboratorsEmptyState.js.map

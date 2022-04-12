@@ -28,3 +28,4 @@ var ClassificationBadge16 = function ClassificationBadge16(props) {
 };
 
 export default ClassificationBadge16;
+//# sourceMappingURL=ClassificationBadge16.js.map

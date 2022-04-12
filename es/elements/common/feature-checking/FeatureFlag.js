@@ -24,12 +24,5 @@ function FeatureFlag(_ref) {
   });
 }
 
-FeatureFlag.propTypes = {
-  children: PropTypes.node,
-  disabled: PropTypes.func,
-  enabled: PropTypes.func,
-  feature: PropTypes.string.isRequired,
-  not: PropTypes.bool
-};
 export default FeatureFlag;
-import PropTypes from "prop-types";
+//# sourceMappingURL=FeatureFlag.js.map

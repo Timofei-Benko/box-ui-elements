@@ -28,3 +28,4 @@ var FileBoxNote16 = function FileBoxNote16(props) {
 };
 
 export default FileBoxNote16;
+//# sourceMappingURL=FileBoxNote16.js.map

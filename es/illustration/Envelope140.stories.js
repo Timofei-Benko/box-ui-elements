@@ -10,3 +10,4 @@ export default {
     notes: "`import Envelope140 from 'box-ui-elements/es/illustration/Envelope140';`"
   }
 };
+//# sourceMappingURL=Envelope140.stories.js.map

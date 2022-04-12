@@ -42,3 +42,4 @@ function convertToBoxItem(item) {
 }
 
 export default convertToBoxItem;
+//# sourceMappingURL=item.js.map

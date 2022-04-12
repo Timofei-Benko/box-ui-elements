@@ -19,3 +19,4 @@ var IconFilePresentation = function IconFilePresentation(props) {
 };
 
 export default IconFilePresentation;
+//# sourceMappingURL=IconFilePresentation.js.map

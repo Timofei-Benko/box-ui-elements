@@ -141,3 +141,4 @@ var UpdatesEmptyState = function UpdatesEmptyState(_ref) {
 };
 
 export default UpdatesEmptyState;
+//# sourceMappingURL=UpdatesEmptyState.js.map

@@ -40,3 +40,4 @@ var IconExcelOnline = function IconExcelOnline(_ref) {
 };
 
 export default IconExcelOnline;
+//# sourceMappingURL=IconExcelOnline.js.map

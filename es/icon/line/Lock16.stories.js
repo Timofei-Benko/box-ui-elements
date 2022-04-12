@@ -10,3 +10,4 @@ export default {
     notes: "`import Lock16 from 'box-ui-elements/es/icon/line/Lock16';`"
   }
 };
+//# sourceMappingURL=Lock16.stories.js.map

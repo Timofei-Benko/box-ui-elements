@@ -44,3 +44,4 @@ var IconShield = function IconShield(_ref) {
 };
 
 export default IconShield;
+//# sourceMappingURL=IconShield.js.map

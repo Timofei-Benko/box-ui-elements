@@ -321,3 +321,4 @@ _defineProperty(IconIWorkKeynoteDesktop, "defaultProps", {
 });
 
 export default IconIWorkKeynoteDesktop;
+//# sourceMappingURL=IconIWorkKeynoteDesktop.js.map

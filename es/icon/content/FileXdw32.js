@@ -36,3 +36,4 @@ var FileXdw32 = function FileXdw32(props) {
 };
 
 export default FileXdw32;
+//# sourceMappingURL=FileXdw32.js.map

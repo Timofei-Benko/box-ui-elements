@@ -10,3 +10,4 @@ export default {
     notes: "`import RotatingArrows16 from 'box-ui-elements/es/icon/line/RotatingArrows16';`"
   }
 };
+//# sourceMappingURL=RotatingArrows16.stories.js.map

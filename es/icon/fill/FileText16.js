@@ -28,3 +28,4 @@ var FileText16 = function FileText16(props) {
 };
 
 export default FileText16;
+//# sourceMappingURL=FileText16.js.map

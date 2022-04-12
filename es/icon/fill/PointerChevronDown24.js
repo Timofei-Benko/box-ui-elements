@@ -27,3 +27,4 @@ var PointerChevronDown24 = function PointerChevronDown24(props) {
 };
 
 export default PointerChevronDown24;
+//# sourceMappingURL=PointerChevronDown24.js.map

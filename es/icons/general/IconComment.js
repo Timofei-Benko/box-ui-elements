@@ -25,3 +25,4 @@ var IconComment = function IconComment(_ref) {
 };
 
 export default IconComment;
+//# sourceMappingURL=IconComment.js.map

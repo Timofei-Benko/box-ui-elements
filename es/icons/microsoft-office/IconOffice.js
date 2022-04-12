@@ -77,3 +77,4 @@ _defineProperty(IconOffice, "defaultProps", {
 });
 
 export default IconOffice;
+//# sourceMappingURL=IconOffice.js.map

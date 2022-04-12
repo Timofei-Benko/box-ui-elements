@@ -43,3 +43,4 @@ var SuggestedPill = function SuggestedPill(_ref) {
 };
 
 export default SuggestedPill;
+//# sourceMappingURL=SuggestedPill.js.map

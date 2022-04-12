@@ -284,3 +284,4 @@ _defineProperty(CongratsPartyPeopleState, "defaultProps", {
 });
 
 export default CongratsPartyPeopleState;
+//# sourceMappingURL=CongratsPartyPeopleState.js.map

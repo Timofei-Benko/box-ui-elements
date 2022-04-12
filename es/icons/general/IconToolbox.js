@@ -93,3 +93,4 @@ var IconToolbox = function IconToolbox(_ref) {
 };
 
 export default IconToolbox;
+//# sourceMappingURL=IconToolbox.js.map

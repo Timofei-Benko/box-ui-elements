@@ -43,3 +43,4 @@ var IconWordOnline = function IconWordOnline(_ref) {
 };
 
 export default IconWordOnline;
+//# sourceMappingURL=IconWordOnline.js.map

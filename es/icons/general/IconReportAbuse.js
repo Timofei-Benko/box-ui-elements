@@ -32,3 +32,4 @@ var IconReportAbuse = function IconReportAbuse(_ref) {
 };
 
 export default IconReportAbuse;
+//# sourceMappingURL=IconReportAbuse.js.map

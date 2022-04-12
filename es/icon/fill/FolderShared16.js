@@ -28,3 +28,4 @@ var FolderShared16 = function FolderShared16(props) {
 };
 
 export default FolderShared16;
+//# sourceMappingURL=FolderShared16.js.map

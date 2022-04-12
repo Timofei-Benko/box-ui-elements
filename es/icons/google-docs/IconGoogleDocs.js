@@ -110,3 +110,4 @@ _defineProperty(IconGoogleDocs, "defaultProps", {
 });
 
 export default IconGoogleDocs;
+//# sourceMappingURL=IconGoogleDocs.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import CrosshairRegion32 from 'box-ui-elements/es/icon/line/CrosshairRegion32';`"
   }
 };
+//# sourceMappingURL=CrosshairRegion32.stories.js.map

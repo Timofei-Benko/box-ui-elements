@@ -27,3 +27,4 @@ var Redo16 = function Redo16(props) {
 };
 
 export default Redo16;
+//# sourceMappingURL=Redo16.js.map

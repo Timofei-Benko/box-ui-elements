@@ -10,3 +10,4 @@ export default {
     notes: "`import BoxDrive140 from 'box-ui-elements/es/illustration/BoxDrive140';`"
   }
 };
+//# sourceMappingURL=BoxDrive140.stories.js.map

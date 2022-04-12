@@ -10,3 +10,4 @@ export default {
     notes: "`import Plane16 from 'box-ui-elements/es/icon/line/Plane16';`"
   }
 };
+//# sourceMappingURL=Plane16.stories.js.map

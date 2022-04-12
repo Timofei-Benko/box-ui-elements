@@ -32,3 +32,4 @@ var LockBadge = function LockBadge(_ref) {
 };
 
 export default LockBadge;
+//# sourceMappingURL=LockBadge.js.map

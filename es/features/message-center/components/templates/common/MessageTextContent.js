@@ -21,3 +21,4 @@ function MessageTextContent(_ref) {
 }
 
 export default MessageTextContent;
+//# sourceMappingURL=MessageTextContent.js.map

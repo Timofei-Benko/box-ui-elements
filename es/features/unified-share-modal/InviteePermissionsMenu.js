@@ -139,3 +139,4 @@ _defineProperty(InviteePermissionsMenu, "defaultProps", {
 });
 
 export default InviteePermissionsMenu;
+//# sourceMappingURL=InviteePermissionsMenu.js.map

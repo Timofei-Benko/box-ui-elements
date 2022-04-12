@@ -55,3 +55,4 @@ var PaginationControls = function PaginationControls(_ref) {
 };
 
 export default PaginationControls;
+//# sourceMappingURL=PaginationControls.js.map

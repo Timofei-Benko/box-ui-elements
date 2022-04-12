@@ -26,3 +26,4 @@ var IconMetadataView = function IconMetadataView(_ref) {
 };
 
 export default IconMetadataView;
+//# sourceMappingURL=IconMetadataView.js.map

@@ -28,3 +28,4 @@ var MoveCopy16 = function MoveCopy16(props) {
 };
 
 export default MoveCopy16;
+//# sourceMappingURL=MoveCopy16.js.map

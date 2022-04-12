@@ -10,3 +10,4 @@ export default {
     notes: "`import FilePdf16 from 'box-ui-elements/es/icon/fill/FilePdf16';`"
   }
 };
+//# sourceMappingURL=FilePdf16.stories.js.map

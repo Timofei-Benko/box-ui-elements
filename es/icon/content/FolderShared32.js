@@ -33,3 +33,4 @@ var FolderShared32 = function FolderShared32(props) {
 };
 
 export default FolderShared32;
+//# sourceMappingURL=FolderShared32.js.map

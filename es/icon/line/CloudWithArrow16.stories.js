@@ -10,3 +10,4 @@ export default {
     notes: "`import CloudWithArrow16 from 'box-ui-elements/es/icon/line/CloudWithArrow16';`"
   }
 };
+//# sourceMappingURL=CloudWithArrow16.stories.js.map

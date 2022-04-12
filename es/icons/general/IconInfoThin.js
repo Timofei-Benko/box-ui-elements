@@ -45,3 +45,4 @@ var IconInfoThin = function IconInfoThin(_ref) {
 };
 
 export default IconInfoThin;
+//# sourceMappingURL=IconInfoThin.js.map

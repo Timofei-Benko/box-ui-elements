@@ -120,3 +120,4 @@ var FileIcon = function FileIcon(_ref) {
 };
 
 export default FileIcon;
+//# sourceMappingURL=FileIcon.js.map

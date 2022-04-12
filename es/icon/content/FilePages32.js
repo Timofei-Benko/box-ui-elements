@@ -39,3 +39,4 @@ var FilePages32 = function FilePages32(props) {
 };
 
 export default FilePages32;
+//# sourceMappingURL=FilePages32.js.map

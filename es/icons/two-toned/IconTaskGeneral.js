@@ -33,3 +33,4 @@ var IconTaskGeneral = function IconTaskGeneral(_ref) {
 };
 
 export default IconTaskGeneral;
+//# sourceMappingURL=IconTaskGeneral.js.map

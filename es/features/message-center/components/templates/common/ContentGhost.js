@@ -26,3 +26,4 @@ function ContentGhost() {
 }
 
 export default ContentGhost;
+//# sourceMappingURL=ContentGhost.js.map

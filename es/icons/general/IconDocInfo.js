@@ -25,3 +25,4 @@ var IconDocInfo = function IconDocInfo(_ref) {
 };
 
 export default IconDocInfo;
+//# sourceMappingURL=IconDocInfo.js.map

@@ -124,3 +124,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default SlideNavigator;
+//# sourceMappingURL=SlideNavigator.js.map

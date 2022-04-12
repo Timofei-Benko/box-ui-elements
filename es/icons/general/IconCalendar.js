@@ -43,3 +43,4 @@ var IconCalendar = function IconCalendar(_ref) {
 };
 
 export default IconCalendar;
+//# sourceMappingURL=IconCalendar.js.map

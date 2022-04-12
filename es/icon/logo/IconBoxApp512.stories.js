@@ -10,3 +10,4 @@ export default {
     notes: "`import IconBoxApp512 from 'box-ui-elements/es/icon/logo/IconBoxApp512';`"
   }
 };
+//# sourceMappingURL=IconBoxApp512.stories.js.map

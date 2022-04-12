@@ -51,3 +51,4 @@ var EmptyStateFolder140 = function EmptyStateFolder140(props) {
 };
 
 export default EmptyStateFolder140;
+//# sourceMappingURL=EmptyStateFolder140.js.map

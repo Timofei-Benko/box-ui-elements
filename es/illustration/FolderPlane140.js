@@ -94,3 +94,4 @@ var FolderPlane140 = function FolderPlane140(props) {
 };
 
 export default FolderPlane140;
+//# sourceMappingURL=FolderPlane140.js.map

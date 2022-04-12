@@ -40,3 +40,4 @@ var IconBilling = function IconBilling(_ref) {
 };
 
 export default IconBilling;
+//# sourceMappingURL=IconBilling.js.map

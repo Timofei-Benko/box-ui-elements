@@ -46,3 +46,4 @@ var Header = function Header(_ref) {
 };
 
 export default injectIntl(Header);
+//# sourceMappingURL=Header.js.map

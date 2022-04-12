@@ -35,3 +35,4 @@ var IconPuzzlePieceCircle = function IconPuzzlePieceCircle(_ref) {
 };
 
 export default IconPuzzlePieceCircle;
+//# sourceMappingURL=IconPuzzlePieceCircle.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import TriangleAlert16 from 'box-ui-elements/es/icon/line/TriangleAlert16';`"
   }
 };
+//# sourceMappingURL=TriangleAlert16.stories.js.map

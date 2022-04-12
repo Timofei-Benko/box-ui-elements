@@ -21,3 +21,4 @@ var withAPIContext = function withAPIContext(WrappedComponent) {
 };
 
 export default withAPIContext;
+//# sourceMappingURL=withAPIContext.js.map

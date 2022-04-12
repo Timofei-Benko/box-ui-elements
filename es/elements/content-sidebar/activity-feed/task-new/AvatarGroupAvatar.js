@@ -56,3 +56,4 @@ var AvatarGroupAvatar = React.memo(function (_ref2) {
   }));
 });
 export default AvatarGroupAvatar;
+//# sourceMappingURL=AvatarGroupAvatar.js.map

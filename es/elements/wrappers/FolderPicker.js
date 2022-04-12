@@ -55,3 +55,4 @@ function (_ContentPicker) {
 }(ContentPicker);
 
 export default FolderPicker;
+//# sourceMappingURL=FolderPicker.js.map

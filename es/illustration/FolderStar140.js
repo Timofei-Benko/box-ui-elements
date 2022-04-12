@@ -76,3 +76,4 @@ var FolderStar140 = function FolderStar140(props) {
 };
 
 export default FolderStar140;
+//# sourceMappingURL=FolderStar140.js.map

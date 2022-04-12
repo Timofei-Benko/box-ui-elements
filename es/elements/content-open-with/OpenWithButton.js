@@ -93,3 +93,4 @@ var OpenWithButton = function OpenWithButton(_ref) {
 };
 
 export default OpenWithButton;
+//# sourceMappingURL=OpenWithButton.js.map

@@ -115,3 +115,4 @@ _defineProperty(IconPowerPointDesktop, "defaultProps", {
 });
 
 export default IconPowerPointDesktop;
+//# sourceMappingURL=IconPowerPointDesktop.js.map

@@ -29,3 +29,4 @@ var ActivityError = function ActivityError(_ref) {
 };
 
 export default ActivityError;
+//# sourceMappingURL=ActivityError.js.map

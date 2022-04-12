@@ -10,3 +10,4 @@ export default {
     notes: "`import CloudUpload16 from 'box-ui-elements/es/icon/fill/CloudUpload16';`"
   }
 };
+//# sourceMappingURL=CloudUpload16.stories.js.map

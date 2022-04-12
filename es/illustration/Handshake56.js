@@ -80,3 +80,4 @@ var Handshake56 = function Handshake56(props) {
 };
 
 export default Handshake56;
+//# sourceMappingURL=Handshake56.js.map

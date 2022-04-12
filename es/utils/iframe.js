@@ -47,3 +47,4 @@ export default function openUrlInsideIframe(url) {
   iframe.src = url;
   return iframe;
 }
+//# sourceMappingURL=iframe.js.map

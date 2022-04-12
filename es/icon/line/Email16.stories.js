@@ -10,3 +10,4 @@ export default {
     notes: "`import Email16 from 'box-ui-elements/es/icon/line/Email16';`"
   }
 };
+//# sourceMappingURL=Email16.stories.js.map

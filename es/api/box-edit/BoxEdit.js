@@ -263,3 +263,4 @@ function () {
 }();
 
 export default BoxEdit;
+//# sourceMappingURL=BoxEdit.js.map

@@ -27,3 +27,4 @@ var IntegerMetadataField = function IntegerMetadataField(_ref) {
 };
 
 export default IntegerMetadataField;
+//# sourceMappingURL=IntegerMetadataField.js.map

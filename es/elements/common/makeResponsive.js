@@ -193,3 +193,4 @@ function makeResponsive(Wrapped) {
 }
 
 export default makeResponsive;
+//# sourceMappingURL=makeResponsive.js.map

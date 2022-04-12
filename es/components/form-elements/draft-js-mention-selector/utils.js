@@ -116,3 +116,4 @@ function getFormattedCommentText(editorState) {
 }
 
 export { addMention, defaultMentionTriggers, defaultMentionPattern, getActiveMentionForEditorState, getFormattedCommentText };
+//# sourceMappingURL=utils.js.map

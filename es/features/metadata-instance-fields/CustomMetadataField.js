@@ -58,3 +58,4 @@ var CustomMetadataField = function CustomMetadataField(_ref) {
 
 export { CustomMetadataField as CustomMetadataFieldBase };
 export default injectIntl(CustomMetadataField);
+//# sourceMappingURL=CustomMetadataField.js.map

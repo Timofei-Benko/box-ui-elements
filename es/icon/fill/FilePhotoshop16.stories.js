@@ -10,3 +10,4 @@ export default {
     notes: "`import FilePhotoshop16 from 'box-ui-elements/es/icon/fill/FilePhotoshop16';`"
   }
 };
+//# sourceMappingURL=FilePhotoshop16.stories.js.map

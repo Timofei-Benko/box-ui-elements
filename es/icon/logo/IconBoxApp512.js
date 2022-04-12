@@ -35,3 +35,4 @@ var IconBoxApp512 = function IconBoxApp512(props) {
 };
 
 export default IconBoxApp512;
+//# sourceMappingURL=IconBoxApp512.js.map

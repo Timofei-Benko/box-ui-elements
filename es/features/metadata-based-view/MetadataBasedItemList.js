@@ -451,4 +451,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default MetadataBasedItemList;
-import { bpfrpt_proptype_Element } from "react";
+//# sourceMappingURL=MetadataBasedItemList.js.map

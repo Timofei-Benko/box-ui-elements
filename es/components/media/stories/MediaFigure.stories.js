@@ -24,3 +24,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=MediaFigure.stories.js.map

@@ -18,3 +18,4 @@ var LabelPillText = function LabelPillText(_ref) {
 };
 
 export default LabelPillText;
+//# sourceMappingURL=LabelPillText.js.map

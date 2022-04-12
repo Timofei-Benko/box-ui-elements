@@ -10,3 +10,4 @@ export default {
     notes: "`import ClassificationBadge16 from 'box-ui-elements/es/icon/line/ClassificationBadge16';`"
   }
 };
+//# sourceMappingURL=ClassificationBadge16.stories.js.map

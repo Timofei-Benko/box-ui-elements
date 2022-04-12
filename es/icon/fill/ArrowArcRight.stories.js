@@ -10,3 +10,4 @@ export default {
     notes: "`import ArrowArcRight from 'box-ui-elements/es/icon/fill/ArrowArcRight';`"
   }
 };
+//# sourceMappingURL=ArrowArcRight.stories.js.map

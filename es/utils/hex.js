@@ -20,3 +20,4 @@ function bufferToHex(arrayBuffer) {
 
 
 export { bufferToHex };
+//# sourceMappingURL=hex.js.map

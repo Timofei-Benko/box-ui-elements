@@ -44,3 +44,4 @@ var BetaFeedbackBadge = function BetaFeedbackBadge(_ref) {
 };
 
 export default BetaFeedbackBadge;
+//# sourceMappingURL=BetaFeedbackBadge.js.map

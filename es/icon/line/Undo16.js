@@ -27,3 +27,4 @@ var Undo16 = function Undo16(props) {
 };
 
 export default Undo16;
+//# sourceMappingURL=Undo16.js.map

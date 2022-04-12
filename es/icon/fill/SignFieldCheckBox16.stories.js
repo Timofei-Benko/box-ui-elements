@@ -10,3 +10,4 @@ export default {
     notes: "`import SignFieldCheckBox16 from 'box-ui-elements/es/icon/fill/SignFieldCheckBox16';`"
   }
 };
+//# sourceMappingURL=SignFieldCheckBox16.stories.js.map

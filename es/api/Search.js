@@ -308,3 +308,4 @@ function (_Base) {
 }(Base);
 
 export default Search;
+//# sourceMappingURL=Search.js.map

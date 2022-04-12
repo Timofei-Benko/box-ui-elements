@@ -31,3 +31,4 @@ var HotkeyManager = function HotkeyManager() {
 
 
 export default new HotkeyManager();
+//# sourceMappingURL=HotkeyManager.js.map

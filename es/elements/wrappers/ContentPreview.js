@@ -71,3 +71,4 @@ function (_ES6Wrapper) {
 global.Box = global.Box || {};
 global.Box.ContentPreview = ContentPreview;
 export default ContentPreview;
+//# sourceMappingURL=ContentPreview.js.map

@@ -25,3 +25,4 @@ var VersionsItemBadge = function VersionsItemBadge(_ref) {
 };
 
 export default injectIntl(VersionsItemBadge);
+//# sourceMappingURL=VersionsItemBadge.js.map

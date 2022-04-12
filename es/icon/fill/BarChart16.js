@@ -28,3 +28,4 @@ var BarChart16 = function BarChart16(props) {
 };
 
 export default BarChart16;
+//# sourceMappingURL=BarChart16.js.map

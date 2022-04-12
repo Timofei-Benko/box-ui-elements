@@ -41,3 +41,4 @@ var IconFolderExternal = function IconFolderExternal(_ref) {
 };
 
 export default IconFolderExternal;
+//# sourceMappingURL=IconFolderExternal.js.map

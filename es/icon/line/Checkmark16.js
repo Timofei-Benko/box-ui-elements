@@ -28,3 +28,4 @@ var Checkmark16 = function Checkmark16(props) {
 };
 
 export default Checkmark16;
+//# sourceMappingURL=Checkmark16.js.map

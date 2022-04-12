@@ -97,3 +97,4 @@ _defineProperty(ProgressBar, "defaultProps", {
 });
 
 export default ProgressBar;
+//# sourceMappingURL=ProgressBar.js.map

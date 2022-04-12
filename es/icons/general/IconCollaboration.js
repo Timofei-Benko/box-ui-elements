@@ -34,3 +34,4 @@ var IconCollaboration = function IconCollaboration(_ref) {
 };
 
 export default IconCollaboration;
+//# sourceMappingURL=IconCollaboration.js.map

@@ -32,3 +32,4 @@ var useOnClickBody = function useOnClickBody(onClick, enable) {
 };
 
 export default useOnClickBody;
+//# sourceMappingURL=useOnClickBody.js.map

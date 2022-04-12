@@ -10,3 +10,4 @@ export default {
     notes: "`import BoxMobile140 from 'box-ui-elements/es/illustration/BoxMobile140';`"
   }
 };
+//# sourceMappingURL=BoxMobile140.stories.js.map

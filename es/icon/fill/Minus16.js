@@ -27,3 +27,4 @@ var Minus16 = function Minus16(props) {
 };
 
 export default Minus16;
+//# sourceMappingURL=Minus16.js.map

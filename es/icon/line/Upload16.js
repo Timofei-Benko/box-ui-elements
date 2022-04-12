@@ -28,3 +28,4 @@ var Upload16 = function Upload16(props) {
 };
 
 export default Upload16;
+//# sourceMappingURL=Upload16.js.map

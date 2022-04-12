@@ -28,3 +28,4 @@ var Alert16 = function Alert16(props) {
 };
 
 export default Alert16;
+//# sourceMappingURL=Alert16.js.map

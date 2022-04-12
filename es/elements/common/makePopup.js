@@ -176,3 +176,4 @@ var makePopup = function makePopup(kit) {
 };
 
 export default makePopup;
+//# sourceMappingURL=makePopup.js.map

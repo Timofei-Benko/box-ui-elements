@@ -28,3 +28,4 @@ var Avatar16 = function Avatar16(props) {
 };
 
 export default Avatar16;
+//# sourceMappingURL=Avatar16.js.map

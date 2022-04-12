@@ -10,3 +10,4 @@ export default {
     notes: "`import FileUpload32 from 'box-ui-elements/es/icon/content/FileUpload32';`"
   }
 };
+//# sourceMappingURL=FileUpload32.stories.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import RetentionPolicyModifiable32 from 'box-ui-elements/es/icon/content/RetentionPolicyModifiable32';`"
   }
 };
+//# sourceMappingURL=RetentionPolicyModifiable32.stories.js.map

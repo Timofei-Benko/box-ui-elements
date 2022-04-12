@@ -19,3 +19,4 @@ var RemoveButton = function RemoveButton(_ref) {
 };
 
 export default RemoveButton;
+//# sourceMappingURL=RemoveButton.js.map

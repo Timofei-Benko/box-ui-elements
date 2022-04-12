@@ -34,3 +34,4 @@ var IconShare = function IconShare(_ref) {
 };
 
 export default IconShare;
+//# sourceMappingURL=IconShare.js.map

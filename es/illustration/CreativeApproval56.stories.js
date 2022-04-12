@@ -10,3 +10,4 @@ export default {
     notes: "`import CreativeApproval56 from 'box-ui-elements/es/illustration/CreativeApproval56';`"
   }
 };
+//# sourceMappingURL=CreativeApproval56.stories.js.map

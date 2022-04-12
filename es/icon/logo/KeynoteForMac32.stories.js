@@ -10,3 +10,4 @@ export default {
     notes: "`import KeynoteForMac32 from 'box-ui-elements/es/icon/logo/KeynoteForMac32';`"
   }
 };
+//# sourceMappingURL=KeynoteForMac32.stories.js.map

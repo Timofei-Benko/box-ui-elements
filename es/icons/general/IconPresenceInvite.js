@@ -51,3 +51,4 @@ var IconPresenceInvite = function IconPresenceInvite(_ref) {
 };
 
 export default IconPresenceInvite;
+//# sourceMappingURL=IconPresenceInvite.js.map

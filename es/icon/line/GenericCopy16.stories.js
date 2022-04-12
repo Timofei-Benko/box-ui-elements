@@ -10,3 +10,4 @@ export default {
     notes: "`import GenericCopy16 from 'box-ui-elements/es/icon/line/GenericCopy16';`"
   }
 };
+//# sourceMappingURL=GenericCopy16.stories.js.map

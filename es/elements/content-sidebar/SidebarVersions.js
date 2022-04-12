@@ -29,3 +29,4 @@ var SidebarVersions = function SidebarVersions(_ref) {
 };
 
 export default SidebarVersions;
+//# sourceMappingURL=SidebarVersions.js.map

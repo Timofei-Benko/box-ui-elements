@@ -28,3 +28,4 @@ var FileWord16 = function FileWord16(props) {
 };
 
 export default FileWord16;
+//# sourceMappingURL=FileWord16.js.map

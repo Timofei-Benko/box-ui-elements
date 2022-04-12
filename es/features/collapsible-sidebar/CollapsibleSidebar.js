@@ -150,3 +150,4 @@ _defineProperty(CollapsibleSidebar, "defaultProps", {
 });
 
 export default CollapsibleSidebar;
+//# sourceMappingURL=CollapsibleSidebar.js.map

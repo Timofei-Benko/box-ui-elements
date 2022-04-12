@@ -29,3 +29,4 @@ export default (function (onChange, canSetShareAccess, selectableType, extension
     });
   };
 });
+//# sourceMappingURL=shareAccessCellRenderer.js.map

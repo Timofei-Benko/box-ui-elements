@@ -28,3 +28,4 @@ var AvatarBadge16 = function AvatarBadge16(props) {
 };
 
 export default AvatarBadge16;
+//# sourceMappingURL=AvatarBadge16.js.map

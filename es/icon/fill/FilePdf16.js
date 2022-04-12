@@ -28,3 +28,4 @@ var FilePdf16 = function FilePdf16(props) {
 };
 
 export default FilePdf16;
+//# sourceMappingURL=FilePdf16.js.map

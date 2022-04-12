@@ -25,3 +25,4 @@ var IconUploadSolid = function IconUploadSolid(_ref) {
 };
 
 export default IconUploadSolid;
+//# sourceMappingURL=IconUploadSolid.js.map

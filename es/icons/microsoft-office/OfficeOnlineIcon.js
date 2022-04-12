@@ -44,3 +44,4 @@ var OfficeOnlineIcon = function OfficeOnlineIcon(_ref) {
 };
 
 export default OfficeOnlineIcon;
+//# sourceMappingURL=OfficeOnlineIcon.js.map

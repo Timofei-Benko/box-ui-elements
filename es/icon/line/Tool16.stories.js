@@ -10,3 +10,4 @@ export default {
     notes: "`import Tool16 from 'box-ui-elements/es/icon/line/Tool16';`"
   }
 };
+//# sourceMappingURL=Tool16.stories.js.map

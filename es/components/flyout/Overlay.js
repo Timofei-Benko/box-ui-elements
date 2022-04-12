@@ -92,3 +92,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default Overlay;
+//# sourceMappingURL=Overlay.js.map

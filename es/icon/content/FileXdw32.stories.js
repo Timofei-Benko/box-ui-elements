@@ -10,3 +10,4 @@ export default {
     notes: "`import FileXdw32 from 'box-ui-elements/es/icon/content/FileXdw32';`"
   }
 };
+//# sourceMappingURL=FileXdw32.stories.js.map

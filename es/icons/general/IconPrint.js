@@ -28,3 +28,4 @@ var IconPrint = function IconPrint(_ref) {
 };
 
 export default IconPrint;
+//# sourceMappingURL=IconPrint.js.map

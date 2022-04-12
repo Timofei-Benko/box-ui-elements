@@ -122,3 +122,4 @@ var PreviewHeader = function PreviewHeader(_ref) {
 };
 
 export default injectIntl(PreviewHeader);
+//# sourceMappingURL=PreviewHeader.js.map

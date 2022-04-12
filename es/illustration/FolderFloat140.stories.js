@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderFloat140 from 'box-ui-elements/es/illustration/FolderFloat140';`"
   }
 };
+//# sourceMappingURL=FolderFloat140.stories.js.map

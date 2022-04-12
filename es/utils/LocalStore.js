@@ -148,3 +148,4 @@ function () {
 }();
 
 export default LocalStore;
+//# sourceMappingURL=LocalStore.js.map

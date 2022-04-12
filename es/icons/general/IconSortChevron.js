@@ -25,3 +25,4 @@ var IconSortChevron = function IconSortChevron(_ref) {
 };
 
 export default IconSortChevron;
+//# sourceMappingURL=IconSortChevron.js.map

@@ -48,3 +48,4 @@ export default (function () {
     }, getIcon(dimension, rowData));
   };
 });
+//# sourceMappingURL=iconCellRenderer.js.map

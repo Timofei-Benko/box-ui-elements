@@ -28,3 +28,4 @@ var CreditCard16 = function CreditCard16(props) {
 };
 
 export default CreditCard16;
+//# sourceMappingURL=CreditCard16.js.map

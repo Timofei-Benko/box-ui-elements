@@ -10,3 +10,4 @@ export default {
     notes: "`import FilePowerpoint32 from 'box-ui-elements/es/icon/content/FilePowerpoint32';`"
   }
 };
+//# sourceMappingURL=FilePowerpoint32.stories.js.map

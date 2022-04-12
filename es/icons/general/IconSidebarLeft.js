@@ -29,3 +29,4 @@ var IconSidebarLeft = function IconSidebarLeft(_ref) {
 };
 
 export default IconSidebarLeft;
+//# sourceMappingURL=IconSidebarLeft.js.map

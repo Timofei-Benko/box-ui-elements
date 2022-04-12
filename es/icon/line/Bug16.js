@@ -28,3 +28,4 @@ var Bug16 = function Bug16(props) {
 };
 
 export default Bug16;
+//# sourceMappingURL=Bug16.js.map

@@ -27,3 +27,4 @@ var TwoPeople16 = function TwoPeople16(props) {
 };
 
 export default TwoPeople16;
+//# sourceMappingURL=TwoPeople16.js.map

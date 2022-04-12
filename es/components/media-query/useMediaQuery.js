@@ -88,3 +88,4 @@ function useMediaQuery() {
 }
 
 export default useMediaQuery;
+//# sourceMappingURL=useMediaQuery.js.map

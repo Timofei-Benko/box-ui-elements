@@ -87,3 +87,4 @@ PresenceCollaborator.propTypes = {
 };
 export { PresenceCollaborator as PresenceCollaboratorComponent };
 export default injectIntl(PresenceCollaborator);
+//# sourceMappingURL=PresenceCollaborator.js.map

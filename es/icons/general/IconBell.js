@@ -44,3 +44,4 @@ var IconBell = function IconBell(_ref) {
 };
 
 export default IconBell;
+//# sourceMappingURL=IconBell.js.map

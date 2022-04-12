@@ -27,3 +27,4 @@ var AnnotationsDrawing16 = function AnnotationsDrawing16(props) {
 };
 
 export default AnnotationsDrawing16;
+//# sourceMappingURL=AnnotationsDrawing16.js.map

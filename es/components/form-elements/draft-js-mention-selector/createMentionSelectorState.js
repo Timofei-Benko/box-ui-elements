@@ -69,3 +69,4 @@ var createMentionSelectorState = function createMentionSelectorState() {
 };
 
 export default createMentionSelectorState;
+//# sourceMappingURL=createMentionSelectorState.js.map

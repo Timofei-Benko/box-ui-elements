@@ -53,3 +53,4 @@ var AnnotationActivityMenu = function AnnotationActivityMenu(_ref) {
 };
 
 export default AnnotationActivityMenu;
+//# sourceMappingURL=AnnotationActivityMenu.js.map

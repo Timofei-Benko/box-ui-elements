@@ -10,3 +10,4 @@ var ThumbnailCardThumbnail = function ThumbnailCardThumbnail(_ref) {
 };
 
 export default ThumbnailCardThumbnail;
+//# sourceMappingURL=ThumbnailCardThumbnail.js.map

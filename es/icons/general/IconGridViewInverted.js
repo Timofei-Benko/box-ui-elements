@@ -26,3 +26,4 @@ var IconGridViewInverted = function IconGridViewInverted(_ref) {
 };
 
 export default IconGridViewInverted;
+//# sourceMappingURL=IconGridViewInverted.js.map

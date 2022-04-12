@@ -25,3 +25,4 @@ export default (function (canPreview, canShare, canDownload, canDelete, canRenam
     });
   };
 });
+//# sourceMappingURL=moreOptionsCellRenderer.js.map

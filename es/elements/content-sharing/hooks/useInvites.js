@@ -105,3 +105,4 @@ function useInvites(api, itemID, itemType, options) {
 }
 
 export default useInvites;
+//# sourceMappingURL=useInvites.js.map

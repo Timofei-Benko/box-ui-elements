@@ -32,3 +32,4 @@ var IconAccepted = function IconAccepted(_ref) {
 };
 
 export default IconAccepted;
+//# sourceMappingURL=IconAccepted.js.map

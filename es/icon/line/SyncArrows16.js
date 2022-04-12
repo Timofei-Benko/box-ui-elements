@@ -28,3 +28,4 @@ var SyncArrows16 = function SyncArrows16(props) {
 };
 
 export default SyncArrows16;
+//# sourceMappingURL=SyncArrows16.js.map

@@ -205,3 +205,4 @@ function useSharedLink(api, itemID, itemType, permissions, accessLevel) {
 }
 
 export default useSharedLink;
+//# sourceMappingURL=useSharedLink.js.map

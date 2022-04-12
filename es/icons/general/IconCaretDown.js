@@ -26,3 +26,4 @@ var IconCaretDown = function IconCaretDown(_ref) {
 };
 
 export default IconCaretDown;
+//# sourceMappingURL=IconCaretDown.js.map

@@ -113,3 +113,4 @@ function (_React$PureComponent) {
 }(React.PureComponent);
 
 export default Avatar;
+//# sourceMappingURL=Avatar.js.map

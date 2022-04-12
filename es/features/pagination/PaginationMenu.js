@@ -45,3 +45,4 @@ var PaginationMenu = function PaginationMenu(_ref) {
 };
 
 export default PaginationMenu;
+//# sourceMappingURL=PaginationMenu.js.map

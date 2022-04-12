@@ -36,3 +36,4 @@ var IconWorkflow = function IconWorkflow(_ref) {
 };
 
 export default IconWorkflow;
+//# sourceMappingURL=IconWorkflow.js.map

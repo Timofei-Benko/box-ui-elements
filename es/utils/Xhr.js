@@ -544,3 +544,4 @@ function () {
 }();
 
 export default Xhr;
+//# sourceMappingURL=Xhr.js.map

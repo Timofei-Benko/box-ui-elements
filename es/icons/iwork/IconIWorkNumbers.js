@@ -148,3 +148,4 @@ _defineProperty(IconIWorkNumbers, "defaultProps", {
 });
 
 export default IconIWorkNumbers;
+//# sourceMappingURL=IconIWorkNumbers.js.map

@@ -32,3 +32,4 @@ var FolderExternal32 = function FolderExternal32(props) {
 };
 
 export default FolderExternal32;
+//# sourceMappingURL=FolderExternal32.js.map

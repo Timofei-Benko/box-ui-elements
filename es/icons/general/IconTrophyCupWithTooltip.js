@@ -158,3 +158,4 @@ _defineProperty(IconTrophyCupWithTooltip, "defaultProps", {
 });
 
 export default IconTrophyCupWithTooltip;
+//# sourceMappingURL=IconTrophyCupWithTooltip.js.map

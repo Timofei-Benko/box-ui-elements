@@ -215,3 +215,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default CollapsibleSidebarNav;
+//# sourceMappingURL=CollapsibleSidebarNav.js.map

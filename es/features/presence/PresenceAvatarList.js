@@ -106,3 +106,4 @@ function PresenceAvatarList(props, ref) {
 
 export { PresenceAvatarList as PresenceAvatarListComponent };
 export default React.forwardRef(PresenceAvatarList);
+//# sourceMappingURL=PresenceAvatarList.js.map

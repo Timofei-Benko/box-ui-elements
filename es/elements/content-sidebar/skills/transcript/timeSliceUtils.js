@@ -26,3 +26,4 @@ var isValidTimeSlice = function isValidTimeSlice(timeslices) {
 };
 
 export { isValidTimeSlice, isValidStartTime };
+//# sourceMappingURL=timeSliceUtils.js.map

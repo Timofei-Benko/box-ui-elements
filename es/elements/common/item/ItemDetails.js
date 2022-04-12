@@ -27,3 +27,4 @@ var ItemDetails = function ItemDetails(_ref) {
 };
 
 export default ItemDetails;
+//# sourceMappingURL=ItemDetails.js.map

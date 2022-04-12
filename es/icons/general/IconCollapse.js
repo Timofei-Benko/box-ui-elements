@@ -25,3 +25,4 @@ var IconCollapse = function IconCollapse(_ref) {
 };
 
 export default IconCollapse;
+//# sourceMappingURL=IconCollapse.js.map

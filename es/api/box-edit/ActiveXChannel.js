@@ -165,3 +165,4 @@ function (_Channel) {
 
 export { MAX_RETRY_ATTEMPTS };
 export default ActiveXChannel;
+//# sourceMappingURL=ActiveXChannel.js.map

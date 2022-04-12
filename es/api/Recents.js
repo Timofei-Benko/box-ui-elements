@@ -264,3 +264,4 @@ function (_Base) {
 }(Base);
 
 export default Recents;
+//# sourceMappingURL=Recents.js.map

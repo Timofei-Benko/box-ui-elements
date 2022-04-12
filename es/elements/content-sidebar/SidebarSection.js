@@ -118,3 +118,4 @@ _defineProperty(SidebarSection, "defaultProps", {
 });
 
 export default SidebarSection;
+//# sourceMappingURL=SidebarSection.js.map

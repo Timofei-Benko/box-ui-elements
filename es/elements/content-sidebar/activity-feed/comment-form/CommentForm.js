@@ -191,3 +191,4 @@ _defineProperty(CommentForm, "defaultProps", {
 
 export { CommentForm as CommentFormUnwrapped };
 export default injectIntl(CommentForm);
+//# sourceMappingURL=CommentForm.js.map

@@ -19,3 +19,4 @@ export var messageActions = {
     type: 'close'
   }
 };
+//# sourceMappingURL=message-actions.js.map

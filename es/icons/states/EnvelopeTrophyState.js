@@ -318,3 +318,4 @@ _defineProperty(EnvelopeTrophyState, "defaultProps", {
 });
 
 export default EnvelopeTrophyState;
+//# sourceMappingURL=EnvelopeTrophyState.js.map

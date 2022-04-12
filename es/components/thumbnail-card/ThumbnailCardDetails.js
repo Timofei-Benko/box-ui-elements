@@ -35,3 +35,4 @@ var ThumbnailCardDetails = function ThumbnailCardDetails(_ref2) {
 };
 
 export default ThumbnailCardDetails;
+//# sourceMappingURL=ThumbnailCardDetails.js.map

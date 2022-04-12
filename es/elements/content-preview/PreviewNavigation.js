@@ -58,3 +58,4 @@ var PreviewNavigation = function PreviewNavigation(_ref) {
 
 export { PreviewNavigation as PreviewNavigationComponent };
 export default injectIntl(PreviewNavigation);
+//# sourceMappingURL=PreviewNavigation.js.map

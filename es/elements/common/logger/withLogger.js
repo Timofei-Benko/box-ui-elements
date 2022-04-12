@@ -21,3 +21,4 @@ var withLogger = function withLogger(source) {
 };
 
 export default withLogger;
+//# sourceMappingURL=withLogger.js.map

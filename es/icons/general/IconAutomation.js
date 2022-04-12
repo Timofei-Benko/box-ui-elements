@@ -26,3 +26,4 @@ var IconAutomation = function IconAutomation(_ref) {
 };
 
 export default IconAutomation;
+//# sourceMappingURL=IconAutomation.js.map

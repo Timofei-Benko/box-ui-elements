@@ -28,3 +28,4 @@ var FolderPersonal16 = function FolderPersonal16(props) {
 };
 
 export default FolderPersonal16;
+//# sourceMappingURL=FolderPersonal16.js.map

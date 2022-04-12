@@ -85,3 +85,4 @@ function (_MarkerBasedAPI) {
 }(MarkerBasedAPI);
 
 export default MarkerBasedGroups;
+//# sourceMappingURL=MarkerBasedGroups.js.map

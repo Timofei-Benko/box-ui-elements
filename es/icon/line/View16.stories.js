@@ -10,3 +10,4 @@ export default {
     notes: "`import View16 from 'box-ui-elements/es/icon/line/View16';`"
   }
 };
+//# sourceMappingURL=View16.stories.js.map

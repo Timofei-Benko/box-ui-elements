@@ -25,3 +25,4 @@ var IconMinus = function IconMinus(_ref) {
 };
 
 export default IconMinus;
+//# sourceMappingURL=IconMinus.js.map

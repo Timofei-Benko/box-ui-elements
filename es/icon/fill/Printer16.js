@@ -28,3 +28,4 @@ var Printer16 = function Printer16(props) {
 };
 
 export default Printer16;
+//# sourceMappingURL=Printer16.js.map

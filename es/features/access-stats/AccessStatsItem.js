@@ -65,3 +65,4 @@ var AccessStatsItem = function AccessStatsItem(_ref) {
 };
 
 export default AccessStatsItem;
+//# sourceMappingURL=AccessStatsItem.js.map

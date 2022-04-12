@@ -24,3 +24,4 @@ export default function PreviewError(_ref) {
     className: "bcpr-PreviewError-message"
   }, React.createElement(FormattedMessage, message)));
 }
+//# sourceMappingURL=PreviewError.js.map

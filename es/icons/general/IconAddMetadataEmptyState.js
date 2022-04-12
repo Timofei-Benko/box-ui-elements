@@ -56,3 +56,4 @@ var IconAddMetadataEmptyState = function IconAddMetadataEmptyState(_ref) {
 };
 
 export default IconAddMetadataEmptyState;
+//# sourceMappingURL=IconAddMetadataEmptyState.js.map

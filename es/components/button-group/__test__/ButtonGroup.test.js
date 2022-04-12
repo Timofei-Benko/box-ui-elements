@@ -9,3 +9,4 @@ describe('components/button-group/ButtonGroup', function () {
     expect(wrapper.find('.btn').length).toBe(3);
   });
 });
+//# sourceMappingURL=ButtonGroup.test.js.map

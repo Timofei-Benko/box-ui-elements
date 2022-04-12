@@ -14,3 +14,4 @@ var Crumb = function Crumb(_ref) {
 };
 
 export default Crumb;
+//# sourceMappingURL=Crumb.js.map

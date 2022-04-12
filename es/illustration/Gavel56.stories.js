@@ -10,3 +10,4 @@ export default {
     notes: "`import Gavel56 from 'box-ui-elements/es/illustration/Gavel56';`"
   }
 };
+//# sourceMappingURL=Gavel56.stories.js.map

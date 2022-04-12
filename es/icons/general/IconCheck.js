@@ -28,3 +28,4 @@ var IconCheck = function IconCheck(_ref) {
 };
 
 export default IconCheck;
+//# sourceMappingURL=IconCheck.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import NotesStar140 from 'box-ui-elements/es/illustration/NotesStar140';`"
   }
 };
+//# sourceMappingURL=NotesStar140.stories.js.map

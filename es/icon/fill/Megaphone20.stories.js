@@ -10,3 +10,4 @@ export default {
     notes: "`import Megaphone20 from 'box-ui-elements/es/icon/fill/Megaphone20';`"
   }
 };
+//# sourceMappingURL=Megaphone20.stories.js.map

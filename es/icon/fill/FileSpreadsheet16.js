@@ -28,3 +28,4 @@ var FileSpreadsheet16 = function FileSpreadsheet16(props) {
 };
 
 export default FileSpreadsheet16;
+//# sourceMappingURL=FileSpreadsheet16.js.map

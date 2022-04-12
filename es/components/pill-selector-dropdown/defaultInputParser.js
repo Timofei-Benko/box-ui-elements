@@ -42,3 +42,4 @@ function defaultInputParser(inputValue, options, selectedOptions) {
 }
 
 export default defaultInputParser;
+//# sourceMappingURL=defaultInputParser.js.map

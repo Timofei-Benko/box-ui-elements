@@ -10,3 +10,4 @@ export default {
     notes: "`import TaskList56 from 'box-ui-elements/es/illustration/TaskList56';`"
   }
 };
+//# sourceMappingURL=TaskList56.stories.js.map

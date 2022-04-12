@@ -28,3 +28,4 @@ var IconFileBoxNote = function IconFileBoxNote(props) {
 };
 
 export default IconFileBoxNote;
+//# sourceMappingURL=IconFileBoxNote.js.map

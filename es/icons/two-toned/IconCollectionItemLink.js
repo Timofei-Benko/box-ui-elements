@@ -29,3 +29,4 @@ var IconCollectionItemLink = function IconCollectionItemLink(_ref) {
 };
 
 export default IconCollectionItemLink;
+//# sourceMappingURL=IconCollectionItemLink.js.map

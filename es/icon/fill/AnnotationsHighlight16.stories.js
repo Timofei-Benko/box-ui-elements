@@ -10,3 +10,4 @@ export default {
     notes: "`import AnnotationsHighlight16 from 'box-ui-elements/es/icon/fill/AnnotationsHighlight16';`"
   }
 };
+//# sourceMappingURL=AnnotationsHighlight16.stories.js.map

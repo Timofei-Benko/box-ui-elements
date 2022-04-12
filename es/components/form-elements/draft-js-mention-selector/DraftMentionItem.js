@@ -17,3 +17,4 @@ var DraftMentionItem = function DraftMentionItem(_ref) {
 };
 
 export default DraftMentionItem;
+//# sourceMappingURL=DraftMentionItem.js.map

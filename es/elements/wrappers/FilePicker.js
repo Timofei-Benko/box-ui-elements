@@ -55,3 +55,4 @@ function (_ContentPicker) {
 }(ContentPicker);
 
 export default FilePicker;
+//# sourceMappingURL=FilePicker.js.map

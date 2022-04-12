@@ -10,3 +10,4 @@ export default {
     notes: "`import Undo16 from 'box-ui-elements/es/icon/line/Undo16';`"
   }
 };
+//# sourceMappingURL=Undo16.stories.js.map

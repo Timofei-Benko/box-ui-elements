@@ -39,3 +39,4 @@ var FileDocs32 = function FileDocs32(props) {
 };
 
 export default FileDocs32;
+//# sourceMappingURL=FileDocs32.js.map

@@ -28,3 +28,4 @@ var FilePhotoshop16 = function FilePhotoshop16(props) {
 };
 
 export default FilePhotoshop16;
+//# sourceMappingURL=FilePhotoshop16.js.map

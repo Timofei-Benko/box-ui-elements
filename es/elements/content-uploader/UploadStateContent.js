@@ -63,3 +63,4 @@ var UploadStateContent = function UploadStateContent(_ref) {
 };
 
 export default UploadStateContent;
+//# sourceMappingURL=UploadStateContent.js.map

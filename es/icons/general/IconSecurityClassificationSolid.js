@@ -35,3 +35,4 @@ var IconSecurityClassificationSolid = function IconSecurityClassificationSolid(_
 };
 
 export default IconSecurityClassificationSolid;
+//# sourceMappingURL=IconSecurityClassificationSolid.js.map

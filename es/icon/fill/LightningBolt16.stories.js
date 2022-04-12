@@ -10,3 +10,4 @@ export default {
     notes: "`import LightningBolt16 from 'box-ui-elements/es/icon/fill/LightningBolt16';`"
   }
 };
+//# sourceMappingURL=LightningBolt16.stories.js.map

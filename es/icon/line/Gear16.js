@@ -28,3 +28,4 @@ var Gear16 = function Gear16(props) {
 };
 
 export default Gear16;
+//# sourceMappingURL=Gear16.js.map

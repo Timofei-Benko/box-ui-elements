@@ -97,3 +97,4 @@ AllowDownloadSection.propTypes = {
   onChange: PropTypes.func.isRequired
 };
 export default AllowDownloadSection;
+//# sourceMappingURL=AllowDownloadSection.js.map

@@ -16,3 +16,4 @@ var TranslateButton = function TranslateButton(_ref) {
 };
 
 export default TranslateButton;
+//# sourceMappingURL=TranslateButton.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import FileXbd32 from 'box-ui-elements/es/icon/content/FileXbd32';`"
   }
 };
+//# sourceMappingURL=FileXbd32.stories.js.map

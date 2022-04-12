@@ -11,3 +11,4 @@ export default (function () {
     return React.createElement("span", null, getSize(cellData));
   };
 });
+//# sourceMappingURL=sizeCellRenderer.js.map

@@ -26,3 +26,4 @@ var IconRegionAnnotation = function IconRegionAnnotation(_ref) {
 };
 
 export default IconRegionAnnotation;
+//# sourceMappingURL=IconRegionAnnotation.js.map

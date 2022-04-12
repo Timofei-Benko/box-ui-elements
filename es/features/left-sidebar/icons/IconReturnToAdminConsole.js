@@ -23,3 +23,4 @@ var IconReturnToAdminConsole = function IconReturnToAdminConsole(_ref) {
 };
 
 export default IconReturnToAdminConsole;
+//# sourceMappingURL=IconReturnToAdminConsole.js.map

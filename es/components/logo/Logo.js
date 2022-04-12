@@ -21,3 +21,4 @@ var Logo = function Logo(_ref) {
 };
 
 export default Logo;
+//# sourceMappingURL=Logo.js.map

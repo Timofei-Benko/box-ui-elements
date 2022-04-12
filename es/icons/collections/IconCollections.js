@@ -28,3 +28,4 @@ var IconCollections = function IconCollections(_ref) {
 };
 
 export default IconCollections;
+//# sourceMappingURL=IconCollections.js.map

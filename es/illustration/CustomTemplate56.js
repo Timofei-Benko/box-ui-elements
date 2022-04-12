@@ -49,3 +49,4 @@ var CustomTemplate56 = function CustomTemplate56(props) {
 };
 
 export default CustomTemplate56;
+//# sourceMappingURL=CustomTemplate56.js.map

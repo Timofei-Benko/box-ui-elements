@@ -28,3 +28,4 @@ var Folder16 = function Folder16(props) {
 };
 
 export default Folder16;
+//# sourceMappingURL=Folder16.js.map

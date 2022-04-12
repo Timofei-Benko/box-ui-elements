@@ -140,3 +140,4 @@ _defineProperty(CustomInstance, "defaultProps", {
 });
 
 export default CustomInstance;
+//# sourceMappingURL=CustomInstance.js.map

@@ -71,3 +71,4 @@ function (_ES6Wrapper) {
 global.Box = global.Box || {};
 global.Box.ContentSidebar = ContentSidebar;
 export default ContentSidebar;
+//# sourceMappingURL=ContentSidebar.js.map

@@ -56,3 +56,4 @@ var TaskError = function TaskError(_ref) {
 };
 
 export default TaskError;
+//# sourceMappingURL=TaskError.js.map

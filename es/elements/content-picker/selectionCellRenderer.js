@@ -35,3 +35,4 @@ export default (function (onItemSelect, selectableType, extensionsWhitelist, has
     }, _defineProperty({}, isRadio ? 'isSelected' : 'isChecked', selected)));
   };
 });
+//# sourceMappingURL=selectionCellRenderer.js.map

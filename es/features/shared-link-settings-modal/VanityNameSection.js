@@ -64,3 +64,4 @@ VanityNameSection.propTypes = {
 };
 export { VanityNameSection as VanityNameSectionBase };
 export default injectIntl(VanityNameSection);
+//# sourceMappingURL=VanityNameSection.js.map

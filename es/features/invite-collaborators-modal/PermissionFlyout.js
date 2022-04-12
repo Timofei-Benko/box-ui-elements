@@ -43,3 +43,4 @@ PermissionFlyout.propTypes = {
 };
 export { PermissionFlyout as PermissionFlyoutBase };
 export default injectIntl(PermissionFlyout);
+//# sourceMappingURL=PermissionFlyout.js.map

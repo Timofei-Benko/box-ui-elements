@@ -23,3 +23,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=ThumbnailCard.stories.js.map

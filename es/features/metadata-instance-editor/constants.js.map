@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/features/metadata-instance-editor/constants.js"],"names":["TEMPLATE_CUSTOM_PROPERTIES"],"mappings":"AAEA,IAAMA,0BAAwC,GAAG,YAAjD;AACA,eAAeA,0BAAf","sourcesContent":["// @flow\n\nconst TEMPLATE_CUSTOM_PROPERTIES: 'properties' = 'properties';\nexport default TEMPLATE_CUSTOM_PROPERTIES;\n"],"file":"constants.js"}

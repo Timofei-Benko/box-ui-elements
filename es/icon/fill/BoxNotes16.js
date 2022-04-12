@@ -28,3 +28,4 @@ var BoxNotes16 = function BoxNotes16(props) {
 };
 
 export default BoxNotes16;
+//# sourceMappingURL=BoxNotes16.js.map

@@ -85,3 +85,4 @@ var fileNameCellRenderer = function fileNameCellRenderer(intl) {
 };
 
 export default fileNameCellRenderer;
+//# sourceMappingURL=filePathCellRenderer.js.map

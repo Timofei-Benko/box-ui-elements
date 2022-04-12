@@ -27,3 +27,4 @@ var IconCaretRound = function IconCaretRound(_ref) {
 };
 
 export default IconCaretRound;
+//# sourceMappingURL=IconCaretRound.js.map

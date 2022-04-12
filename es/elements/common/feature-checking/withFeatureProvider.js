@@ -26,3 +26,4 @@ function withFeatureProvider(WrappedComponent) {
 }
 
 export default withFeatureProvider;
+//# sourceMappingURL=withFeatureProvider.js.map

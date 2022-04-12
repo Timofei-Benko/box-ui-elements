@@ -28,3 +28,4 @@ var EnvelopeBadge16 = function EnvelopeBadge16(props) {
 };
 
 export default EnvelopeBadge16;
+//# sourceMappingURL=EnvelopeBadge16.js.map

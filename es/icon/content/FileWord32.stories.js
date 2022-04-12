@@ -10,3 +10,4 @@ export default {
     notes: "`import FileWord32 from 'box-ui-elements/es/icon/content/FileWord32';`"
   }
 };
+//# sourceMappingURL=FileWord32.stories.js.map

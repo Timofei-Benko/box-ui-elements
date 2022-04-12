@@ -10,3 +10,4 @@ export default {
     notes: "`import CircleCheck16 from 'box-ui-elements/es/icon/line/CircleCheck16';`"
   }
 };
+//# sourceMappingURL=CircleCheck16.stories.js.map

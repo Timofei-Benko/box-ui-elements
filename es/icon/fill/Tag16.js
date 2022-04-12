@@ -28,3 +28,4 @@ var Tag16 = function Tag16(props) {
 };
 
 export default Tag16;
+//# sourceMappingURL=Tag16.js.map

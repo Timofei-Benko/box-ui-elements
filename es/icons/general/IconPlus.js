@@ -25,3 +25,4 @@ var IconPlus = function IconPlus(_ref) {
 };
 
 export default IconPlus;
+//# sourceMappingURL=IconPlus.js.map

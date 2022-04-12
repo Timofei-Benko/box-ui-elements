@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderShared32 from 'box-ui-elements/es/icon/content/FolderShared32';`"
   }
 };
+//# sourceMappingURL=FolderShared32.stories.js.map

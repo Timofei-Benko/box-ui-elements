@@ -10,3 +10,4 @@ export default {
     notes: "`import SignFieldSignature16 from 'box-ui-elements/es/icon/fill/SignFieldSignature16';`"
   }
 };
+//# sourceMappingURL=SignFieldSignature16.stories.js.map

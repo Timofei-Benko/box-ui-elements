@@ -39,3 +39,4 @@ var FileIllustrator32 = function FileIllustrator32(props) {
 };
 
 export default FileIllustrator32;
+//# sourceMappingURL=FileIllustrator32.js.map

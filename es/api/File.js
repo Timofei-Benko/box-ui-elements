@@ -481,3 +481,4 @@ function (_Item) {
 }(Item);
 
 export default File;
+//# sourceMappingURL=File.js.map

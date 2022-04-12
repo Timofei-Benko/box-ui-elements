@@ -27,3 +27,4 @@ var Ribbon16 = function Ribbon16(props) {
 };
 
 export default Ribbon16;
+//# sourceMappingURL=Ribbon16.js.map

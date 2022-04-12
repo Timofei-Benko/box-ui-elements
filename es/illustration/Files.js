@@ -71,3 +71,4 @@ var Files = function Files(props) {
 };
 
 export default Files;
+//# sourceMappingURL=Files.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import LockBadge16 from 'box-ui-elements/es/icon/line/LockBadge16';`"
   }
 };
+//# sourceMappingURL=LockBadge16.stories.js.map

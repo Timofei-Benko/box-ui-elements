@@ -10,3 +10,4 @@ export default {
     notes: "`import FileDocs32 from 'box-ui-elements/es/icon/content/FileDocs32';`"
   }
 };
+//# sourceMappingURL=FileDocs32.stories.js.map

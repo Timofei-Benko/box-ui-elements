@@ -81,3 +81,4 @@ function (_React$Component) {
 }(React.Component);
 
 export default AccessibleSVG;
+//# sourceMappingURL=AccessibleSVG.js.map

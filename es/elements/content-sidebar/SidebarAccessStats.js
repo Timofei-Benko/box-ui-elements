@@ -60,3 +60,4 @@ var SidebarAccessStats = function SidebarAccessStats(_ref) {
 
 export { SidebarAccessStats as SidebarAccessStatsComponent };
 export default withErrorHandling(injectIntl(SidebarAccessStats));
+//# sourceMappingURL=SidebarAccessStats.js.map

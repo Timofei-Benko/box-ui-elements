@@ -130,3 +130,4 @@ _defineProperty(ErrorBoundary, "defaultProps", {
 });
 
 export default ErrorBoundary;
+//# sourceMappingURL=ErrorBoundary.js.map

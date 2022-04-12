@@ -28,3 +28,4 @@ var FileBookmark16 = function FileBookmark16(props) {
 };
 
 export default FileBookmark16;
+//# sourceMappingURL=FileBookmark16.js.map

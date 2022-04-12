@@ -28,3 +28,4 @@ var Skills16 = function Skills16(props) {
 };
 
 export default Skills16;
+//# sourceMappingURL=Skills16.js.map

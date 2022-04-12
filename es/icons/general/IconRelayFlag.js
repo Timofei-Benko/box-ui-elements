@@ -26,3 +26,4 @@ var IconRelayFlag = function IconRelayFlag(_ref) {
 };
 
 export default IconRelayFlag;
+//# sourceMappingURL=IconRelayFlag.js.map

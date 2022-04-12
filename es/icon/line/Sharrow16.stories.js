@@ -10,3 +10,4 @@ export default {
     notes: "`import Sharrow16 from 'box-ui-elements/es/icon/line/Sharrow16';`"
   }
 };
+//# sourceMappingURL=Sharrow16.stories.js.map

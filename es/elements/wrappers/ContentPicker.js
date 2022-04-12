@@ -120,3 +120,4 @@ function (_ES6Wrapper) {
 }(ES6Wrapper);
 
 export default ContentPicker;
+//# sourceMappingURL=ContentPicker.js.map

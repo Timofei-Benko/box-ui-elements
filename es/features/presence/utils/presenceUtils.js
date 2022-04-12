@@ -72,3 +72,4 @@ function determineInteractionMessage(interactionType, interactedAt) {
 }
 
 export { sortByActivity, getLastActionTimeMS, determineInteractionMessage };
+//# sourceMappingURL=presenceUtils.js.map

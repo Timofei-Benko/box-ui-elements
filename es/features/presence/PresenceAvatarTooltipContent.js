@@ -39,3 +39,4 @@ function PresenceAvatarTooltipContent(_ref) {
 
 export { PresenceAvatarTooltipContent as PresenceAvatarTooltipContentComponent };
 export default injectIntl(PresenceAvatarTooltipContent);
+//# sourceMappingURL=PresenceAvatarTooltipContent.js.map

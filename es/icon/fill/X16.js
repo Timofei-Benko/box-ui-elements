@@ -28,3 +28,4 @@ var X16 = function X16(props) {
 };
 
 export default X16;
+//# sourceMappingURL=X16.js.map

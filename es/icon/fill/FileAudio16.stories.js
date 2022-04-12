@@ -10,3 +10,4 @@ export default {
     notes: "`import FileAudio16 from 'box-ui-elements/es/icon/fill/FileAudio16';`"
   }
 };
+//# sourceMappingURL=FileAudio16.stories.js.map

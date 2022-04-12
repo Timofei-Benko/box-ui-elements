@@ -63,3 +63,4 @@ SecurityControlsModal.defaultProps = {
   modalItems: []
 };
 export default SecurityControlsModal;
+//# sourceMappingURL=SecurityControlsModal.js.map

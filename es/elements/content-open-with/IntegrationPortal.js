@@ -41,3 +41,4 @@ var IntegrationPortal = function IntegrationPortal(_ref) {
 };
 
 export default IntegrationPortal;
+//# sourceMappingURL=IntegrationPortal.js.map

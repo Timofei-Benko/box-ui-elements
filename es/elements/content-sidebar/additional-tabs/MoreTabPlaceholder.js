@@ -17,3 +17,4 @@ var MoreTabPlaceholder = function MoreTabPlaceholder() {
 };
 
 export default MoreTabPlaceholder;
+//# sourceMappingURL=MoreTabPlaceholder.js.map

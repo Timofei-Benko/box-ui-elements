@@ -35,3 +35,4 @@ var IconGlobeTinycon = function IconGlobeTinycon(_ref) {
 };
 
 export default IconGlobeTinycon;
+//# sourceMappingURL=IconGlobeTinycon.js.map

@@ -78,3 +78,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=Avatar.stories.js.map

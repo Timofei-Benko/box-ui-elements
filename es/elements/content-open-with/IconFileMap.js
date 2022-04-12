@@ -22,3 +22,4 @@ function getIcon(iconName) {
 }
 
 export default getIcon;
+//# sourceMappingURL=IconFileMap.js.map

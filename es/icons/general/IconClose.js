@@ -28,3 +28,4 @@ var IconClose = function IconClose(_ref) {
 };
 
 export default IconClose;
+//# sourceMappingURL=IconClose.js.map

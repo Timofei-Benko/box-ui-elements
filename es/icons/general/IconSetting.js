@@ -26,3 +26,4 @@ var IconSetting = function IconSetting(_ref) {
 };
 
 export default IconSetting;
+//# sourceMappingURL=IconSetting.js.map

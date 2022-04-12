@@ -28,3 +28,4 @@ var FolderExternal16 = function FolderExternal16(props) {
 };
 
 export default FolderExternal16;
+//# sourceMappingURL=FolderExternal16.js.map

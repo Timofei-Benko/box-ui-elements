@@ -76,3 +76,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=Checkbox.stories.js.map

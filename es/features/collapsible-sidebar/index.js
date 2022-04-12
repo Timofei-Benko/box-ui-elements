@@ -7,3 +7,4 @@ export { default as CollapsibleSidebarItem } from './CollapsibleSidebarItem';
 export { default as CollapsibleSidebarLogo } from './CollapsibleSidebarLogo';
 export { default as CollapsibleSidebarMenuItem } from './CollapsibleSidebarMenuItem';
 export { default as CollapsibleSidebarNav } from './CollapsibleSidebarNav';
+//# sourceMappingURL=index.js.map

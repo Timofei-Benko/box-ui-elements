@@ -47,3 +47,4 @@ var EmptyStateDetails = function EmptyStateDetails(props) {
 };
 
 export default EmptyStateDetails;
+//# sourceMappingURL=EmptyStateDetails.js.map

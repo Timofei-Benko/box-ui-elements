@@ -458,3 +458,4 @@ var metadataTableStateAfterMount = {
   }
 };
 export { metadataColumns, expectedVisibleColumns, visibleColumnsOneHidden, expectedVisibleColumnsOneHidden, visibleColumnsAfterMount, template, instances, metadataViewProps, metadataTableStateAfterMount };
+//# sourceMappingURL=fixtures.js.map

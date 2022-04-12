@@ -32,3 +32,4 @@ var IconBoxSquare = function IconBoxSquare(_ref) {
 };
 
 export default IconBoxSquare;
+//# sourceMappingURL=IconBoxSquare.js.map

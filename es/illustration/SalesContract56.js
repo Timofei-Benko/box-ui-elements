@@ -41,3 +41,4 @@ var SalesContract56 = function SalesContract56(props) {
 };
 
 export default SalesContract56;
+//# sourceMappingURL=SalesContract56.js.map

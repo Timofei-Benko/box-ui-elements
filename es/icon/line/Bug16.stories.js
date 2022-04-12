@@ -10,3 +10,4 @@ export default {
     notes: "`import Bug16 from 'box-ui-elements/es/icon/line/Bug16';`"
   }
 };
+//# sourceMappingURL=Bug16.stories.js.map

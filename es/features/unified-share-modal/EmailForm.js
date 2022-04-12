@@ -511,3 +511,4 @@ _defineProperty(EmailForm, "defaultProps", {
 
 export { EmailForm as EmailFormBase };
 export default injectIntl(EmailForm);
+//# sourceMappingURL=EmailForm.js.map

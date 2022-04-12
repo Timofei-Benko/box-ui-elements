@@ -10,3 +10,4 @@ export default {
     notes: "`import UserOrbit56 from 'box-ui-elements/es/illustration/UserOrbit56';`"
   }
 };
+//# sourceMappingURL=UserOrbit56.stories.js.map

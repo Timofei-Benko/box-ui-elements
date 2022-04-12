@@ -28,3 +28,4 @@ var Hidden16 = function Hidden16(props) {
 };
 
 export default Hidden16;
+//# sourceMappingURL=Hidden16.js.map

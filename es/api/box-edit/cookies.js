@@ -95,3 +95,4 @@ function isEnabled() {
 }
 
 export { get, isEnabled, remove, set };
+//# sourceMappingURL=cookies.js.map

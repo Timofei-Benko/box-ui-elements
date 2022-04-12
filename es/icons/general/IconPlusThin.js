@@ -26,3 +26,4 @@ var IconPlusThin = function IconPlusThin(_ref) {
 };
 
 export default IconPlusThin;
+//# sourceMappingURL=IconPlusThin.js.map

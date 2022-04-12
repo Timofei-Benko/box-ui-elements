@@ -285,3 +285,4 @@ _defineProperty(Sidebar, "defaultProps", {
 
 export { Sidebar as SidebarComponent };
 export default flow([withFeatureConsumer, withRouter])(Sidebar);
+//# sourceMappingURL=Sidebar.js.map

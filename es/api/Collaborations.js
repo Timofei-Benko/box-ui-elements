@@ -100,3 +100,4 @@ function (_Base) {
 }(Base);
 
 export default Collaborations;
+//# sourceMappingURL=Collaborations.js.map

@@ -221,3 +221,4 @@ var AnnotationActivity = function AnnotationActivity(_ref) {
 };
 
 export default AnnotationActivity;
+//# sourceMappingURL=AnnotationActivity.js.map

@@ -27,3 +27,4 @@ var GenericCopy16 = function GenericCopy16(props) {
 };
 
 export default GenericCopy16;
+//# sourceMappingURL=GenericCopy16.js.map

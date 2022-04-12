@@ -110,3 +110,4 @@ _defineProperty(IconGoogleSlides, "defaultProps", {
 });
 
 export default IconGoogleSlides;
+//# sourceMappingURL=IconGoogleSlides.js.map

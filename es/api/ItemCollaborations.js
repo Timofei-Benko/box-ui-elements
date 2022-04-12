@@ -99,3 +99,4 @@ function (_MarkerBasedAPI) {
 }(MarkerBasedAPI);
 
 export default ItemCollaborations;
+//# sourceMappingURL=ItemCollaborations.js.map

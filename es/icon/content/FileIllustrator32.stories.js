@@ -10,3 +10,4 @@ export default {
     notes: "`import FileIllustrator32 from 'box-ui-elements/es/icon/content/FileIllustrator32';`"
   }
 };
+//# sourceMappingURL=FileIllustrator32.stories.js.map

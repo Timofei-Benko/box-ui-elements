@@ -54,3 +54,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=Badge.stories.js.map

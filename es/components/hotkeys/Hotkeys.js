@@ -113,3 +113,4 @@ _defineProperty(Hotkeys, "contextTypes", {
 });
 
 export default Hotkeys;
+//# sourceMappingURL=Hotkeys.js.map

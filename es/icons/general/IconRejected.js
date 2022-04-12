@@ -33,3 +33,4 @@ var IconRejected = function IconRejected(_ref) {
 };
 
 export default IconRejected;
+//# sourceMappingURL=IconRejected.js.map

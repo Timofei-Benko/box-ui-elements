@@ -28,3 +28,4 @@ var FileImage16 = function FileImage16(props) {
 };
 
 export default FileImage16;
+//# sourceMappingURL=FileImage16.js.map

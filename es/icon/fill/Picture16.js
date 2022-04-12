@@ -27,3 +27,4 @@ var Picture16 = function Picture16(props) {
 };
 
 export default Picture16;
+//# sourceMappingURL=Picture16.js.map

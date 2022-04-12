@@ -40,3 +40,4 @@ var IconChevron = function IconChevron(_ref) {
 };
 
 export default IconChevron;
+//# sourceMappingURL=IconChevron.js.map

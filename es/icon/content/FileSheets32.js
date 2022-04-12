@@ -36,3 +36,4 @@ var FileSheets32 = function FileSheets32(props) {
 };
 
 export default FileSheets32;
+//# sourceMappingURL=FileSheets32.js.map

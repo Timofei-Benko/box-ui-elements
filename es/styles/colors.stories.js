@@ -141,3 +141,4 @@ export default {
     notes: mdNotes
   }
 };
+//# sourceMappingURL=colors.stories.js.map

@@ -43,3 +43,4 @@ var EditingTranscriptRow = function EditingTranscriptRow(_ref) {
 };
 
 export default EditingTranscriptRow;
+//# sourceMappingURL=EditingTranscriptRow.js.map

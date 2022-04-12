@@ -14,3 +14,4 @@ var SandboxBanner = function SandboxBanner(_ref) {
 };
 
 export default SandboxBanner;
+//# sourceMappingURL=SandboxBanner.js.map

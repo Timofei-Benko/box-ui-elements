@@ -28,3 +28,4 @@ var Pencil16 = function Pencil16(props) {
 };
 
 export default Pencil16;
+//# sourceMappingURL=Pencil16.js.map

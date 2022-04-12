@@ -10,3 +10,4 @@ export default {
     notes: "`import FileDicom16 from 'box-ui-elements/es/icon/fill/FileDicom16';`"
   }
 };
+//# sourceMappingURL=FileDicom16.stories.js.map

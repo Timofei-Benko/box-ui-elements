@@ -524,3 +524,4 @@ export var convertGroupContactsResponse = function convertGroupContactsResponse(
     };
   }).sort(sortByName);
 };
+//# sourceMappingURL=convertData.js.map

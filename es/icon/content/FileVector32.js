@@ -36,3 +36,4 @@ var FileVector32 = function FileVector32(props) {
 };
 
 export default FileVector32;
+//# sourceMappingURL=FileVector32.js.map

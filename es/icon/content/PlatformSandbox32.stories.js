@@ -10,3 +10,4 @@ export default {
     notes: "`import PlatformSandbox32 from 'box-ui-elements/es/icon/content/PlatformSandbox32';`"
   }
 };
+//# sourceMappingURL=PlatformSandbox32.stories.js.map

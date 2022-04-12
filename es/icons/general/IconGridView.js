@@ -28,3 +28,4 @@ var IconGridView = function IconGridView(_ref) {
 };
 
 export default IconGridView;
+//# sourceMappingURL=IconGridView.js.map

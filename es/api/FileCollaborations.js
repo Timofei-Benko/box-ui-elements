@@ -63,3 +63,4 @@ function (_ItemCollaborations) {
 }(ItemCollaborations);
 
 export default FileCollaborations;
+//# sourceMappingURL=FileCollaborations.js.map

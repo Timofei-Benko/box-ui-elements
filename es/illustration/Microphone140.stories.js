@@ -10,3 +10,4 @@ export default {
     notes: "`import Microphone140 from 'box-ui-elements/es/illustration/Microphone140';`"
   }
 };
+//# sourceMappingURL=Microphone140.stories.js.map

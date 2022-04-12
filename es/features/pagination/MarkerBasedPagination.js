@@ -37,3 +37,4 @@ var MarkerBasedPagination = function MarkerBasedPagination(_ref) {
 };
 
 export default MarkerBasedPagination;
+//# sourceMappingURL=MarkerBasedPagination.js.map

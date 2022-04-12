@@ -23,3 +23,4 @@ var IconSmallFolder = function IconSmallFolder(_ref) {
 };
 
 export default IconSmallFolder;
+//# sourceMappingURL=IconSmallFolder.js.map

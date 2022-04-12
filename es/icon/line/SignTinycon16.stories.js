@@ -10,3 +10,4 @@ export default {
     notes: "`import SignTinycon16 from 'box-ui-elements/es/icon/line/SignTinycon16';`"
   }
 };
+//# sourceMappingURL=SignTinycon16.stories.js.map

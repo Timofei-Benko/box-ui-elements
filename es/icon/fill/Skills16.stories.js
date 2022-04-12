@@ -10,3 +10,4 @@ export default {
     notes: "`import Skills16 from 'box-ui-elements/es/icon/fill/Skills16';`"
   }
 };
+//# sourceMappingURL=Skills16.stories.js.map

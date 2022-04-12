@@ -15,3 +15,4 @@ var OpenWithButtonContents = function OpenWithButtonContents(_ref) {
 };
 
 export default OpenWithButtonContents;
+//# sourceMappingURL=OpenWithButtonContents.js.map

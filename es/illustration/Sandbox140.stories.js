@@ -10,3 +10,4 @@ export default {
     notes: "`import Sandbox140 from 'box-ui-elements/es/illustration/Sandbox140';`"
   }
 };
+//# sourceMappingURL=Sandbox140.stories.js.map

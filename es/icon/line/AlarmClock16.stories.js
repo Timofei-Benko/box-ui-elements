@@ -10,3 +10,4 @@ export default {
     notes: "`import AlarmClock16 from 'box-ui-elements/es/icon/line/AlarmClock16';`"
   }
 };
+//# sourceMappingURL=AlarmClock16.stories.js.map

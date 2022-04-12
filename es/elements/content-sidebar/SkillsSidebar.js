@@ -280,3 +280,4 @@ function (_React$PureComponent) {
 
 export { SkillsSidebar as SkillsSidebarComponent };
 export default flow([withLogger(ORIGIN_SKILLS_SIDEBAR), withErrorBoundary(ORIGIN_SKILLS_SIDEBAR), withAPIContext])(SkillsSidebar);
+//# sourceMappingURL=SkillsSidebar.js.map

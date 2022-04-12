@@ -11,3 +11,4 @@ var NotificationsWrapper = function NotificationsWrapper(_ref) {
 };
 
 export default NotificationsWrapper;
+//# sourceMappingURL=NotificationsWrapper.js.map

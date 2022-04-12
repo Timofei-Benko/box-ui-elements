@@ -10,3 +10,4 @@ export default {
     notes: "`import MetadataBadge16 from 'box-ui-elements/es/icon/line/MetadataBadge16';`"
   }
 };
+//# sourceMappingURL=MetadataBadge16.stories.js.map

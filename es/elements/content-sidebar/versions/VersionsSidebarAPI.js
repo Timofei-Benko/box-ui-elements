@@ -131,3 +131,4 @@ var VersionsSidebarAPI = function VersionsSidebarAPI(_ref) {
 };
 
 export { VersionsSidebarAPI as default };
+//# sourceMappingURL=VersionsSidebarAPI.js.map

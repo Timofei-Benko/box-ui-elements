@@ -126,3 +126,4 @@ function (_Channel) {
 }(Channel);
 
 export default SafariChannel;
+//# sourceMappingURL=SafariChannel.js.map

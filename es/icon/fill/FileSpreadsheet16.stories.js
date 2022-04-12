@@ -10,3 +10,4 @@ export default {
     notes: "`import FileSpreadsheet16 from 'box-ui-elements/es/icon/fill/FileSpreadsheet16';`"
   }
 };
+//# sourceMappingURL=FileSpreadsheet16.stories.js.map

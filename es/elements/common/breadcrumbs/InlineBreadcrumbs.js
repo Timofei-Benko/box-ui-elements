@@ -31,3 +31,4 @@ var InlineBreadcrumbs = function InlineBreadcrumbs(_ref) {
 };
 
 export default InlineBreadcrumbs;
+//# sourceMappingURL=InlineBreadcrumbs.js.map

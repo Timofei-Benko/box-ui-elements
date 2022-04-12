@@ -26,3 +26,4 @@ var IconCloud = function IconCloud(_ref) {
 };
 
 export default IconCloud;
+//# sourceMappingURL=IconCloud.js.map

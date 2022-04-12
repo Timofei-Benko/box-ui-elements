@@ -81,3 +81,4 @@ var formatTaggedMessage = function formatTaggedMessage(tagged_message, itemID, s
 };
 
 export default formatTaggedMessage;
+//# sourceMappingURL=formatTaggedMessage.js.map

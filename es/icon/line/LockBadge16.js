@@ -28,3 +28,4 @@ var LockBadge16 = function LockBadge16(props) {
 };
 
 export default LockBadge16;
+//# sourceMappingURL=LockBadge16.js.map

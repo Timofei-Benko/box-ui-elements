@@ -28,3 +28,4 @@ var CircleX16 = function CircleX16(props) {
 };
 
 export default CircleX16;
+//# sourceMappingURL=CircleX16.js.map

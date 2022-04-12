@@ -133,3 +133,4 @@ _defineProperty(Collapsible, "defaultProps", {
 });
 
 export default Collapsible;
+//# sourceMappingURL=Collapsible.js.map

@@ -242,3 +242,4 @@ _defineProperty(IconDocIllustration, "defaultProps", {
 });
 
 export default IconDocIllustration;
+//# sourceMappingURL=IconDocIllustration.js.map

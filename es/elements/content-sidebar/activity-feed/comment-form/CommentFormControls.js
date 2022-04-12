@@ -23,3 +23,4 @@ var CommentInputControls = function CommentInputControls(_ref) {
 };
 
 export default CommentInputControls;
+//# sourceMappingURL=CommentFormControls.js.map

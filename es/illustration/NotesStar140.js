@@ -85,3 +85,4 @@ var NotesStar140 = function NotesStar140(props) {
 };
 
 export default NotesStar140;
+//# sourceMappingURL=NotesStar140.js.map

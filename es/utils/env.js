@@ -13,3 +13,4 @@
 export default function isDevEnvironment() {
   return process && process.env && (process.env.NODE_ENV === 'test' || process.env.NODE_ENV === 'dev');
 }
+//# sourceMappingURL=env.js.map

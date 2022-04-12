@@ -24,3 +24,4 @@ var Plural = function Plural(_ref) {
 };
 
 export default Plural;
+//# sourceMappingURL=Plural.js.map

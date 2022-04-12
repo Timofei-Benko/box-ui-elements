@@ -10,3 +10,4 @@ export default {
     notes: "`import History16 from 'box-ui-elements/es/icon/line/History16';`"
   }
 };
+//# sourceMappingURL=History16.stories.js.map

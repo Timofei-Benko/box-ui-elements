@@ -142,3 +142,4 @@ _defineProperty(IconTrophyCup, "defaultProps", {
 });
 
 export default IconTrophyCup;
+//# sourceMappingURL=IconTrophyCup.js.map

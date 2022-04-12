@@ -28,3 +28,4 @@ var FileZip16 = function FileZip16(props) {
 };
 
 export default FileZip16;
+//# sourceMappingURL=FileZip16.js.map

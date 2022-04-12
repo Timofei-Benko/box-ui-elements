@@ -94,3 +94,4 @@ function (_BaseUpload) {
 }(BaseUpload);
 
 export default BaseMultiput;
+//# sourceMappingURL=BaseMultiput.js.map

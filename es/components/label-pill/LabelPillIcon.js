@@ -20,3 +20,4 @@ var LabelPillIcon = function LabelPillIcon(_ref) {
 };
 
 export default LabelPillIcon;
+//# sourceMappingURL=LabelPillIcon.js.map

@@ -139,3 +139,4 @@ _defineProperty(TabView, "defaultProps", {
 });
 
 export default TabView;
+//# sourceMappingURL=TabView.js.map

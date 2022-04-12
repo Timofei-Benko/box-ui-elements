@@ -27,3 +27,4 @@ var IconOpenWith = function IconOpenWith(_ref) {
 };
 
 export default IconOpenWith;
+//# sourceMappingURL=IconOpenWith.js.map

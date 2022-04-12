@@ -36,3 +36,4 @@ var SuggestedPillsRow = function SuggestedPillsRow(_ref) {
 };
 
 export default SuggestedPillsRow;
+//# sourceMappingURL=SuggestedPillsRow.js.map

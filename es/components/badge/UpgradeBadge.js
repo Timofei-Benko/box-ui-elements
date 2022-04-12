@@ -22,3 +22,4 @@ var UpgradeBadge = function UpgradeBadge(_ref) {
 };
 
 export default UpgradeBadge;
+//# sourceMappingURL=UpgradeBadge.js.map

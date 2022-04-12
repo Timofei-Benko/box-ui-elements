@@ -26,3 +26,4 @@ var ActivityDatestamp = function ActivityDatestamp(_ref) {
 };
 
 export default ActivityDatestamp;
+//# sourceMappingURL=ActivityDatestamp.js.map

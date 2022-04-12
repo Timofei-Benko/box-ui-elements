@@ -26,3 +26,4 @@ var IconEllipsis = function IconEllipsis(_ref) {
 };
 
 export default IconEllipsis;
+//# sourceMappingURL=IconEllipsis.js.map

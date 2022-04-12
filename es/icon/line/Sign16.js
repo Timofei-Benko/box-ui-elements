@@ -27,3 +27,4 @@ var Sign16 = function Sign16(props) {
 };
 
 export default Sign16;
+//# sourceMappingURL=Sign16.js.map

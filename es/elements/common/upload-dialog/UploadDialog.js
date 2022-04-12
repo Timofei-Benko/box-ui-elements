@@ -54,3 +54,4 @@ var UploadDialog = function UploadDialog(_ref) {
 };
 
 export default injectIntl(UploadDialog);
+//# sourceMappingURL=UploadDialog.js.map

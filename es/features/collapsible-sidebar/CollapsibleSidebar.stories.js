@@ -340,3 +340,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=CollapsibleSidebar.stories.js.map

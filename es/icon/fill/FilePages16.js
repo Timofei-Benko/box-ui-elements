@@ -28,3 +28,4 @@ var FilePages16 = function FilePages16(props) {
 };
 
 export default FilePages16;
+//# sourceMappingURL=FilePages16.js.map

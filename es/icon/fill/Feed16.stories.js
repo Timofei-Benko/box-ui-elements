@@ -10,3 +10,4 @@ export default {
     notes: "`import Feed16 from 'box-ui-elements/es/icon/fill/Feed16';`"
   }
 };
+//# sourceMappingURL=Feed16.stories.js.map

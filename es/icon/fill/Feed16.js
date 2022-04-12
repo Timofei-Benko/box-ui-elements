@@ -28,3 +28,4 @@ var Feed16 = function Feed16(props) {
 };
 
 export default Feed16;
+//# sourceMappingURL=Feed16.js.map

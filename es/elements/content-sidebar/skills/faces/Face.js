@@ -54,3 +54,4 @@ var Face = function Face(_ref) {
 };
 
 export default Face;
+//# sourceMappingURL=Face.js.map

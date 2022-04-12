@@ -161,3 +161,4 @@ _defineProperty(DraftJSEditor, "defaultProps", {
 });
 
 export default DraftJSEditor;
+//# sourceMappingURL=DraftJSEditor.js.map

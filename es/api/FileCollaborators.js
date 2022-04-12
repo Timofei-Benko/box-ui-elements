@@ -133,3 +133,4 @@ function (_MarkerBasedAPI) {
 }(MarkerBasedAPI);
 
 export default FileCollaborators;
+//# sourceMappingURL=FileCollaborators.js.map

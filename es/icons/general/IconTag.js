@@ -30,3 +30,4 @@ var IconTag = function IconTag(_ref) {
 };
 
 export default IconTag;
+//# sourceMappingURL=IconTag.js.map

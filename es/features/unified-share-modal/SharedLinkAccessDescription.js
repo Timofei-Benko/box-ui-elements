@@ -43,3 +43,4 @@ var SharedLinkAccessDescription = function SharedLinkAccessDescription(_ref) {
 };
 
 export default SharedLinkAccessDescription;
+//# sourceMappingURL=SharedLinkAccessDescription.js.map

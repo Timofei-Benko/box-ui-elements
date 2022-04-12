@@ -65,3 +65,4 @@ function (_ES6Wrapper) {
 global.Box = global.Box || {};
 global.Box.ContentSharing = ContentSharing;
 export default ContentSharing;
+//# sourceMappingURL=ContentSharing.js.map

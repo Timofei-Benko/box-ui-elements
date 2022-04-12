@@ -16,3 +16,4 @@ var TableHeader = function TableHeader(_ref) {
 };
 
 export default TableHeader;
+//# sourceMappingURL=TableHeader.js.map

@@ -30,3 +30,4 @@ var Pagination = function Pagination(_ref) {
 };
 
 export default Pagination;
+//# sourceMappingURL=Pagination.js.map

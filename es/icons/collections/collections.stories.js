@@ -43,3 +43,4 @@ export var allIcons = function allIcons() {
 export default {
   title: 'Icons|Collections'
 };
+//# sourceMappingURL=collections.stories.js.map

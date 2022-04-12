@@ -64,3 +64,4 @@ DropCloud.propTypes = {
 }; // Actual export
 
 export default DropCloud;
+//# sourceMappingURL=DropCloud.js.map

@@ -76,3 +76,4 @@ export var getColor = function getColor(extension) {
 export var getIcon = function getIcon(extension) {
   return extension && configs[extension] ? configs[extension].icon : IconFileDefault;
 };
+//# sourceMappingURL=previewIcons.js.map

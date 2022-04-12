@@ -27,3 +27,4 @@ var IconUpload = function IconUpload(_ref) {
 };
 
 export default IconUpload;
+//# sourceMappingURL=IconUpload.js.map

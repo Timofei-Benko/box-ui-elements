@@ -10,3 +10,4 @@ export default {
     notes: "`import EmptyStatePreviewActivity140 from 'box-ui-elements/es/illustration/EmptyStatePreviewActivity140';`"
   }
 };
+//# sourceMappingURL=EmptyStatePreviewActivity140.stories.js.map

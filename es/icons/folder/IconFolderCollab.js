@@ -41,3 +41,4 @@ var IconFolderCollab = function IconFolderCollab(_ref) {
 };
 
 export default IconFolderCollab;
+//# sourceMappingURL=IconFolderCollab.js.map

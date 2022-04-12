@@ -60,3 +60,4 @@ var Clock140 = function Clock140(props) {
 };
 
 export default Clock140;
+//# sourceMappingURL=Clock140.js.map

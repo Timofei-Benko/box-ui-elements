@@ -10,3 +10,4 @@ export default {
     notes: "`import FileCopy16 from 'box-ui-elements/es/icon/fill/FileCopy16';`"
   }
 };
+//# sourceMappingURL=FileCopy16.stories.js.map

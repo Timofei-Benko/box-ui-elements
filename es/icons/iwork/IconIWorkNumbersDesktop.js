@@ -335,3 +335,4 @@ _defineProperty(IconIWorkNumbersDesktop, "defaultProps", {
 });
 
 export default IconIWorkNumbersDesktop;
+//# sourceMappingURL=IconIWorkNumbersDesktop.js.map

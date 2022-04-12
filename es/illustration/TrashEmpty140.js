@@ -102,3 +102,4 @@ var TrashEmpty140 = function TrashEmpty140(props) {
 };
 
 export default TrashEmpty140;
+//# sourceMappingURL=TrashEmpty140.js.map

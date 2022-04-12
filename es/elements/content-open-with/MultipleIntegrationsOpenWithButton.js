@@ -30,3 +30,4 @@ var MultipleIntegrationsOpenWithButton = function MultipleIntegrationsOpenWithBu
 };
 
 export default MultipleIntegrationsOpenWithButton;
+//# sourceMappingURL=MultipleIntegrationsOpenWithButton.js.map

@@ -228,3 +228,4 @@ var createWorker = function createWorker() {
 };
 
 export default createWorker;
+//# sourceMappingURL=uploadsSHA1Worker.js.map

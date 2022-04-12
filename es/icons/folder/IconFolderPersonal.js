@@ -25,3 +25,4 @@ var IconFolderPersonal = function IconFolderPersonal(_ref) {
 };
 
 export default IconFolderPersonal;
+//# sourceMappingURL=IconFolderPersonal.js.map

@@ -95,3 +95,4 @@ var VersionsMenu = React.memo(function (_ref2) {
   }));
 });
 export default injectIntl(VersionsMenu);
+//# sourceMappingURL=VersionsMenu.js.map

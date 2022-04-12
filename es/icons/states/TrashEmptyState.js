@@ -125,3 +125,4 @@ var TrashEmptyState = function TrashEmptyState(_ref) {
 };
 
 export default TrashEmptyState;
+//# sourceMappingURL=TrashEmptyState.js.map

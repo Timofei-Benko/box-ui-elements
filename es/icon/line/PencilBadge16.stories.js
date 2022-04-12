@@ -10,3 +10,4 @@ export default {
     notes: "`import PencilBadge16 from 'box-ui-elements/es/icon/line/PencilBadge16';`"
   }
 };
+//# sourceMappingURL=PencilBadge16.stories.js.map

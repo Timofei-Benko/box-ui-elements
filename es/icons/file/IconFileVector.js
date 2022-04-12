@@ -30,3 +30,4 @@ var IconFileVector = function IconFileVector(props) {
 };
 
 export default IconFileVector;
+//# sourceMappingURL=IconFileVector.js.map

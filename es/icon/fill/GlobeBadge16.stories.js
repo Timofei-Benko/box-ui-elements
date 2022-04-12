@@ -10,3 +10,4 @@ export default {
     notes: "`import GlobeBadge16 from 'box-ui-elements/es/icon/fill/GlobeBadge16';`"
   }
 };
+//# sourceMappingURL=GlobeBadge16.stories.js.map

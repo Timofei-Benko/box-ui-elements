@@ -204,3 +204,4 @@ function (_Base) {
 }(Base);
 
 export default MarkerBasedApi;
+//# sourceMappingURL=MarkerBasedAPI.js.map

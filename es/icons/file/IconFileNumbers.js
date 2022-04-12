@@ -19,3 +19,4 @@ var IconFileNumbers = function IconFileNumbers(props) {
 };
 
 export default IconFileNumbers;
+//# sourceMappingURL=IconFileNumbers.js.map

@@ -55,3 +55,4 @@ function useMessage(name) {
 }
 
 export default useMessage;
+//# sourceMappingURL=useMessage.js.map

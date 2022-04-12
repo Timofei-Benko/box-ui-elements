@@ -29,3 +29,4 @@ var IconGlobe = function IconGlobe(_ref) {
 };
 
 export default IconGlobe;
+//# sourceMappingURL=IconGlobe.js.map

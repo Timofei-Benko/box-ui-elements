@@ -19,3 +19,4 @@ var IconFileIllustrator = function IconFileIllustrator(props) {
 };
 
 export default IconFileIllustrator;
+//# sourceMappingURL=IconFileIllustrator.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import EmployeeId56 from 'box-ui-elements/es/illustration/EmployeeId56';`"
   }
 };
+//# sourceMappingURL=EmployeeId56.stories.js.map

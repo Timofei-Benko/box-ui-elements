@@ -464,3 +464,4 @@ _defineProperty(FileCircleIllustration, "defaultProps", {
 });
 
 export default FileCircleIllustration;
+//# sourceMappingURL=FileCircleIllustration.js.map

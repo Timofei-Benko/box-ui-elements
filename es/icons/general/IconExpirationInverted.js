@@ -28,3 +28,4 @@ var IconExpirationInverted = function IconExpirationInverted(_ref) {
 };
 
 export default IconExpirationInverted;
+//# sourceMappingURL=IconExpirationInverted.js.map

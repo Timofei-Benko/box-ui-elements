@@ -27,3 +27,4 @@ var IconMoveCopy = function IconMoveCopy(_ref) {
 };
 
 export default IconMoveCopy;
+//# sourceMappingURL=IconMoveCopy.js.map

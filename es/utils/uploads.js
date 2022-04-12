@@ -393,3 +393,4 @@ function isMultiputSupported() {
 }
 
 export { DEFAULT_API_OPTIONS, doesDataTransferItemContainAPIOptions, doesFileContainAPIOptions, getBoundedExpBackoffRetryDelay, getDataTransferItem, getDataTransferItemAPIOptions, getDataTransferItemId, getEntryFromDataTransferItem, getFile, getFileAPIOptions, getFileFromDataTransferItem, getPackageFileFromDataTransferItem, getFileFromEntry, getFileId, getFileLastModifiedAsISONoMSIfPossible, isDataTransferItemAFolder, isDataTransferItemAPackage, isMultiputSupported, toISOStringNoMS, tryParseJson };
+//# sourceMappingURL=uploads.js.map

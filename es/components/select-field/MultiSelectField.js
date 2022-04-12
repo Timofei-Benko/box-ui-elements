@@ -40,3 +40,4 @@ var MultiSelectField = function MultiSelectField(_ref) {
 
 export { MultiSelectField as MultiSelectFieldBase };
 export default injectIntl(MultiSelectField);
+//# sourceMappingURL=MultiSelectField.js.map

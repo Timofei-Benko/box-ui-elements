@@ -18,3 +18,4 @@ var InviteePermissionDescription = function InviteePermissionDescription(_ref) {
 };
 
 export default InviteePermissionDescription;
+//# sourceMappingURL=InviteePermissionsDescription.js.map

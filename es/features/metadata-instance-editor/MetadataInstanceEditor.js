@@ -47,3 +47,4 @@ var MetadataInstanceEditor = function MetadataInstanceEditor(_ref) {
 };
 
 export default MetadataInstanceEditor;
+//# sourceMappingURL=MetadataInstanceEditor.js.map

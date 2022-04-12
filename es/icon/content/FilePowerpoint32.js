@@ -35,3 +35,4 @@ var FilePowerpoint32 = function FilePowerpoint32(props) {
 };
 
 export default FilePowerpoint32;
+//# sourceMappingURL=FilePowerpoint32.js.map

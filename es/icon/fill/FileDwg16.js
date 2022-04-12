@@ -28,3 +28,4 @@ var FileDwg16 = function FileDwg16(props) {
 };
 
 export default FileDwg16;
+//# sourceMappingURL=FileDwg16.js.map

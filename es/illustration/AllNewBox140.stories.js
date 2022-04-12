@@ -10,3 +10,4 @@ export default {
     notes: "`import AllNewBox140 from 'box-ui-elements/es/illustration/AllNewBox140';`"
   }
 };
+//# sourceMappingURL=AllNewBox140.stories.js.map

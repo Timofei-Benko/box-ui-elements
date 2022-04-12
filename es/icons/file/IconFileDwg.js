@@ -16,3 +16,4 @@ var IconFileDwg = function IconFileDwg(props) {
 };
 
 export default IconFileDwg;
+//# sourceMappingURL=IconFileDwg.js.map

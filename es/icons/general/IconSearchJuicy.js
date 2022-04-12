@@ -27,3 +27,4 @@ var IconSearchJuicy = function IconSearchJuicy(_ref) {
 };
 
 export default IconSearchJuicy;
+//# sourceMappingURL=IconSearchJuicy.js.map

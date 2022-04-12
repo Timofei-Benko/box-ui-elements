@@ -18,3 +18,4 @@ function withMediaQuery(WrappedComponent) {
 }
 
 export default withMediaQuery;
+//# sourceMappingURL=withMediaQuery.js.map

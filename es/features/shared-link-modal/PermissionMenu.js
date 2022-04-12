@@ -41,3 +41,4 @@ var PermissionMenu = function PermissionMenu(props) {
 
 PermissionMenu.displayName = 'PermissionMenu';
 export default PermissionMenu;
+//# sourceMappingURL=PermissionMenu.js.map

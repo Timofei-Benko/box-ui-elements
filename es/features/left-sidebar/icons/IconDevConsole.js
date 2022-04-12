@@ -29,3 +29,4 @@ var IconDevConsole = function IconDevConsole(_ref) {
 };
 
 export default IconDevConsole;
+//# sourceMappingURL=IconDevConsole.js.map

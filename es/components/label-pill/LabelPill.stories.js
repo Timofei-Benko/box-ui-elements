@@ -67,3 +67,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=LabelPill.stories.js.map

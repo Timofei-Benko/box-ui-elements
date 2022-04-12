@@ -10,3 +10,4 @@ export default {
     notes: "`import HandshakeAgreement56 from 'box-ui-elements/es/illustration/HandshakeAgreement56';`"
   }
 };
+//# sourceMappingURL=HandshakeAgreement56.stories.js.map

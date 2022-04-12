@@ -1366,3 +1366,4 @@ function (_Base) {
 }(Base);
 
 export default Feed;
+//# sourceMappingURL=Feed.js.map

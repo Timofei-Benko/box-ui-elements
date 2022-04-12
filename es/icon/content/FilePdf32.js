@@ -36,3 +36,4 @@ var FilePdf32 = function FilePdf32(props) {
 };
 
 export default FilePdf32;
+//# sourceMappingURL=FilePdf32.js.map

@@ -291,3 +291,4 @@ _defineProperty(DraftJSMentionSelector, "defaultProps", {
 });
 
 export default DraftJSMentionSelector;
+//# sourceMappingURL=DraftJSMentionSelectorCore.js.map

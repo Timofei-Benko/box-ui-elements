@@ -94,3 +94,4 @@ _defineProperty(IconIWorkKeynote, "defaultProps", {
 });
 
 export default IconIWorkKeynote;
+//# sourceMappingURL=IconIWorkKeynote.js.map

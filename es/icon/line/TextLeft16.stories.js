@@ -10,3 +10,4 @@ export default {
     notes: "`import TextLeft16 from 'box-ui-elements/es/icon/line/TextLeft16';`"
   }
 };
+//# sourceMappingURL=TextLeft16.stories.js.map

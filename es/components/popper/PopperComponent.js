@@ -58,3 +58,4 @@ PopperComponent.defaultProps = {
   placement: PLACEMENT_AUTO
 };
 export default PopperComponent;
+//# sourceMappingURL=PopperComponent.js.map

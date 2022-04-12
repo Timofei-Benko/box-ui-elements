@@ -71,3 +71,4 @@ function Message(_ref) {
 }
 
 export default Message;
+//# sourceMappingURL=Message.js.map

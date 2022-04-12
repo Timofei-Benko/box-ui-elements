@@ -32,3 +32,4 @@ var IconUploadCloud = function IconUploadCloud(_ref) {
 };
 
 export default IconUploadCloud;
+//# sourceMappingURL=IconUploadCloud.js.map

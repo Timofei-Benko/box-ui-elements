@@ -27,3 +27,4 @@ var IconStar = function IconStar(_ref) {
 };
 
 export default IconStar;
+//# sourceMappingURL=IconStar.js.map

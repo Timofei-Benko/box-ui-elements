@@ -9,3 +9,4 @@ export var BadgeType;
   BadgeType["ALERT"] = "alert";
   BadgeType["SUCCESS"] = "success";
 })(BadgeType || (BadgeType = {}));
+//# sourceMappingURL=types.js.map

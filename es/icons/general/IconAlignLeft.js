@@ -27,3 +27,4 @@ var IconAlignLeft = function IconAlignLeft(_ref) {
 };
 
 export default IconAlignLeft;
+//# sourceMappingURL=IconAlignLeft.js.map

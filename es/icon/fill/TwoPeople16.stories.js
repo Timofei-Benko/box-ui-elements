@@ -10,3 +10,4 @@ export default {
     notes: "`import TwoPeople16 from 'box-ui-elements/es/icon/fill/TwoPeople16';`"
   }
 };
+//# sourceMappingURL=TwoPeople16.stories.js.map

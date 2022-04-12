@@ -43,3 +43,4 @@ var IconSadCloud = function IconSadCloud(_ref) {
 };
 
 export default IconSadCloud;
+//# sourceMappingURL=IconSadCloud.js.map

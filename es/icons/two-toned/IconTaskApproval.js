@@ -46,3 +46,4 @@ var IconTaskApproval = function IconTaskApproval(_ref) {
 };
 
 export default IconTaskApproval;
+//# sourceMappingURL=IconTaskApproval.js.map

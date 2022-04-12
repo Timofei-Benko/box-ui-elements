@@ -31,3 +31,4 @@ var IconClock = function IconClock(_ref) {
 };
 
 export default IconClock;
+//# sourceMappingURL=IconClock.js.map

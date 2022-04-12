@@ -116,3 +116,4 @@ _defineProperty(VersionsItemButton, "defaultProps", {
 });
 
 export default VersionsItemButton;
+//# sourceMappingURL=VersionsItemButton.js.map

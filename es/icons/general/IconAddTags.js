@@ -36,3 +36,4 @@ var IconAddTags = function IconAddTags(_ref) {
 };
 
 export default IconAddTags;
+//# sourceMappingURL=IconAddTags.js.map

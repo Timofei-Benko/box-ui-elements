@@ -28,3 +28,4 @@ var SignTinycon16 = function SignTinycon16(props) {
 };
 
 export default SignTinycon16;
+//# sourceMappingURL=SignTinycon16.js.map

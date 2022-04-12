@@ -10,3 +10,4 @@ export default {
     notes: "`import LinkBadge16 from 'box-ui-elements/es/icon/line/LinkBadge16';`"
   }
 };
+//# sourceMappingURL=LinkBadge16.stories.js.map

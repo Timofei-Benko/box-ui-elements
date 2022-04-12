@@ -21,3 +21,4 @@ var IconMetadataSwitch = function IconMetadataSwitch(_ref) {
 };
 
 export default IconMetadataSwitch;
+//# sourceMappingURL=IconMetadataSwitch.js.map

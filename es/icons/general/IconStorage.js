@@ -35,3 +35,4 @@ var IconStorage = function IconStorage(_ref) {
 };
 
 export default IconStorage;
+//# sourceMappingURL=IconStorage.js.map

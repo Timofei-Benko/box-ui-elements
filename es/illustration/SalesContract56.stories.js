@@ -10,3 +10,4 @@ export default {
     notes: "`import SalesContract56 from 'box-ui-elements/es/illustration/SalesContract56';`"
   }
 };
+//# sourceMappingURL=SalesContract56.stories.js.map

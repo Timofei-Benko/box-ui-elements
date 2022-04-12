@@ -81,3 +81,4 @@ _defineProperty(IconHighlightAnnotation, "defaultProps", {
 });
 
 export default IconHighlightAnnotation;
+//# sourceMappingURL=IconHighlightAnnotation.js.map

@@ -139,3 +139,4 @@ _defineProperty(BoxDriveSyncIllustration, "defaultProps", {
 });
 
 export default BoxDriveSyncIllustration;
+//# sourceMappingURL=BoxDriveSyncIllustration.js.map

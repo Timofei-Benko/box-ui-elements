@@ -28,3 +28,4 @@ var FileVector16 = function FileVector16(props) {
 };
 
 export default FileVector16;
+//# sourceMappingURL=FileVector16.js.map

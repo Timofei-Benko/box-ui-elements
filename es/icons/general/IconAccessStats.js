@@ -25,3 +25,4 @@ var IconAccessStats = function IconAccessStats(_ref) {
 };
 
 export default IconAccessStats;
+//# sourceMappingURL=IconAccessStats.js.map

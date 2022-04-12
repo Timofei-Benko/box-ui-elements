@@ -10,3 +10,4 @@ export default {
     notes: "`import Clock140 from 'box-ui-elements/es/illustration/Clock140';`"
   }
 };
+//# sourceMappingURL=Clock140.stories.js.map

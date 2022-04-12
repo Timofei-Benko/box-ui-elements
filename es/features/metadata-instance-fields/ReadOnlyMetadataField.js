@@ -39,3 +39,4 @@ var ReadOnlyMetadataField = function ReadOnlyMetadataField(_ref) {
 };
 
 export default ReadOnlyMetadataField;
+//# sourceMappingURL=ReadOnlyMetadataField.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import Scribble16 from 'box-ui-elements/es/icon/fill/Scribble16';`"
   }
 };
+//# sourceMappingURL=Scribble16.stories.js.map

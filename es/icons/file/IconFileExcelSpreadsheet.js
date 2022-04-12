@@ -19,3 +19,4 @@ var IconFileExcelSpreadsheet = function IconFileExcelSpreadsheet(props) {
 };
 
 export default IconFileExcelSpreadsheet;
+//# sourceMappingURL=IconFileExcelSpreadsheet.js.map

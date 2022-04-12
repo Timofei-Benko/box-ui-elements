@@ -22,3 +22,4 @@ function getClassificationTinyconColor(classificationLabelData) {
 
 
 export { getClassificationLabelColor, getClassificationTinyconColor };
+//# sourceMappingURL=utils.js.map

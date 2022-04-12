@@ -13,3 +13,4 @@ export var Status;
   Status["PENDING"] = "pending";
   Status["SUCCESS"] = "success";
 })(Status || (Status = {}));
+//# sourceMappingURL=types.js.map

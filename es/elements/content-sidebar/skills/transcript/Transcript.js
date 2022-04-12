@@ -333,3 +333,4 @@ function (_React$PureComponent) {
 }(React.PureComponent);
 
 export default Transcript;
+//# sourceMappingURL=Transcript.js.map

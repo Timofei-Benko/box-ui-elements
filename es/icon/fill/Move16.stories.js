@@ -10,3 +10,4 @@ export default {
     notes: "`import Move16 from 'box-ui-elements/es/icon/fill/Move16';`"
   }
 };
+//# sourceMappingURL=Move16.stories.js.map

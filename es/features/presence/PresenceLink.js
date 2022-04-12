@@ -90,3 +90,4 @@ _defineProperty(PresenceLink, "defaultProps", {
 });
 
 export default PresenceLink;
+//# sourceMappingURL=PresenceLink.js.map

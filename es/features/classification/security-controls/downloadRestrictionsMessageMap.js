@@ -20,3 +20,4 @@ var downloadRestrictionsMessageMap = (_downloadRestrictions = {}, _definePropert
   externalRestricted: (_externalRestricted3 = {}, _defineProperty(_externalRestricted3, OWNERS_AND_COOWNERS, messages.webDownloadExternalOwners), _defineProperty(_externalRestricted3, OWNERS_COOWNERS_AND_EDITORS, messages.webDownloadExternalOwnersEditors), _defineProperty(_externalRestricted3, "default", messages.webDownloadExternal), _externalRestricted3)
 }), _downloadRestrictions);
 export default downloadRestrictionsMessageMap;
+//# sourceMappingURL=downloadRestrictionsMessageMap.js.map

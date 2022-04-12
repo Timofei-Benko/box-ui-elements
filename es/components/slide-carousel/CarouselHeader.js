@@ -10,3 +10,4 @@ var CarouselHeader = function CarouselHeader(_ref) {
 };
 
 export default CarouselHeader;
+//# sourceMappingURL=CarouselHeader.js.map

@@ -202,3 +202,4 @@ function MessageCenter(_ref) {
 }
 
 export default MessageCenter;
+//# sourceMappingURL=MessageCenter.js.map

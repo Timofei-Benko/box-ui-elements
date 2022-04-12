@@ -29,3 +29,4 @@ var IconNotes = function IconNotes(_ref) {
 };
 
 export default IconNotes;
+//# sourceMappingURL=IconNotes.js.map

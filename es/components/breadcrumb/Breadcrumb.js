@@ -59,3 +59,4 @@ var Breadcrumb = function Breadcrumb(_ref) {
 
 export { Breadcrumb as BreadcrumbCore };
 export default injectIntl(Breadcrumb);
+//# sourceMappingURL=Breadcrumb.js.map

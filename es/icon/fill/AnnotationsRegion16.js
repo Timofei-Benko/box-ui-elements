@@ -27,3 +27,4 @@ var AnnotationsRegion16 = function AnnotationsRegion16(props) {
 };
 
 export default AnnotationsRegion16;
+//# sourceMappingURL=AnnotationsRegion16.js.map

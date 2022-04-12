@@ -65,3 +65,4 @@ var Checkbox = function Checkbox(_ref) {
 };
 
 export default Checkbox;
+//# sourceMappingURL=Checkbox.js.map

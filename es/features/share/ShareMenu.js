@@ -82,3 +82,4 @@ ShareMenu.propTypes = {
 };
 export { OWNER_COOWNER_ONLY, INSUFFICIENT_PERMISSIONS };
 export default ShareMenu;
+//# sourceMappingURL=ShareMenu.js.map

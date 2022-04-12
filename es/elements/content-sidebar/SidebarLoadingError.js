@@ -9,3 +9,4 @@ var SidebarLoadingError = function SidebarLoadingError() {
 };
 
 export default SidebarLoadingError;
+//# sourceMappingURL=SidebarLoadingError.js.map

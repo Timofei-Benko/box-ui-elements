@@ -52,3 +52,4 @@ var DateField = function DateField(_ref) {
 };
 
 export default injectIntl(DateField);
+//# sourceMappingURL=DateField.js.map

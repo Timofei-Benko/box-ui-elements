@@ -10,3 +10,4 @@ export default {
     notes: "`import Workflow16 from 'box-ui-elements/es/icon/fill/Workflow16';`"
   }
 };
+//# sourceMappingURL=Workflow16.stories.js.map

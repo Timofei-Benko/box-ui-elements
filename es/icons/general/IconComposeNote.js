@@ -37,3 +37,4 @@ var IconComposeNote = function IconComposeNote(_ref) {
 };
 
 export default IconComposeNote;
+//# sourceMappingURL=IconComposeNote.js.map

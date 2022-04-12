@@ -27,3 +27,4 @@ var IconPageBack = function IconPageBack(_ref) {
 };
 
 export default IconPageBack;
+//# sourceMappingURL=IconPageBack.js.map

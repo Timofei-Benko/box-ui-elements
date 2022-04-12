@@ -23,3 +23,4 @@ var VersionsGroup = function VersionsGroup(_ref) {
 };
 
 export default VersionsGroup;
+//# sourceMappingURL=VersionsGroup.js.map

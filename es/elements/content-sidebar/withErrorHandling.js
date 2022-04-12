@@ -38,3 +38,4 @@ var withErrorHandling = function withErrorHandling(WrappedComponent) {
 };
 
 export default withErrorHandling;
+//# sourceMappingURL=withErrorHandling.js.map

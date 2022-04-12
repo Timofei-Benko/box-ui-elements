@@ -66,3 +66,4 @@ function copy(string) {
 }
 
 export { download, copy };
+//# sourceMappingURL=download.js.map

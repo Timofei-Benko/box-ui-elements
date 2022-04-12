@@ -26,3 +26,4 @@ var IconWatermark = function IconWatermark(_ref) {
 };
 
 export default IconWatermark;
+//# sourceMappingURL=IconWatermark.js.map

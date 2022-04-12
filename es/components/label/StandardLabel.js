@@ -16,3 +16,4 @@ var StandardLabel = function StandardLabel(_ref) {
 };
 
 export default StandardLabel;
+//# sourceMappingURL=StandardLabel.js.map

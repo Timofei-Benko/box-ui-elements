@@ -59,3 +59,4 @@ var TemplatedInstance = function TemplatedInstance(_ref) {
 };
 
 export default TemplatedInstance;
+//# sourceMappingURL=TemplatedInstance.js.map

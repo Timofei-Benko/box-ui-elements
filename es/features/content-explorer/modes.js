@@ -5,3 +5,4 @@ export default {
   SELECT_FILE: 'selectFile',
   SELECT_FOLDER: 'selectFolder'
 };
+//# sourceMappingURL=modes.js.map

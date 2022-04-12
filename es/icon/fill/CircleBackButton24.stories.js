@@ -10,3 +10,4 @@ export default {
     notes: "`import CircleBackButton24 from 'box-ui-elements/es/icon/fill/CircleBackButton24';`"
   }
 };
+//# sourceMappingURL=CircleBackButton24.stories.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import FileWord16 from 'box-ui-elements/es/icon/fill/FileWord16';`"
   }
 };
+//# sourceMappingURL=FileWord16.stories.js.map

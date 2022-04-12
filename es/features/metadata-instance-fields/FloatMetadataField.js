@@ -27,3 +27,4 @@ var FloatMetadataField = function FloatMetadataField(_ref) {
 };
 
 export default FloatMetadataField;
+//# sourceMappingURL=FloatMetadataField.js.map

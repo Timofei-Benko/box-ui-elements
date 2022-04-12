@@ -20,3 +20,4 @@ SharedLinkExpirationNotice.propTypes = {
   expiration: PropTypes.node.isRequired
 };
 export default SharedLinkExpirationNotice;
+//# sourceMappingURL=SharedLinkExpirationNotice.js.map

@@ -28,3 +28,4 @@ var FileCopy16 = function FileCopy16(props) {
 };
 
 export default FileCopy16;
+//# sourceMappingURL=FileCopy16.js.map

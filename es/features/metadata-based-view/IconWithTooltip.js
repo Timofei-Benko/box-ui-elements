@@ -63,4 +63,4 @@ var IconWithTooltip = function IconWithTooltip(_ref) {
 };
 
 export default IconWithTooltip;
-import { bpfrpt_proptype_Element } from "react";
+//# sourceMappingURL=IconWithTooltip.js.map

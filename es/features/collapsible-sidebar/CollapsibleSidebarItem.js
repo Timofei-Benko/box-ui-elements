@@ -38,3 +38,4 @@ function CollapsibleSidebarItem(props) {
 }
 
 export default CollapsibleSidebarItem;
+//# sourceMappingURL=CollapsibleSidebarItem.js.map

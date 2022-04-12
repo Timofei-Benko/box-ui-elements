@@ -294,3 +294,4 @@ function (_Base) {
 }(Base);
 
 export default BaseUpload;
+//# sourceMappingURL=BaseUpload.js.map

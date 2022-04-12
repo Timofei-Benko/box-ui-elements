@@ -20,3 +20,4 @@ export var CATEGORY_TWO = 'two';
 export var CATEGORY_FEW = 'few';
 export var CATEGORY_MANY = 'many';
 export var CATEGORY_OTHER = 'other';
+//# sourceMappingURL=constants.js.map

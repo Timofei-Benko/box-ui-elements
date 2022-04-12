@@ -59,3 +59,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=Ghost.stories.js.map

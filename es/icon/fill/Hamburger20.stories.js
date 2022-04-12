@@ -10,3 +10,4 @@ export default {
     notes: "`import Hamburger20 from 'box-ui-elements/es/icon/fill/Hamburger20';`"
   }
 };
+//# sourceMappingURL=Hamburger20.stories.js.map

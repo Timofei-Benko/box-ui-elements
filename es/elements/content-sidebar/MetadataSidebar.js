@@ -437,3 +437,4 @@ _defineProperty(MetadataSidebar, "defaultProps", {
 
 export { MetadataSidebar as MetadataSidebarComponent };
 export default flow([withLogger(ORIGIN_METADATA_SIDEBAR), withErrorBoundary(ORIGIN_METADATA_SIDEBAR), withAPIContext])(MetadataSidebar);
+//# sourceMappingURL=MetadataSidebar.js.map

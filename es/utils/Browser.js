@@ -165,3 +165,4 @@ function () {
 }();
 
 export default Browser;
+//# sourceMappingURL=Browser.js.map

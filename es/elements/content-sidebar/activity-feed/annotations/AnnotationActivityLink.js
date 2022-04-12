@@ -62,3 +62,4 @@ var AnnotationActivityLink = function AnnotationActivityLink(_ref) {
 
 export { AnnotationActivityLink as AnnotationActivityLinkBase };
 export default injectIntl(AnnotationActivityLink);
+//# sourceMappingURL=AnnotationActivityLink.js.map

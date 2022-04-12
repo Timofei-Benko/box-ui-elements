@@ -21,3 +21,4 @@ var SidebarLoading = function SidebarLoading(_ref) {
 };
 
 export default SidebarLoading;
+//# sourceMappingURL=SidebarLoading.js.map

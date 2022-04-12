@@ -62,3 +62,4 @@ var Version = function Version(props) {
 
 export { Version as VersionBase };
 export default injectIntl(Version);
+//# sourceMappingURL=Version.js.map

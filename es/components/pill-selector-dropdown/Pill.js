@@ -30,3 +30,4 @@ var Pill = function Pill(_ref) {
 };
 
 export default Pill;
+//# sourceMappingURL=Pill.js.map

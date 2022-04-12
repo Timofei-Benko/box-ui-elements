@@ -27,3 +27,4 @@ var ItemOrPlaceholderPropType = PropTypes.oneOfType([ItemPropType, PlaceholderPr
 var ItemsPropType = PropTypes.arrayOf(ItemOrPlaceholderPropType);
 var ItemsMapPropType = PropTypes.objectOf(ItemPropType);
 export { ContentExplorerModePropType, FolderPropType, FoldersPathPropType, ItemTypePropType, ItemPropType, ItemsPropType, ItemsMapPropType };
+//# sourceMappingURL=prop-types.js.map

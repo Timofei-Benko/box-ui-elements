@@ -51,3 +51,4 @@ export var checkIsExternalUser = function checkIsExternalUser(isCurrentUserOwner
   return emailToCheck.split('@')[1] !== ownerEmailDomain;
 };
 export default parseEmails;
+//# sourceMappingURL=parseEmails.js.map

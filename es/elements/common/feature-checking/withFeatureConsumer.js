@@ -19,3 +19,4 @@ function withFeatureConsumer(WrappedComponent) {
 }
 
 export default withFeatureConsumer;
+//# sourceMappingURL=withFeatureConsumer.js.map

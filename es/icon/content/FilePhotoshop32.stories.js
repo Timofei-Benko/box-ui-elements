@@ -10,3 +10,4 @@ export default {
     notes: "`import FilePhotoshop32 from 'box-ui-elements/es/icon/content/FilePhotoshop32';`"
   }
 };
+//# sourceMappingURL=FilePhotoshop32.stories.js.map

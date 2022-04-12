@@ -12,3 +12,4 @@ var baseCellRenderer = function baseCellRenderer(_ref) {
 };
 
 export default baseCellRenderer;
+//# sourceMappingURL=baseCellRenderer.js.map

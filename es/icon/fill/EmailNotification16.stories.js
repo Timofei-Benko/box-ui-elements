@@ -10,3 +10,4 @@ export default {
     notes: "`import EmailNotification16 from 'box-ui-elements/es/icon/fill/EmailNotification16';`"
   }
 };
+//# sourceMappingURL=EmailNotification16.stories.js.map

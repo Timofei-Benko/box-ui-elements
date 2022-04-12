@@ -54,3 +54,4 @@ PresenceAvatar.defaultProps = {
   isActive: false
 };
 export default PresenceAvatar;
+//# sourceMappingURL=PresenceAvatar.js.map

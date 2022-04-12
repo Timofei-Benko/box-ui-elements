@@ -17,3 +17,4 @@ var OpenWithFallbackButton = function OpenWithFallbackButton(_ref) {
 };
 
 export default OpenWithFallbackButton;
+//# sourceMappingURL=OpenWithFallbackButton.js.map

@@ -28,3 +28,4 @@ var ClearBadge16 = function ClearBadge16(props) {
 };
 
 export default ClearBadge16;
+//# sourceMappingURL=ClearBadge16.js.map

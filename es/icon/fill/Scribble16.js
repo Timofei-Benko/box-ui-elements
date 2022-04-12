@@ -28,3 +28,4 @@ var Scribble16 = function Scribble16(props) {
 };
 
 export default Scribble16;
+//# sourceMappingURL=Scribble16.js.map

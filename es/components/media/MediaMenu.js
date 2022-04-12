@@ -45,3 +45,4 @@ var MediaMenu = function MediaMenu(_ref) {
 };
 
 export default injectIntl(MediaMenu);
+//# sourceMappingURL=MediaMenu.js.map

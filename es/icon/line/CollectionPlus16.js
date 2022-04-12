@@ -28,3 +28,4 @@ var CollectionPlus16 = function CollectionPlus16(props) {
 };
 
 export default CollectionPlus16;
+//# sourceMappingURL=CollectionPlus16.js.map

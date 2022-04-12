@@ -88,3 +88,4 @@ var ShareDialog = function ShareDialog(_ref) {
 };
 
 export default injectIntl(ShareDialog);
+//# sourceMappingURL=ShareDialog.js.map

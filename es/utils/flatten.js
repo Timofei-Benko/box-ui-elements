@@ -60,3 +60,4 @@ export default function (list, folderAPI, fileAPI, weblinkAPI) {
   });
   return items;
 }
+//# sourceMappingURL=flatten.js.map

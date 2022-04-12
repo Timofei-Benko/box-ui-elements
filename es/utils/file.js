@@ -59,3 +59,4 @@ export function getFileExtension(filename) {
   var result = FILE_EXT_REGEX.exec(filename);
   return getProp(result, '[1]', '');
 }
+//# sourceMappingURL=file.js.map

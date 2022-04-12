@@ -119,3 +119,4 @@ var MetadataField = function MetadataField(_ref) {
 };
 
 export default MetadataField;
+//# sourceMappingURL=MetadataField.js.map

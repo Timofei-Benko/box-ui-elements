@@ -36,3 +36,4 @@ var FileKeynote32 = function FileKeynote32(props) {
 };
 
 export default FileKeynote32;
+//# sourceMappingURL=FileKeynote32.js.map

@@ -13,3 +13,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=Logo.stories.js.map

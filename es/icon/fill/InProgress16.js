@@ -28,3 +28,4 @@ var InProgress16 = function InProgress16(props) {
 };
 
 export default InProgress16;
+//# sourceMappingURL=InProgress16.js.map

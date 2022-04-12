@@ -28,3 +28,4 @@ var FileDescription16 = function FileDescription16(props) {
 };
 
 export default FileDescription16;
+//# sourceMappingURL=FileDescription16.js.map

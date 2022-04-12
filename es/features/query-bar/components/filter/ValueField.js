@@ -116,3 +116,4 @@ var ValueField = function ValueField(_ref) {
 };
 
 export default ValueField;
+//# sourceMappingURL=ValueField.js.map

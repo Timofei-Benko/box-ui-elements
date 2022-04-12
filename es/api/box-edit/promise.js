@@ -28,3 +28,4 @@ function promiseOne(promises) {
 }
 
 export default promiseOne;
+//# sourceMappingURL=promise.js.map

@@ -24,3 +24,4 @@ function MessageTags(_ref) {
 }
 
 export default MessageTags;
+//# sourceMappingURL=MessageTags.js.map

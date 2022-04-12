@@ -28,3 +28,4 @@ var IconSettingInverted = function IconSettingInverted(_ref) {
 };
 
 export default IconSettingInverted;
+//# sourceMappingURL=IconSettingInverted.js.map

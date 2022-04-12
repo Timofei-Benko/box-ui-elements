@@ -25,3 +25,4 @@ var IconRename = function IconRename(_ref) {
 };
 
 export default IconRename;
+//# sourceMappingURL=IconRename.js.map

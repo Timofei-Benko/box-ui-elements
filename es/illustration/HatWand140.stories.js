@@ -10,3 +10,4 @@ export default {
     notes: "`import HatWand140 from 'box-ui-elements/es/illustration/HatWand140';`"
   }
 };
+//# sourceMappingURL=HatWand140.stories.js.map

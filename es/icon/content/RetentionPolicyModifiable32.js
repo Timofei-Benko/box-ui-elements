@@ -33,3 +33,4 @@ var RetentionPolicyModifiable32 = function RetentionPolicyModifiable32(props) {
 };
 
 export default RetentionPolicyModifiable32;
+//# sourceMappingURL=RetentionPolicyModifiable32.js.map

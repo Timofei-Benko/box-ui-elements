@@ -36,3 +36,4 @@ SecurityBadge.defaultProps = {
   })
 };
 export default SecurityBadge;
+//# sourceMappingURL=SecurityBadge.js.map

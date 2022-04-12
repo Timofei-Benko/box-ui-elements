@@ -27,3 +27,4 @@ var UploadInput = function UploadInput(_ref) {
 };
 
 export default UploadInput;
+//# sourceMappingURL=UploadInput.js.map

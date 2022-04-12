@@ -36,3 +36,4 @@ var FolderIcon = function FolderIcon(_ref) {
 };
 
 export default FolderIcon;
+//# sourceMappingURL=FolderIcon.js.map

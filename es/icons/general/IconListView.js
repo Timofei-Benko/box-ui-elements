@@ -29,3 +29,4 @@ var IconListView = function IconListView(_ref) {
 };
 
 export default IconListView;
+//# sourceMappingURL=IconListView.js.map

@@ -28,3 +28,4 @@ var Shield16 = function Shield16(props) {
 };
 
 export default Shield16;
+//# sourceMappingURL=Shield16.js.map

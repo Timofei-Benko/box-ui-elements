@@ -28,3 +28,4 @@ var Caret8 = function Caret8(props) {
 };
 
 export default Caret8;
+//# sourceMappingURL=Caret8.js.map

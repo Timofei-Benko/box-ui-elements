@@ -10,3 +10,4 @@ export default {
     notes: "`import AnnotationsRegion16 from 'box-ui-elements/es/icon/fill/AnnotationsRegion16';`"
   }
 };
+//# sourceMappingURL=AnnotationsRegion16.stories.js.map

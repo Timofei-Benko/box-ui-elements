@@ -32,3 +32,4 @@ var IconSharedLink = function IconSharedLink(_ref) {
 };
 
 export default IconSharedLink;
+//# sourceMappingURL=IconSharedLink.js.map

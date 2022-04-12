@@ -289,3 +289,4 @@ function (_BaseUpload) {
 }(BaseUpload);
 
 export default PlainUpload;
+//# sourceMappingURL=PlainUpload.js.map

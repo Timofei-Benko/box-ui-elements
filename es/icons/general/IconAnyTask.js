@@ -27,3 +27,4 @@ var IconAnyTask = function IconAnyTask(_ref) {
 };
 
 export default IconAnyTask;
+//# sourceMappingURL=IconAnyTask.js.map

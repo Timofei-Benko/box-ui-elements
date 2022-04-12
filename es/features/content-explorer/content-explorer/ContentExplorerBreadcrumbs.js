@@ -51,3 +51,4 @@ ContentExplorerBreadcrumbs.propTypes = {
 };
 export { ContentExplorerBreadcrumbs as ContentExplorerBreadcrumbsBase };
 export default injectIntl(ContentExplorerBreadcrumbs);
+//# sourceMappingURL=ContentExplorerBreadcrumbs.js.map

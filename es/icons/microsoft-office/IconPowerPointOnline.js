@@ -46,3 +46,4 @@ var IconPowerPointOnline = function IconPowerPointOnline(_ref) {
 };
 
 export default IconPowerPointOnline;
+//# sourceMappingURL=IconPowerPointOnline.js.map

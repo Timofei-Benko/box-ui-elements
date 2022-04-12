@@ -451,3 +451,4 @@ function (_BaseMultiput) {
 
 export default MultiputPart;
 export { PART_STATE_NOT_STARTED, PART_STATE_DIGEST_READY, PART_STATE_UPLOADING, PART_STATE_UPLOADED };
+//# sourceMappingURL=MultiputPart.js.map

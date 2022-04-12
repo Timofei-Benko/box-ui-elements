@@ -124,3 +124,4 @@ ItemProperties.propTypes = {
   url: PropTypes.string
 };
 export default ItemProperties;
+//# sourceMappingURL=ItemProperties.js.map

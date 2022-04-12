@@ -10,3 +10,4 @@ export default {
     notes: "`import RelayPlanet140 from 'box-ui-elements/es/illustration/RelayPlanet140';`"
   }
 };
+//# sourceMappingURL=RelayPlanet140.stories.js.map

@@ -28,3 +28,4 @@ var FileDicom16 = function FileDicom16(props) {
 };
 
 export default FileDicom16;
+//# sourceMappingURL=FileDicom16.js.map

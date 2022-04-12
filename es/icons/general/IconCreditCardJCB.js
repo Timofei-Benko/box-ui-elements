@@ -50,3 +50,4 @@ var IconCreditCardJCB = function IconCreditCardJCB(_ref) {
 };
 
 export default IconCreditCardJCB;
+//# sourceMappingURL=IconCreditCardJCB.js.map

@@ -37,3 +37,4 @@ var QuickSearchSelector = function QuickSearchSelector(_ref) {
 
 QuickSearchSelector.displayName = 'QuickSearchSelector';
 export default QuickSearchSelector;
+//# sourceMappingURL=QuickSearchSelector.js.map

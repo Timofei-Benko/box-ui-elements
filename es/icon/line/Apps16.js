@@ -28,3 +28,4 @@ var Apps16 = function Apps16(props) {
 };
 
 export default Apps16;
+//# sourceMappingURL=Apps16.js.map

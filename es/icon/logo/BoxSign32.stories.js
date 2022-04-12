@@ -10,3 +10,4 @@ export default {
     notes: "`import BoxSign32 from 'box-ui-elements/es/icon/logo/BoxSign32';`"
   }
 };
+//# sourceMappingURL=BoxSign32.stories.js.map

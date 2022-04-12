@@ -207,3 +207,4 @@ _defineProperty(FolderCircleIllustration, "defaultProps", {
 });
 
 export default FolderCircleIllustration;
+//# sourceMappingURL=FolderCircleIllustration.js.map

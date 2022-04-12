@@ -37,3 +37,4 @@ var IconCreditCardAmex = function IconCreditCardAmex(_ref) {
 };
 
 export default IconCreditCardAmex;
+//# sourceMappingURL=IconCreditCardAmex.js.map

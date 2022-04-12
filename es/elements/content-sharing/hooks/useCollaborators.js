@@ -67,3 +67,4 @@ function useCollaborators(api, itemID, itemType, options) {
 }
 
 export default useCollaborators;
+//# sourceMappingURL=useCollaborators.js.map

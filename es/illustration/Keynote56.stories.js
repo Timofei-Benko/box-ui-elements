@@ -10,3 +10,4 @@ export default {
     notes: "`import Keynote56 from 'box-ui-elements/es/illustration/Keynote56';`"
   }
 };
+//# sourceMappingURL=Keynote56.stories.js.map

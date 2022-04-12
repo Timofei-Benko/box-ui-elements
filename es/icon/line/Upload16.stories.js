@@ -10,3 +10,4 @@ export default {
     notes: "`import Upload16 from 'box-ui-elements/es/icon/line/Upload16';`"
   }
 };
+//# sourceMappingURL=Upload16.stories.js.map

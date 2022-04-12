@@ -86,3 +86,4 @@ var Classification = function Classification(_ref) {
 
 export { STYLE_INLINE, STYLE_TOOLTIP };
 export default Classification;
+//# sourceMappingURL=Classification.js.map

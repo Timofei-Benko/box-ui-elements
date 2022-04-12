@@ -25,3 +25,4 @@ var IconBox3DCenter = function IconBox3DCenter(_ref) {
 };
 
 export default IconBox3DCenter;
+//# sourceMappingURL=IconBox3DCenter.js.map

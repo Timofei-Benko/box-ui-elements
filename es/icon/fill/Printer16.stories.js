@@ -10,3 +10,4 @@ export default {
     notes: "`import Printer16 from 'box-ui-elements/es/icon/fill/Printer16';`"
   }
 };
+//# sourceMappingURL=Printer16.stories.js.map

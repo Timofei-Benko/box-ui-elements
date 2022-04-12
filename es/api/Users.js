@@ -172,3 +172,4 @@ function (_Base) {
 }(Base);
 
 export default Users;
+//# sourceMappingURL=Users.js.map

@@ -25,3 +25,4 @@ var IconTrackNext = function IconTrackNext(_ref) {
 };
 
 export default IconTrackNext;
+//# sourceMappingURL=IconTrackNext.js.map

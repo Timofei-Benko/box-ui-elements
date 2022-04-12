@@ -10,3 +10,4 @@ export default {
     notes: "`import NumbersForMac32 from 'box-ui-elements/es/icon/logo/NumbersForMac32';`"
   }
 };
+//# sourceMappingURL=NumbersForMac32.stories.js.map

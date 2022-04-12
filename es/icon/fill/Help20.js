@@ -28,3 +28,4 @@ var Help20 = function Help20(props) {
 };
 
 export default Help20;
+//# sourceMappingURL=Help20.js.map

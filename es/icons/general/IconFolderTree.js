@@ -27,3 +27,4 @@ var IconFolderTree = function IconFolderTree(_ref) {
 };
 
 export default IconFolderTree;
+//# sourceMappingURL=IconFolderTree.js.map

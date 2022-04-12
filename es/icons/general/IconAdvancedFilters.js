@@ -25,3 +25,4 @@ var IconAdvancedFilters = function IconAdvancedFilters(_ref) {
 };
 
 export default IconAdvancedFilters;
+//# sourceMappingURL=IconAdvancedFilters.js.map

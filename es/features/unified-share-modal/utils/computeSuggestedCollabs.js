@@ -60,3 +60,4 @@ function computeSuggestedCollabs(contacts, suggestedCollabLookup, inputValue) {
 }
 
 export default computeSuggestedCollabs;
+//# sourceMappingURL=computeSuggestedCollabs.js.map

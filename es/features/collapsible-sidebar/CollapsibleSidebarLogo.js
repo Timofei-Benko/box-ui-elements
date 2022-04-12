@@ -80,3 +80,4 @@ function CollapsibleSidebarLogo(props) {
 }
 
 export default injectIntl(CollapsibleSidebarLogo);
+//# sourceMappingURL=CollapsibleSidebarLogo.js.map

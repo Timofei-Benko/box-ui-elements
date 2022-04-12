@@ -202,3 +202,4 @@ var MetadataQueryAPIHelper = function MetadataQueryAPIHelper(api) {
 };
 
 export { MetadataQueryAPIHelper as default };
+//# sourceMappingURL=MetadataQueryAPIHelper.js.map

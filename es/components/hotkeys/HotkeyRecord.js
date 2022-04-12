@@ -14,3 +14,4 @@ var HotkeyPropType = PropTypes.shape({
 });
 export { HotkeyPropType };
 export default HotkeyRecord;
+//# sourceMappingURL=HotkeyRecord.js.map

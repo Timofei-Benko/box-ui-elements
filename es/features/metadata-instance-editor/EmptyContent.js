@@ -16,3 +16,4 @@ var EmptyContent = function EmptyContent(_ref) {
 };
 
 export default EmptyContent;
+//# sourceMappingURL=EmptyContent.js.map

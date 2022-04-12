@@ -10,3 +10,4 @@ export default {
     notes: "`import Files140 from 'box-ui-elements/es/illustration/Files140';`"
   }
 };
+//# sourceMappingURL=Files140.stories.js.map

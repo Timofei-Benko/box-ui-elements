@@ -80,3 +80,4 @@ function Avatar(_ref) {
 }
 
 export default Avatar;
+//# sourceMappingURL=Avatar.js.map

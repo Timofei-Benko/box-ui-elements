@@ -10,3 +10,4 @@ export default {
     notes: "`import CircleX16 from 'box-ui-elements/es/icon/line/CircleX16';`"
   }
 };
+//# sourceMappingURL=CircleX16.stories.js.map

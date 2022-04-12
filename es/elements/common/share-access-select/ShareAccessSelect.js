@@ -62,3 +62,4 @@ var ShareAccessSelect = function ShareAccessSelect(_ref) {
 };
 
 export default injectIntl(ShareAccessSelect);
+//# sourceMappingURL=ShareAccessSelect.js.map

@@ -34,3 +34,4 @@ var AssigneeDetails = React.memo(function (_ref) {
   }))));
 });
 export default AssigneeDetails;
+//# sourceMappingURL=AssigneeDetails.js.map

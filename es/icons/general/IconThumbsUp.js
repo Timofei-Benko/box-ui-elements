@@ -28,3 +28,4 @@ var IconThumbsUp = function IconThumbsUp(_ref) {
 };
 
 export default IconThumbsUp;
+//# sourceMappingURL=IconThumbsUp.js.map

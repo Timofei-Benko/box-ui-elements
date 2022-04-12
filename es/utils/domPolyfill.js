@@ -17,3 +17,4 @@ window.Element.prototype.closest = function closest(s) {
 
   return null;
 };
+//# sourceMappingURL=domPolyfill.js.map

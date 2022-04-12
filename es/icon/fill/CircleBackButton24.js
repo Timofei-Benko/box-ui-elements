@@ -35,3 +35,4 @@ var CircleBackButton24 = function CircleBackButton24(props) {
 };
 
 export default CircleBackButton24;
+//# sourceMappingURL=CircleBackButton24.js.map

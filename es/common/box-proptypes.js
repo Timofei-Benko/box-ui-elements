@@ -24,3 +24,4 @@ var OptionPropType = {
 };
 var OptionsPropType = PropTypes.oneOfType([PropTypes.arrayOf(PropTypes.shape(OptionPropType)), ImmutablePropTypes.listOf(ImmutablePropTypes.recordOf(OptionPropType))]).isRequired;
 export { ActionItemErrorPropType, SelectorItemsPropType, SelectorItemPropType, UserPropType, OptionsPropType };
+//# sourceMappingURL=box-proptypes.js.map

@@ -28,3 +28,4 @@ var AlarmClock16 = function AlarmClock16(props) {
 };
 
 export default AlarmClock16;
+//# sourceMappingURL=AlarmClock16.js.map

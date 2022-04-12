@@ -53,3 +53,4 @@ var ViewModeChangeButton = function ViewModeChangeButton(_ref) {
 };
 
 export default injectIntl(ViewModeChangeButton);
+//# sourceMappingURL=ViewModeChangeButton.js.map

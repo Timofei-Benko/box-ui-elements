@@ -10,3 +10,4 @@ export default {
     notes: "`import FileVideo32 from 'box-ui-elements/es/icon/content/FileVideo32';`"
   }
 };
+//# sourceMappingURL=FileVideo32.stories.js.map

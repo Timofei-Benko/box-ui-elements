@@ -26,3 +26,4 @@ var IconPageForward = function IconPageForward(_ref) {
 };
 
 export default IconPageForward;
+//# sourceMappingURL=IconPageForward.js.map

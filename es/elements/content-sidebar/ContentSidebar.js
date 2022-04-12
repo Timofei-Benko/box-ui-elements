@@ -375,3 +375,4 @@ _defineProperty(ContentSidebar, "defaultProps", {
 
 export { ContentSidebar as ContentSidebarComponent };
 export default flow([withFeatureProvider, withLogger(ORIGIN_CONTENT_SIDEBAR), withErrorBoundary(ORIGIN_CONTENT_SIDEBAR)])(ContentSidebar);
+//# sourceMappingURL=ContentSidebar.js.map

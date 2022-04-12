@@ -77,3 +77,4 @@ var CollapsedVersion = function CollapsedVersion(props) {
 
 export { CollapsedVersion as CollapsedVersionBase };
 export default injectIntl(CollapsedVersion);
+//# sourceMappingURL=CollapsedVersion.js.map

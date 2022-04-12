@@ -43,3 +43,4 @@ var VirtualizedTable = function VirtualizedTable(_ref) {
 };
 
 export default injectIntl(VirtualizedTable);
+//# sourceMappingURL=VirtualizedTable.js.map

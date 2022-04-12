@@ -58,3 +58,4 @@ var SharedLinkErrorState = function SharedLinkErrorState(_ref) {
 };
 
 export default SharedLinkErrorState;
+//# sourceMappingURL=SharedLinkErrorState.js.map

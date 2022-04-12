@@ -23,3 +23,4 @@ var FooterIndicator = function FooterIndicator(_ref) {
 };
 
 export default FooterIndicator;
+//# sourceMappingURL=FooterIndicator.js.map

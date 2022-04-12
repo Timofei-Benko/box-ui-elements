@@ -22,3 +22,4 @@ var sortableColumnHeaderRenderer = function sortableColumnHeaderRenderer(_ref) {
 };
 
 export default sortableColumnHeaderRenderer;
+//# sourceMappingURL=sortableColumnHeaderRenderer.js.map

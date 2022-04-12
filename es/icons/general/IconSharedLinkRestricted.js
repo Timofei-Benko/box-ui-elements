@@ -31,3 +31,4 @@ var IconSharedLinkRestricted = function IconSharedLinkRestricted(_ref) {
 };
 
 export default IconSharedLinkRestricted;
+//# sourceMappingURL=IconSharedLinkRestricted.js.map

@@ -89,3 +89,4 @@ var SharedLink = function SharedLink(props) {
 
 export { SharedLink as SharedLinkBase };
 export default injectIntl(SharedLink);
+//# sourceMappingURL=SharedLink.js.map

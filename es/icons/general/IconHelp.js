@@ -26,3 +26,4 @@ var IconHelp = function IconHelp(_ref) {
 };
 
 export default IconHelp;
+//# sourceMappingURL=IconHelp.js.map

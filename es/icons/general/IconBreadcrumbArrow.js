@@ -26,3 +26,4 @@ var IconBreadcrumbArrow = function IconBreadcrumbArrow(_ref) {
 };
 
 export default IconBreadcrumbArrow;
+//# sourceMappingURL=IconBreadcrumbArrow.js.map

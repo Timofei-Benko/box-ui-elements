@@ -27,3 +27,4 @@ var IconLogo = function IconLogo(_ref) {
 };
 
 export default IconLogo;
+//# sourceMappingURL=IconLogo.js.map

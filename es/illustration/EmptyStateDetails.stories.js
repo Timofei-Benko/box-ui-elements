@@ -10,3 +10,4 @@ export default {
     notes: "`import EmptyStateDetails from 'box-ui-elements/es/illustration/EmptyStateDetails';`"
   }
 };
+//# sourceMappingURL=EmptyStateDetails.stories.js.map

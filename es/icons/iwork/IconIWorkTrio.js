@@ -1039,3 +1039,4 @@ _defineProperty(IconIWorkTrio, "defaultProps", {
 });
 
 export default IconIWorkTrio;
+//# sourceMappingURL=IconIWorkTrio.js.map

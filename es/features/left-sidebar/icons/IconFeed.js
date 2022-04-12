@@ -29,3 +29,4 @@ var IconFeed = function IconFeed(_ref) {
 };
 
 export default IconFeed;
+//# sourceMappingURL=IconFeed.js.map

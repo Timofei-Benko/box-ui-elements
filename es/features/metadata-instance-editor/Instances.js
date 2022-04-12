@@ -38,3 +38,4 @@ var Instances = function Instances(_ref) {
 };
 
 export default Instances;
+//# sourceMappingURL=Instances.js.map

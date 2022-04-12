@@ -157,3 +157,4 @@ var IconSync = function IconSync(_ref) {
 };
 
 export default IconSync;
+//# sourceMappingURL=IconSync.js.map

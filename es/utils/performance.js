@@ -6,3 +6,4 @@ var mark = function mark(markName) {
 };
 
 export { mark, isMarkSupported };
+//# sourceMappingURL=performance.js.map

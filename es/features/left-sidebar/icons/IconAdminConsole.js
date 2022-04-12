@@ -29,3 +29,4 @@ var IconAdminConsole = function IconAdminConsole(_ref) {
 };
 
 export default IconAdminConsole;
+//# sourceMappingURL=IconAdminConsole.js.map

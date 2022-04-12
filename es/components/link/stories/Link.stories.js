@@ -38,3 +38,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=Link.stories.js.map

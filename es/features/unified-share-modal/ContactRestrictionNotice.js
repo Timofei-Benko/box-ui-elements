@@ -91,3 +91,4 @@ ContactRestrictionNotice.defaultProps = {
 };
 export { ContactRestrictionNotice as ContactRestrictionNoticeComponent };
 export default injectIntl(ContactRestrictionNotice);
+//# sourceMappingURL=ContactRestrictionNotice.js.map

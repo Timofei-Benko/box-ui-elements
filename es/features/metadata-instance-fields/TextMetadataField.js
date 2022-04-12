@@ -47,3 +47,4 @@ var TextMetadataField = function TextMetadataField(_ref) {
 
 export { TextMetadataField as TextMetadataFieldBase };
 export default injectIntl(TextMetadataField);
+//# sourceMappingURL=TextMetadataField.js.map

@@ -143,3 +143,4 @@ _defineProperty(IconBoxToolsInstall, "defaultProps", {
 });
 
 export default IconBoxToolsInstall;
+//# sourceMappingURL=IconBoxToolsInstall.js.map

@@ -94,3 +94,4 @@ var SidebarNav = function SidebarNav(_ref) {
 };
 
 export default injectIntl(SidebarNav);
+//# sourceMappingURL=SidebarNav.js.map

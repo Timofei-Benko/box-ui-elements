@@ -79,3 +79,4 @@ var ItemIconMonotone = function ItemIconMonotone(_ref) {
 };
 
 export default ItemIconMonotone;
+//# sourceMappingURL=ItemIconMonotone.js.map

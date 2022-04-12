@@ -28,3 +28,4 @@ var GlobeBadge16 = function GlobeBadge16(props) {
 };
 
 export default GlobeBadge16;
+//# sourceMappingURL=GlobeBadge16.js.map

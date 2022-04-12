@@ -85,3 +85,4 @@ function (_MarkerBasedApi) {
 }(MarkerBasedApi);
 
 export default MarkerBasedUsers;
+//# sourceMappingURL=MarkerBasedUsers.js.map

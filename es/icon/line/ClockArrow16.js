@@ -28,3 +28,4 @@ var ClockArrow16 = function ClockArrow16(props) {
 };
 
 export default ClockArrow16;
+//# sourceMappingURL=ClockArrow16.js.map

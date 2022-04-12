@@ -429,3 +429,4 @@ function makeSelectable(BaseTable) {
 }
 
 export default makeSelectable;
+//# sourceMappingURL=makeSelectable.js.map

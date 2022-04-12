@@ -10,3 +10,4 @@ export default {
     notes: "`import FileExcel32 from 'box-ui-elements/es/icon/content/FileExcel32';`"
   }
 };
+//# sourceMappingURL=FileExcel32.stories.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderExternal16 from 'box-ui-elements/es/icon/fill/FolderExternal16';`"
   }
 };
+//# sourceMappingURL=FolderExternal16.stories.js.map

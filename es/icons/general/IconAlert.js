@@ -26,3 +26,4 @@ var IconAlert = function IconAlert(_ref) {
 };
 
 export default IconAlert;
+//# sourceMappingURL=IconAlert.js.map

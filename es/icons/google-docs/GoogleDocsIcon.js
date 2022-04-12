@@ -49,3 +49,4 @@ var GoogleDocsIcon = function GoogleDocsIcon(_ref) {
 };
 
 export default GoogleDocsIcon;
+//# sourceMappingURL=GoogleDocsIcon.js.map

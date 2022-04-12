@@ -292,3 +292,4 @@ function MessageCenterModal(_ref) {
 }
 
 export default injectIntl(MessageCenterModal);
+//# sourceMappingURL=MessageCenterModal.js.map

@@ -80,3 +80,4 @@ var Calendar16 = function Calendar16(props) {
 };
 
 export default Calendar16;
+//# sourceMappingURL=Calendar16.js.map

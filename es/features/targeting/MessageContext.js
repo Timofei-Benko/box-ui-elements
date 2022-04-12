@@ -10,3 +10,4 @@ var defaultMessageContextValue = {
 };
 var MessageContext = createContext(defaultMessageContextValue);
 export default MessageContext;
+//# sourceMappingURL=MessageContext.js.map

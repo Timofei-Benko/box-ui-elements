@@ -110,3 +110,4 @@ var IconConePopper = function IconConePopper(_ref) {
 };
 
 export default IconConePopper;
+//# sourceMappingURL=IconConePopper.js.map

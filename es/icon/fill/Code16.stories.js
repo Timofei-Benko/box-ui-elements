@@ -10,3 +10,4 @@ export default {
     notes: "`import Code16 from 'box-ui-elements/es/icon/fill/Code16';`"
   }
 };
+//# sourceMappingURL=Code16.stories.js.map

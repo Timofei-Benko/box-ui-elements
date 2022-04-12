@@ -36,3 +36,4 @@ var Date = function Date(_ref) {
 };
 
 export default Date;
+//# sourceMappingURL=Date.js.map

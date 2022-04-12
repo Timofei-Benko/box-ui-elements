@@ -19,3 +19,4 @@ var IconFileGoogleSlides = function IconFileGoogleSlides(props) {
 };
 
 export default IconFileGoogleSlides;
+//# sourceMappingURL=IconFileGoogleSlides.js.map

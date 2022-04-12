@@ -16,3 +16,4 @@ ItemListLoadingPlaceholder.propTypes = {
   width: PropTypes.string
 };
 export default ItemListLoadingPlaceholder;
+//# sourceMappingURL=ItemListLoadingPlaceholder.js.map

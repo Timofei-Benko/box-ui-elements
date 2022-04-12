@@ -36,3 +36,4 @@ var FileDwg32 = function FileDwg32(props) {
 };
 
 export default FileDwg32;
+//# sourceMappingURL=FileDwg32.js.map

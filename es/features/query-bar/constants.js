@@ -50,3 +50,4 @@ export var COLUMN_OPERATORS = {
   date: ALL_OPERATORS,
   multiSelect: ALL_OPERATORS
 };
+//# sourceMappingURL=constants.js.map

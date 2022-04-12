@@ -29,3 +29,4 @@ var IconSharedWithMe = function IconSharedWithMe(_ref) {
 };
 
 export default IconSharedWithMe;
+//# sourceMappingURL=IconSharedWithMe.js.map

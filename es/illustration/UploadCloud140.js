@@ -39,3 +39,4 @@ var UploadCloud140 = function UploadCloud140(props) {
 };
 
 export default UploadCloud140;
+//# sourceMappingURL=UploadCloud140.js.map

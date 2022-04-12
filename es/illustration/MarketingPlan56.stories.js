@@ -10,3 +10,4 @@ export default {
     notes: "`import MarketingPlan56 from 'box-ui-elements/es/illustration/MarketingPlan56';`"
   }
 };
+//# sourceMappingURL=MarketingPlan56.stories.js.map

@@ -28,3 +28,4 @@ var TextLeft16 = function TextLeft16(props) {
 };
 
 export default TextLeft16;
+//# sourceMappingURL=TextLeft16.js.map

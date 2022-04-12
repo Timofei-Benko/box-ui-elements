@@ -77,3 +77,4 @@ var Gavel56 = function Gavel56(props) {
 };
 
 export default Gavel56;
+//# sourceMappingURL=Gavel56.js.map

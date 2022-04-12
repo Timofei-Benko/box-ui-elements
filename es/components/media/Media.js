@@ -27,3 +27,4 @@ Media.Body = MediaBody;
 Media.Menu = MediaMenu;
 Media.Figure = MediaFigure;
 export default Media;
+//# sourceMappingURL=Media.js.map

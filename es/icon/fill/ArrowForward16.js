@@ -28,3 +28,4 @@ var ArrowForward16 = function ArrowForward16(props) {
 };
 
 export default ArrowForward16;
+//# sourceMappingURL=ArrowForward16.js.map

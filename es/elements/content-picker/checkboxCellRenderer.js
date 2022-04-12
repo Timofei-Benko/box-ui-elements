@@ -28,3 +28,4 @@ export default (function (onItemSelect, selectableType, extensionsWhitelist, has
     });
   };
 });
+//# sourceMappingURL=checkboxCellRenderer.js.map

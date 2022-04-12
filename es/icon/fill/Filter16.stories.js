@@ -10,3 +10,4 @@ export default {
     notes: "`import Filter16 from 'box-ui-elements/es/icon/fill/Filter16';`"
   }
 };
+//# sourceMappingURL=Filter16.stories.js.map

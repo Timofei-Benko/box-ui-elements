@@ -19,3 +19,4 @@ var LabelPrimitive = function LabelPrimitive(_ref) {
 };
 
 export default LabelPrimitive;
+//# sourceMappingURL=LabelPrimitive.js.map

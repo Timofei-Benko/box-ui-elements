@@ -28,3 +28,4 @@ var BoxLogo = function BoxLogo(props) {
 };
 
 export default BoxLogo;
+//# sourceMappingURL=BoxLogo.js.map

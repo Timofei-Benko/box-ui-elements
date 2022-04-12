@@ -10,3 +10,4 @@ export default {
     notes: "`import FileSpreadsheet32 from 'box-ui-elements/es/icon/content/FileSpreadsheet32';`"
   }
 };
+//# sourceMappingURL=FileSpreadsheet32.stories.js.map

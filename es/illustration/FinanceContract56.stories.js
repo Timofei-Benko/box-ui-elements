@@ -10,3 +10,4 @@ export default {
     notes: "`import FinanceContract56 from 'box-ui-elements/es/illustration/FinanceContract56';`"
   }
 };
+//# sourceMappingURL=FinanceContract56.stories.js.map

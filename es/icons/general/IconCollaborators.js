@@ -37,3 +37,4 @@ var IconCollaborators = function IconCollaborators(_ref) {
 };
 
 export default IconCollaborators;
+//# sourceMappingURL=IconCollaborators.js.map

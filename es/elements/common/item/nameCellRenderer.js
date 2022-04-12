@@ -23,3 +23,4 @@ export default (function (rootId, view, onItemClick, onItemSelect) {
     });
   };
 });
+//# sourceMappingURL=nameCellRenderer.js.map

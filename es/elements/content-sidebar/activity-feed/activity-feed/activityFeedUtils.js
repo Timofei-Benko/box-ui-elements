@@ -64,3 +64,4 @@ export function collapseFeedState(feedState) {
     return collapsedFeedState.concat([previousFeedItem, feedItem]);
   }, []);
 }
+//# sourceMappingURL=activityFeedUtils.js.map

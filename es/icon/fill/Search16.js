@@ -28,3 +28,4 @@ var Search16 = function Search16(props) {
 };
 
 export default Search16;
+//# sourceMappingURL=Search16.js.map

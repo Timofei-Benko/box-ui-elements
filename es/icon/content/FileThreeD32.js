@@ -36,3 +36,4 @@ var FileThreeD32 = function FileThreeD32(props) {
 };
 
 export default FileThreeD32;
+//# sourceMappingURL=FileThreeD32.js.map

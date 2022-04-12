@@ -158,3 +158,4 @@ var VersionsItem = function VersionsItem(_ref) {
 };
 
 export default VersionsItem;
+//# sourceMappingURL=VersionsItem.js.map

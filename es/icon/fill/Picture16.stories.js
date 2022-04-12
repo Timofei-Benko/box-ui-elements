@@ -10,3 +10,4 @@ export default {
     notes: "`import Picture16 from 'box-ui-elements/es/icon/fill/Picture16';`"
   }
 };
+//# sourceMappingURL=Picture16.stories.js.map

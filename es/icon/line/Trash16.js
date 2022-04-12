@@ -28,3 +28,4 @@ var Trash16 = function Trash16(props) {
 };
 
 export default Trash16;
+//# sourceMappingURL=Trash16.js.map

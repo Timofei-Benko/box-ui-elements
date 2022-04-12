@@ -52,3 +52,4 @@ function (_Base) {
 }(Base);
 
 export default TasksBase;
+//# sourceMappingURL=TasksBase.js.map

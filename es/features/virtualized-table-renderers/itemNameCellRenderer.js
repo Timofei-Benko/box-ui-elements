@@ -50,3 +50,4 @@ var itemNameCellRenderer = function itemNameCellRenderer(intl) {
 };
 
 export default itemNameCellRenderer;
+//# sourceMappingURL=itemNameCellRenderer.js.map

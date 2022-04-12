@@ -85,3 +85,4 @@ var UploadsManager = function UploadsManager(_ref) {
 };
 
 export default UploadsManager;
+//# sourceMappingURL=UploadsManager.js.map

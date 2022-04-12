@@ -27,3 +27,4 @@ var IconPointAnnotation = function IconPointAnnotation(_ref) {
 };
 
 export default IconPointAnnotation;
+//# sourceMappingURL=IconPointAnnotation.js.map

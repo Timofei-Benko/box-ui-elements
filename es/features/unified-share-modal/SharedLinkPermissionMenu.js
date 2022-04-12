@@ -147,3 +147,4 @@ _defineProperty(SharedLinkPermissionMenu, "defaultProps", {
 });
 
 export default SharedLinkPermissionMenu;
+//# sourceMappingURL=SharedLinkPermissionMenu.js.map

@@ -28,3 +28,4 @@ var Arrow16 = function Arrow16(props) {
 };
 
 export default Arrow16;
+//# sourceMappingURL=Arrow16.js.map

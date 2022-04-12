@@ -29,3 +29,4 @@ var IconNotifications = function IconNotifications(_ref) {
 };
 
 export default IconNotifications;
+//# sourceMappingURL=IconNotifications.js.map

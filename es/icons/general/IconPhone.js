@@ -26,3 +26,4 @@ var IconPhone = function IconPhone(_ref) {
 };
 
 export default IconPhone;
+//# sourceMappingURL=IconPhone.js.map

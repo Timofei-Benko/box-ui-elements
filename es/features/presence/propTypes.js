@@ -24,3 +24,4 @@ var collaboratorsPropType = PropTypes.shape({
 });
 var flyoutPositionPropType = PropTypes.oneOf([BOTTOM_LEFT, BOTTOM_RIGHT, BOTTOM_CENTER]);
 export { collaboratorsPropType, flyoutPositionPropType };
+//# sourceMappingURL=propTypes.js.map

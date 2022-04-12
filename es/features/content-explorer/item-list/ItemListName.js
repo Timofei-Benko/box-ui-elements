@@ -63,3 +63,4 @@ ItemListName.propTypes = {
   linkRenderer: PropTypes.func
 };
 export default ItemListName;
+//# sourceMappingURL=ItemListName.js.map

@@ -162,3 +162,4 @@ _defineProperty(NewFolderModal, "defaultProps", {
 
 export { NewFolderModal as NewFolderModalBase };
 export default injectIntl(NewFolderModal);
+//# sourceMappingURL=NewFolderModal.js.map

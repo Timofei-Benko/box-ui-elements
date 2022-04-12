@@ -32,3 +32,4 @@ var getFileSize = function getFileSize(size) {
 };
 
 export default getFileSize;
+//# sourceMappingURL=getFileSize.js.map

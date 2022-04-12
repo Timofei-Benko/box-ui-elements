@@ -31,3 +31,4 @@ var PillCloud = function PillCloud(_ref) {
 };
 
 export default PillCloud;
+//# sourceMappingURL=PillCloud.js.map

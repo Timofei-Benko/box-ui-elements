@@ -10,3 +10,4 @@ export default {
     notes: "`import Gear16 from 'box-ui-elements/es/icon/line/Gear16';`"
   }
 };
+//# sourceMappingURL=Gear16.stories.js.map

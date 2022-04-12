@@ -73,3 +73,4 @@ var DroppableContent = makeDroppable(dropDefinition)(function (_ref4) {
   }));
 });
 export default DroppableContent;
+//# sourceMappingURL=DroppableContent.js.map

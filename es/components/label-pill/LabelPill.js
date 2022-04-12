@@ -52,3 +52,4 @@ var LabelPill = {
   Icon: LabelPillIcon
 };
 export default LabelPill;
+//# sourceMappingURL=LabelPill.js.map

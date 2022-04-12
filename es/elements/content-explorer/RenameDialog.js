@@ -132,3 +132,4 @@ var RenameDialog = function RenameDialog(_ref) {
 };
 
 export default injectIntl(RenameDialog);
+//# sourceMappingURL=RenameDialog.js.map

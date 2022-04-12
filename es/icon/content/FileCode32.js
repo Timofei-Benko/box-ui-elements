@@ -36,3 +36,4 @@ var FileCode32 = function FileCode32(props) {
 };
 
 export default FileCode32;
+//# sourceMappingURL=FileCode32.js.map

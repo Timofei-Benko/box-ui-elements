@@ -59,3 +59,4 @@ export default function (sortBy, sortDirection, cache) {
     throw new Error('Error in sort comparator!');
   };
 }
+//# sourceMappingURL=comparator.js.map

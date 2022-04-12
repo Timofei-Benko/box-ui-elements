@@ -10,3 +10,4 @@ export default {
     notes: "`import CustomSkill56 from 'box-ui-elements/es/illustration/CustomSkill56';`"
   }
 };
+//# sourceMappingURL=CustomSkill56.stories.js.map

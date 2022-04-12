@@ -10,3 +10,4 @@ export default {
     notes: "`import RelayClassic16 from 'box-ui-elements/es/icon/fill/RelayClassic16';`"
   }
 };
+//# sourceMappingURL=RelayClassic16.stories.js.map

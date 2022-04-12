@@ -58,3 +58,4 @@ var GridViewSlider = function GridViewSlider(_ref) {
 };
 
 export default injectIntl(GridViewSlider);
+//# sourceMappingURL=GridViewSlider.js.map

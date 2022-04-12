@@ -27,3 +27,4 @@ var CloudUpload16 = function CloudUpload16(props) {
 };
 
 export default CloudUpload16;
+//# sourceMappingURL=CloudUpload16.js.map

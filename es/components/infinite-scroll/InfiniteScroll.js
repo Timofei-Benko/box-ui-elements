@@ -149,3 +149,4 @@ _defineProperty(InfiniteScroll, "defaultProps", {
 });
 
 export default InfiniteScroll;
+//# sourceMappingURL=InfiniteScroll.js.map

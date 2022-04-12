@@ -10,3 +10,4 @@ export default {
     notes: "`import FileIndesign16 from 'box-ui-elements/es/icon/fill/FileIndesign16';`"
   }
 };
+//# sourceMappingURL=FileIndesign16.stories.js.map

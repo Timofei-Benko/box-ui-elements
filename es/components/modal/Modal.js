@@ -204,3 +204,4 @@ _defineProperty(Modal, "defaultProps", {
 });
 
 export default Modal;
+//# sourceMappingURL=Modal.js.map

@@ -284,3 +284,4 @@ function (_React$PureComponent) {
 
 export { TemplateDropdown as TemplateDropdownBase };
 export default injectIntl(TemplateDropdown);
+//# sourceMappingURL=TemplateDropdown.js.map

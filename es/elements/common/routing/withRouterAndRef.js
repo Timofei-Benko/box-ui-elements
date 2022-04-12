@@ -16,3 +16,4 @@ export default function withRouterAndRef(Wrapped) {
   WithRouterAndRef.displayName = "withRouterAndRef(".concat(name, ")");
   return WithRouterAndRef;
 }
+//# sourceMappingURL=withRouterAndRef.js.map

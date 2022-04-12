@@ -16,3 +16,4 @@ var IconFileDefault = function IconFileDefault(props) {
 };
 
 export default IconFileDefault;
+//# sourceMappingURL=IconFileDefault.js.map

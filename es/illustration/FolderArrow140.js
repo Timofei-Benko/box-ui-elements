@@ -55,3 +55,4 @@ var FolderArrow140 = function FolderArrow140(props) {
 };
 
 export default FolderArrow140;
+//# sourceMappingURL=FolderArrow140.js.map

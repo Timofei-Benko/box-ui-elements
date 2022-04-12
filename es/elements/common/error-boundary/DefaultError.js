@@ -14,3 +14,4 @@ var DefaultError = function DefaultError() {
 };
 
 export default DefaultError;
+//# sourceMappingURL=DefaultError.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderPersonal32 from 'box-ui-elements/es/icon/content/FolderPersonal32';`"
   }
 };
+//# sourceMappingURL=FolderPersonal32.stories.js.map

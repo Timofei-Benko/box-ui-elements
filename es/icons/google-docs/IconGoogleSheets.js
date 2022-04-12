@@ -109,3 +109,4 @@ _defineProperty(IconGoogleSheets, "defaultProps", {
 });
 
 export default IconGoogleSheets;
+//# sourceMappingURL=IconGoogleSheets.js.map

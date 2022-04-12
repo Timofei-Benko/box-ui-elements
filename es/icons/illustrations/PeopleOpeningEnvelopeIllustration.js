@@ -281,3 +281,4 @@ _defineProperty(PeopleOpeningEnvelopeIllustration, "defaultProps", {
 });
 
 export default PeopleOpeningEnvelopeIllustration;
+//# sourceMappingURL=PeopleOpeningEnvelopeIllustration.js.map

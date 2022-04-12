@@ -30,3 +30,4 @@ var InfoBadge = function InfoBadge(_ref) {
 };
 
 export default InfoBadge;
+//# sourceMappingURL=InfoBadge.js.map

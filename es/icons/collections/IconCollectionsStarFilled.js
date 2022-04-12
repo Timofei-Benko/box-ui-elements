@@ -28,3 +28,4 @@ var IconCollectionsStarFilled = function IconCollectionsStarFilled(_ref) {
 };
 
 export default IconCollectionsStarFilled;
+//# sourceMappingURL=IconCollectionsStarFilled.js.map

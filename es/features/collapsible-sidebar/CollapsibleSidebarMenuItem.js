@@ -122,3 +122,4 @@ function CollapsibleSidebarMenuItem(props) {
 }
 
 export default CollapsibleSidebarMenuItem;
+//# sourceMappingURL=CollapsibleSidebarMenuItem.js.map

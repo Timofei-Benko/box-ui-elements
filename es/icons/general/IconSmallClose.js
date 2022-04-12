@@ -26,3 +26,4 @@ var IconSmallClose = function IconSmallClose(_ref) {
 };
 
 export default IconSmallClose;
+//# sourceMappingURL=IconSmallClose.js.map

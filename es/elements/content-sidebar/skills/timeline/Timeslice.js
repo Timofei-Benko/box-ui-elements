@@ -51,3 +51,4 @@ var Timeslice = function Timeslice(_ref) {
 };
 
 export default Timeslice;
+//# sourceMappingURL=Timeslice.js.map

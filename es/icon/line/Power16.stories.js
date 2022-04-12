@@ -10,3 +10,4 @@ export default {
     notes: "`import Power16 from 'box-ui-elements/es/icon/line/Power16';`"
   }
 };
+//# sourceMappingURL=Power16.stories.js.map

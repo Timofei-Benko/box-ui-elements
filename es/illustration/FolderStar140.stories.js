@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderStar140 from 'box-ui-elements/es/illustration/FolderStar140';`"
   }
 };
+//# sourceMappingURL=FolderStar140.stories.js.map

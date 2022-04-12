@@ -26,3 +26,4 @@ var IconHome = function IconHome(_ref) {
 };
 
 export default IconHome;
+//# sourceMappingURL=IconHome.js.map

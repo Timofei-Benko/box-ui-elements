@@ -28,3 +28,4 @@ var Template16 = function Template16(props) {
 };
 
 export default Template16;
+//# sourceMappingURL=Template16.js.map

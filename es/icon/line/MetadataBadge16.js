@@ -28,3 +28,4 @@ var MetadataBadge16 = function MetadataBadge16(props) {
 };
 
 export default MetadataBadge16;
+//# sourceMappingURL=MetadataBadge16.js.map

@@ -19,3 +19,4 @@ var NavSidebar = function NavSidebar(_ref) {
 };
 
 export default NavSidebar;
+//# sourceMappingURL=NavSidebar.js.map

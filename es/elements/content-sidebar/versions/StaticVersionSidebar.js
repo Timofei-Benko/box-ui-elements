@@ -75,3 +75,4 @@ var StaticVersionsSidebar = function StaticVersionsSidebar(_ref) {
 };
 
 export default StaticVersionsSidebar;
+//# sourceMappingURL=StaticVersionSidebar.js.map

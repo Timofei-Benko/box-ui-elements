@@ -19,3 +19,4 @@ var IconFileKeynote = function IconFileKeynote(props) {
 };
 
 export default IconFileKeynote;
+//# sourceMappingURL=IconFileKeynote.js.map

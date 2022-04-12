@@ -10,3 +10,4 @@ export default {
     notes: "`import Transfers140 from 'box-ui-elements/es/illustration/Transfers140';`"
   }
 };
+//# sourceMappingURL=Transfers140.stories.js.map

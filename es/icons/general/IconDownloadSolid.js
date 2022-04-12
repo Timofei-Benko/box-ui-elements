@@ -25,3 +25,4 @@ var IconDownloadSolid = function IconDownloadSolid(_ref) {
 };
 
 export default IconDownloadSolid;
+//# sourceMappingURL=IconDownloadSolid.js.map

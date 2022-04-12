@@ -1144,3 +1144,4 @@ function (_File) {
 }(File);
 
 export default Metadata;
+//# sourceMappingURL=Metadata.js.map

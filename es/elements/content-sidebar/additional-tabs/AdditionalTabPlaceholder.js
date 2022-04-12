@@ -21,3 +21,4 @@ var AdditionalTabPlaceholder = function AdditionalTabPlaceholder(_ref) {
 };
 
 export default AdditionalTabPlaceholder;
+//# sourceMappingURL=AdditionalTabPlaceholder.js.map

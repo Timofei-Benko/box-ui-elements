@@ -28,3 +28,4 @@ var Sharrow16 = function Sharrow16(props) {
 };
 
 export default Sharrow16;
+//# sourceMappingURL=Sharrow16.js.map

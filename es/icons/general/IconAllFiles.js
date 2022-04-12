@@ -28,3 +28,4 @@ var IconAllFiles = function IconAllFiles(_ref) {
 };
 
 export default IconAllFiles;
+//# sourceMappingURL=IconAllFiles.js.map

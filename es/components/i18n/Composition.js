@@ -190,3 +190,4 @@ function () {
 }();
 
 export default Composition;
+//# sourceMappingURL=Composition.js.map

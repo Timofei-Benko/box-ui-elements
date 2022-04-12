@@ -29,3 +29,4 @@ var IconOwnedByMe = function IconOwnedByMe(_ref) {
 };
 
 export default IconOwnedByMe;
+//# sourceMappingURL=IconOwnedByMe.js.map

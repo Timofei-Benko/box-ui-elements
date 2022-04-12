@@ -559,3 +559,4 @@ _defineProperty(ContentOpenWith, "defaultProps", {
 
 export { ContentOpenWith as ContentOpenWithComponent };
 export default withErrorBoundary(ORIGIN_OPEN_WITH, OpenWithFallbackButton)(ContentOpenWith);
+//# sourceMappingURL=ContentOpenWith.js.map

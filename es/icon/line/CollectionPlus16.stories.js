@@ -10,3 +10,4 @@ export default {
     notes: "`import CollectionPlus16 from 'box-ui-elements/es/icon/line/CollectionPlus16';`"
   }
 };
+//# sourceMappingURL=CollectionPlus16.stories.js.map

@@ -248,3 +248,4 @@ function convertISOStringToUTCDate(isoString) {
 }
 
 export { convertToDate, convertToMs, convertDateToUnixMidnightTime, convertISOStringToUTCDate, convertISOStringtoRFC3339String, isToday, isTomorrow, isValidDate, isYesterday, isCurrentMonth, isCurrentYear, formatTime, addTime };
+//# sourceMappingURL=datetime.js.map

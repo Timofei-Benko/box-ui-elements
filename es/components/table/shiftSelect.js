@@ -54,3 +54,4 @@ function shiftSelect(prevSelection, prevTarget, target, anchor) {
 }
 
 export default shiftSelect;
+//# sourceMappingURL=shiftSelect.js.map

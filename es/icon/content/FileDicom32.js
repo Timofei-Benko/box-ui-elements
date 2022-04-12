@@ -39,3 +39,4 @@ var FileDicom32 = function FileDicom32(props) {
 };
 
 export default FileDicom32;
+//# sourceMappingURL=FileDicom32.js.map

@@ -300,3 +300,4 @@ _defineProperty(ChartCircleIllustration, "defaultProps", {
 });
 
 export default ChartCircleIllustration;
+//# sourceMappingURL=ChartCircleIllustration.js.map

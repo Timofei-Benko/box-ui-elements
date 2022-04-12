@@ -179,3 +179,4 @@ var ItemList = function ItemList(_ref) {
 };
 
 export default injectIntl(ItemList);
+//# sourceMappingURL=ItemList.js.map

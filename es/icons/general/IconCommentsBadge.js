@@ -33,3 +33,4 @@ var IconCommentsBadge = function IconCommentsBadge(_ref) {
 };
 
 export default IconCommentsBadge;
+//# sourceMappingURL=IconCommentsBadge.js.map

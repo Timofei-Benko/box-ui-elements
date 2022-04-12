@@ -22,3 +22,4 @@ var CheckboxField = function CheckboxField(_ref) {
 };
 
 export default CheckboxField;
+//# sourceMappingURL=CheckboxField.js.map

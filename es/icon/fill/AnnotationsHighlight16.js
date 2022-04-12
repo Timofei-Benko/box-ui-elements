@@ -28,3 +28,4 @@ var AnnotationsHighlight16 = function AnnotationsHighlight16(props) {
 };
 
 export default AnnotationsHighlight16;
+//# sourceMappingURL=AnnotationsHighlight16.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import BoxLogo from 'box-ui-elements/es/icon/logo/BoxLogo';`"
   }
 };
+//# sourceMappingURL=BoxLogo.stories.js.map

@@ -18,3 +18,4 @@ var LinkPrimaryButton = function LinkPrimaryButton(_ref) {
 };
 
 export default LinkPrimaryButton;
+//# sourceMappingURL=LinkPrimaryButton.js.map

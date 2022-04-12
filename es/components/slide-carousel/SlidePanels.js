@@ -124,3 +124,4 @@ function (_React$Component) {
 
 SlidePanels.displayName = 'SlidePanels';
 export default SlidePanels;
+//# sourceMappingURL=SlidePanels.js.map

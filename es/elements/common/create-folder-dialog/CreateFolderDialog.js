@@ -115,3 +115,4 @@ var CreateFolderDialog = function CreateFolderDialog(_ref) {
 };
 
 export default injectIntl(CreateFolderDialog);
+//# sourceMappingURL=CreateFolderDialog.js.map

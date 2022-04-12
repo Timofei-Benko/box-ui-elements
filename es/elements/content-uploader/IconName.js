@@ -44,3 +44,4 @@ var IconName = function IconName(_ref) {
 };
 
 export default IconName;
+//# sourceMappingURL=IconName.js.map

@@ -136,3 +136,4 @@ function () {
 }();
 
 export default HotkeyService;
+//# sourceMappingURL=HotkeyService.js.map

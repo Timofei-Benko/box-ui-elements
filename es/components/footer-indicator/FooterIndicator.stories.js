@@ -30,3 +30,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=FooterIndicator.stories.js.map

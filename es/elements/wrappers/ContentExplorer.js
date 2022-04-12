@@ -129,3 +129,4 @@ function (_ES6Wrapper) {
 global.Box = global.Box || {};
 global.Box.ContentExplorer = ContentExplorer;
 export default ContentExplorer;
+//# sourceMappingURL=ContentExplorer.js.map

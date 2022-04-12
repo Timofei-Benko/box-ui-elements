@@ -49,3 +49,4 @@ var normalizeTemplates = function normalizeTemplates(templates, selectedTemplate
 };
 
 export { isHidden, normalizeTemplates, normalizeTemplateFilters };
+//# sourceMappingURL=metadataUtil.js.map

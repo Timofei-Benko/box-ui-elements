@@ -12,3 +12,4 @@ var sizeCellRenderer = function sizeCellRenderer() {
 };
 
 export default sizeCellRenderer;
+//# sourceMappingURL=sizeCellRenderer.js.map

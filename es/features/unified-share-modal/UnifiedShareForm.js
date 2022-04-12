@@ -782,3 +782,4 @@ _defineProperty(UnifiedShareForm, "defaultProps", {
 
 export { UnifiedShareForm as UnifiedShareFormBase };
 export default injectIntl(UnifiedShareForm);
+//# sourceMappingURL=UnifiedShareForm.js.map

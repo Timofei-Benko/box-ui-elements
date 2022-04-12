@@ -28,3 +28,4 @@ var ClockBadge16 = function ClockBadge16(props) {
 };
 
 export default ClockBadge16;
+//# sourceMappingURL=ClockBadge16.js.map

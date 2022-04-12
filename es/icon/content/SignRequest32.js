@@ -37,3 +37,4 @@ var SignRequest32 = function SignRequest32(props) {
 };
 
 export default SignRequest32;
+//# sourceMappingURL=SignRequest32.js.map

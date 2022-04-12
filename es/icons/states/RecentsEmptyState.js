@@ -133,3 +133,4 @@ var RecentsEmptyState = function RecentsEmptyState(_ref) {
 };
 
 export default RecentsEmptyState;
+//# sourceMappingURL=RecentsEmptyState.js.map

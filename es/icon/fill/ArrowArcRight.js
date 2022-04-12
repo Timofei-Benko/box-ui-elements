@@ -28,3 +28,4 @@ var ArrowArcRight = function ArrowArcRight(props) {
 };
 
 export default ArrowArcRight;
+//# sourceMappingURL=ArrowArcRight.js.map

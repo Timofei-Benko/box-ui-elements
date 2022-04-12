@@ -23,3 +23,4 @@ var FileInfo = function FileInfo(_ref) {
 };
 
 export default FileInfo;
+//# sourceMappingURL=FileInfo.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import FolderPlane140 from 'box-ui-elements/es/illustration/FolderPlane140';`"
   }
 };
+//# sourceMappingURL=FolderPlane140.stories.js.map

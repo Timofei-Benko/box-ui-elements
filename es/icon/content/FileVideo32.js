@@ -39,3 +39,4 @@ var FileVideo32 = function FileVideo32(props) {
 };
 
 export default FileVideo32;
+//# sourceMappingURL=FileVideo32.js.map

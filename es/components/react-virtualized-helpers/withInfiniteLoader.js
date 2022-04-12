@@ -42,3 +42,4 @@ function withInfiniteLoader(WrappedComponent) {
 }
 
 export default withInfiniteLoader;
+//# sourceMappingURL=withInfiniteLoader.js.map

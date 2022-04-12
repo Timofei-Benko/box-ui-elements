@@ -30,3 +30,4 @@ var AccessLabel = function AccessLabel(_ref) {
 };
 
 export default AccessLabel;
+//# sourceMappingURL=AccessLabel.js.map

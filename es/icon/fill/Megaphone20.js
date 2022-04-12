@@ -28,3 +28,4 @@ var Megaphone20 = function Megaphone20(props) {
 };
 
 export default Megaphone20;
+//# sourceMappingURL=Megaphone20.js.map

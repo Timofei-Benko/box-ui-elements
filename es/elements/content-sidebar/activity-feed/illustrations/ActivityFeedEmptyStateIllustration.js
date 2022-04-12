@@ -29,3 +29,4 @@ var ActivityFeedEmptyStateIllustration = function ActivityFeedEmptyStateIllustra
 };
 
 export default ActivityFeedEmptyStateIllustration;
+//# sourceMappingURL=ActivityFeedEmptyStateIllustration.js.map

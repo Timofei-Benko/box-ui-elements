@@ -23,3 +23,4 @@ var Internationalize = function Internationalize(_ref) {
 };
 
 export default Internationalize;
+//# sourceMappingURL=Internationalize.js.map

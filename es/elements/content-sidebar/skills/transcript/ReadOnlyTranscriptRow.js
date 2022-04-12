@@ -25,3 +25,4 @@ var ReadOnlyTranscriptRow = function ReadOnlyTranscriptRow(_ref) {
 };
 
 export default ReadOnlyTranscriptRow;
+//# sourceMappingURL=ReadOnlyTranscriptRow.js.map

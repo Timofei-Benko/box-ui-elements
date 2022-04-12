@@ -27,3 +27,4 @@ var IconPlusRound = function IconPlusRound(_ref) {
 };
 
 export default IconPlusRound;
+//# sourceMappingURL=IconPlusRound.js.map

@@ -19,3 +19,4 @@ var CopyrightLink = function CopyrightLink(props) {
 };
 
 export default CopyrightLink;
+//# sourceMappingURL=CopyrightFooter.js.map

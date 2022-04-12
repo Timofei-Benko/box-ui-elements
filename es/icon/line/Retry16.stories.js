@@ -10,3 +10,4 @@ export default {
     notes: "`import Retry16 from 'box-ui-elements/es/icon/line/Retry16';`"
   }
 };
+//# sourceMappingURL=Retry16.stories.js.map

@@ -235,3 +235,4 @@ export default function withSidebarAnnotations(WrappedComponent) {
   WithSidebarAnnotations.displayName = "WithSidebarAnnotations(".concat(displayName, ")");
   return WithSidebarAnnotations;
 }
+//# sourceMappingURL=withSidebarAnnotations.js.map

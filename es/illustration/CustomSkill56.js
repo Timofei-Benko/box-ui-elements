@@ -53,3 +53,4 @@ var CustomSkill56 = function CustomSkill56(props) {
 };
 
 export default CustomSkill56;
+//# sourceMappingURL=CustomSkill56.js.map

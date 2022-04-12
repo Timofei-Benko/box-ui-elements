@@ -10,3 +10,4 @@ export default {
     notes: "`import MonthlyReport56 from 'box-ui-elements/es/illustration/MonthlyReport56';`"
   }
 };
+//# sourceMappingURL=MonthlyReport56.stories.js.map

@@ -25,3 +25,4 @@ var IconEdit = function IconEdit(_ref) {
 };
 
 export default IconEdit;
+//# sourceMappingURL=IconEdit.js.map

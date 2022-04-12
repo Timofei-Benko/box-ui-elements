@@ -36,3 +36,4 @@ var FileSlides32 = function FileSlides32(props) {
 };
 
 export default FileSlides32;
+//# sourceMappingURL=FileSlides32.js.map

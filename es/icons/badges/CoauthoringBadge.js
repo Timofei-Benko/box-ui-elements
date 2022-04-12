@@ -37,3 +37,4 @@ var CoauthoringBadge = function CoauthoringBadge(_ref) {
 };
 
 export default CoauthoringBadge;
+//# sourceMappingURL=CoauthoringBadge.js.map

@@ -38,3 +38,4 @@ var IconDownloadFile = function IconDownloadFile(_ref) {
 };
 
 export default IconDownloadFile;
+//# sourceMappingURL=IconDownloadFile.js.map

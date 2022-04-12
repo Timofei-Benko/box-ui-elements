@@ -28,3 +28,4 @@ var FileIndesign16 = function FileIndesign16(props) {
 };
 
 export default FileIndesign16;
+//# sourceMappingURL=FileIndesign16.js.map

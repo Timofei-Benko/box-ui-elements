@@ -93,3 +93,4 @@ _defineProperty(SlideCarousel, "defaultProps", {
 });
 
 export default SlideCarousel;
+//# sourceMappingURL=SlideCarousel.js.map

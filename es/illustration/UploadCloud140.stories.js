@@ -10,3 +10,4 @@ export default {
     notes: "`import UploadCloud140 from 'box-ui-elements/es/illustration/UploadCloud140';`"
   }
 };
+//# sourceMappingURL=UploadCloud140.stories.js.map

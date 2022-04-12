@@ -29,3 +29,4 @@ var IconRelay = function IconRelay(_ref) {
 };
 
 export default IconRelay;
+//# sourceMappingURL=IconRelay.js.map

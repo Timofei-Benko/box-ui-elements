@@ -10,3 +10,4 @@ export default {
     notes: "`import MoneyStack56 from 'box-ui-elements/es/illustration/MoneyStack56';`"
   }
 };
+//# sourceMappingURL=MoneyStack56.stories.js.map

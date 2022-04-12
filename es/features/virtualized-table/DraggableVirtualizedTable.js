@@ -82,3 +82,4 @@ DraggableVirtualizedTable.defaultProps = {
   shouldShowDragHandle: true
 };
 export default DraggableVirtualizedTable;
+//# sourceMappingURL=DraggableVirtualizedTable.js.map

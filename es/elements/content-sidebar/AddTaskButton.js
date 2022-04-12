@@ -126,3 +126,4 @@ _defineProperty(AddTaskButton, "defaultProps", {
 
 export { AddTaskButton as AddTaskButtonComponent };
 export default withRouter(AddTaskButton);
+//# sourceMappingURL=AddTaskButton.js.map

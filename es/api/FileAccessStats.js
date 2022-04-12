@@ -76,3 +76,4 @@ function (_Base) {
 }(Base);
 
 export default FileAccessStats;
+//# sourceMappingURL=FileAccessStats.js.map

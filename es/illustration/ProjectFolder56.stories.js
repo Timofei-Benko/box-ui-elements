@@ -10,3 +10,4 @@ export default {
     notes: "`import ProjectFolder56 from 'box-ui-elements/es/illustration/ProjectFolder56';`"
   }
 };
+//# sourceMappingURL=ProjectFolder56.stories.js.map

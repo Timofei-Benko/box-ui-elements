@@ -35,3 +35,4 @@ var BookmarkIcon = function BookmarkIcon(_ref) {
 };
 
 export default BookmarkIcon;
+//# sourceMappingURL=BookmarkIcon.js.map

@@ -10,3 +10,4 @@ export default {
     notes: "`import CaretBadge16 from 'box-ui-elements/es/icon/fill/CaretBadge16';`"
   }
 };
+//# sourceMappingURL=CaretBadge16.stories.js.map

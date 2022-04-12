@@ -38,3 +38,4 @@ var CrosshairRegion32 = function CrosshairRegion32(props) {
 };
 
 export default CrosshairRegion32;
+//# sourceMappingURL=CrosshairRegion32.js.map

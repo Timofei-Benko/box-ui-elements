@@ -10,3 +10,4 @@ export default {
     notes: "`import Activity20 from 'box-ui-elements/es/icon/fill/Activity20';`"
   }
 };
+//# sourceMappingURL=Activity20.stories.js.map

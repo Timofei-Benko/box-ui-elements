@@ -8,3 +8,4 @@ var Tab = function Tab(props) {
 };
 
 export default Tab;
+//# sourceMappingURL=Tab.js.map

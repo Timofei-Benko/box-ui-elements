@@ -56,3 +56,4 @@ var UploadSuccessState = function UploadSuccessState(_ref) {
 };
 
 export default UploadSuccessState;
+//# sourceMappingURL=UploadSuccessState.js.map

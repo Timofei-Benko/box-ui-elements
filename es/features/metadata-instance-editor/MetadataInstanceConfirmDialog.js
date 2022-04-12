@@ -37,3 +37,4 @@ var MetadataInstanceConfirmDialog = function MetadataInstanceConfirmDialog(_ref)
 };
 
 export default MetadataInstanceConfirmDialog;
+//# sourceMappingURL=MetadataInstanceConfirmDialog.js.map

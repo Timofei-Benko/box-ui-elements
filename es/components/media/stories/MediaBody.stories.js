@@ -25,3 +25,4 @@ export default {
     notes: notes
   }
 };
+//# sourceMappingURL=MediaBody.stories.js.map

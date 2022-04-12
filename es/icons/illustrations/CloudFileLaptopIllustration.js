@@ -82,3 +82,4 @@ _defineProperty(CloudFileLaptopIllustration, "defaultProps", {
 });
 
 export default CloudFileLaptopIllustration;
+//# sourceMappingURL=CloudFileLaptopIllustration.js.map

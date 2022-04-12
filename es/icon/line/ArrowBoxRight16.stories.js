@@ -10,3 +10,4 @@ export default {
     notes: "`import ArrowBoxRight16 from 'box-ui-elements/es/icon/line/ArrowBoxRight16';`"
   }
 };
+//# sourceMappingURL=ArrowBoxRight16.stories.js.map

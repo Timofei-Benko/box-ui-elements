@@ -12,3 +12,4 @@ var LeftSidebarIconWrapper = function LeftSidebarIconWrapper(_ref) {
 };
 
 export default LeftSidebarIconWrapper;
+//# sourceMappingURL=LeftSidebarIconWrapper.js.map

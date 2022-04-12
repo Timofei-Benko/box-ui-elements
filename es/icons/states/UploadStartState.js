@@ -50,3 +50,4 @@ var UploadStartState = function UploadStartState(_ref) {
 };
 
 export default UploadStartState;
+//# sourceMappingURL=UploadStartState.js.map

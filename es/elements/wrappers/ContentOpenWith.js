@@ -84,3 +84,4 @@ function (_ES6Wrapper) {
 global.Box = global.Box || {};
 global.Box.ContentOpenWith = ContentOpenWith;
 export default ContentOpenWith;
+//# sourceMappingURL=ContentOpenWith.js.map

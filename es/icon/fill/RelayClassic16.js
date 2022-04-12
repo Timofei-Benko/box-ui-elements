@@ -28,3 +28,4 @@ var RelayClassic16 = function RelayClassic16(props) {
 };
 
 export default RelayClassic16;
+//# sourceMappingURL=RelayClassic16.js.map

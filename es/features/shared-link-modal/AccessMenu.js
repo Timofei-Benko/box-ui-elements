@@ -139,3 +139,4 @@ _defineProperty(AccessMenu, "defaultProps", {
 });
 
 export default AccessMenu;
+//# sourceMappingURL=AccessMenu.js.map

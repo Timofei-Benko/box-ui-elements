@@ -10,3 +10,4 @@ export default {
     notes: "`import Tag16 from 'box-ui-elements/es/icon/fill/Tag16';`"
   }
 };
+//# sourceMappingURL=Tag16.stories.js.map

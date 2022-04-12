@@ -290,3 +290,4 @@ _defineProperty(KeyBinder, "defaultProps", {
 });
 
 export default KeyBinder;
+//# sourceMappingURL=KeyBinder.js.map

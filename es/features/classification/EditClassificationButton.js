@@ -32,3 +32,4 @@ var EditClassificationButton = function EditClassificationButton(_ref) {
 };
 
 export default EditClassificationButton;
+//# sourceMappingURL=EditClassificationButton.js.map

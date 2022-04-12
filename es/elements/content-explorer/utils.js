@@ -4,3 +4,4 @@ export default (function (item) {
   var status = getProp(item, 'representations.entries[0].status.state');
   return status === REPRESENTATIONS_RESPONSE_SUCCESS || status === REPRESENTATIONS_RESPONSE_VIEWABLE;
 });
+//# sourceMappingURL=utils.js.map

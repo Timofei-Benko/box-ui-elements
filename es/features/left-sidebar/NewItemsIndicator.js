@@ -10,3 +10,4 @@ var NewItemsIndicator = function NewItemsIndicator(_ref) {
 };
 
 export default NewItemsIndicator;
+//# sourceMappingURL=NewItemsIndicator.js.map

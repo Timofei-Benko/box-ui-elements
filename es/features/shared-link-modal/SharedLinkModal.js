@@ -168,3 +168,4 @@ function (_Component) {
 }(Component);
 
 export default SharedLinkModal;
+//# sourceMappingURL=SharedLinkModal.js.map

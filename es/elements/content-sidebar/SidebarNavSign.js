@@ -69,3 +69,4 @@ export function SidebarNavSign(_ref2) {
   }))));
 }
 export default injectIntl(SidebarNavSign);
+//# sourceMappingURL=SidebarNavSign.js.map

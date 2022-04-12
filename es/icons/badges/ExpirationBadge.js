@@ -28,3 +28,4 @@ var ExpirationBadge = function ExpirationBadge(_ref) {
 };
 
 export default ExpirationBadge;
+//# sourceMappingURL=ExpirationBadge.js.map

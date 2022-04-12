@@ -28,3 +28,4 @@ var FileIllustrator16 = function FileIllustrator16(props) {
 };
 
 export default FileIllustrator16;
+//# sourceMappingURL=FileIllustrator16.js.map

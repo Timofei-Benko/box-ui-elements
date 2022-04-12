@@ -80,3 +80,4 @@ var HatWand140 = function HatWand140(props) {
 };
 
 export default HatWand140;
+//# sourceMappingURL=HatWand140.js.map

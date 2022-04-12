@@ -29,3 +29,4 @@ var IconRecents = function IconRecents(_ref) {
 };
 
 export default IconRecents;
+//# sourceMappingURL=IconRecents.js.map

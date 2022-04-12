@@ -10,3 +10,4 @@ export default {
     notes: "`import Classify16 from 'box-ui-elements/es/icon/fill/Classify16';`"
   }
 };
+//# sourceMappingURL=Classify16.stories.js.map

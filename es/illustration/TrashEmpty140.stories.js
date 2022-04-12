@@ -10,3 +10,4 @@ export default {
     notes: "`import TrashEmpty140 from 'box-ui-elements/es/illustration/TrashEmpty140';`"
   }
 };
+//# sourceMappingURL=TrashEmpty140.stories.js.map

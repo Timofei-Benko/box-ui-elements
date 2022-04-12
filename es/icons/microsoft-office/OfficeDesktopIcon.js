@@ -44,3 +44,4 @@ var OfficeDesktopIcon = function OfficeDesktopIcon(_ref) {
 };
 
 export default OfficeDesktopIcon;
+//# sourceMappingURL=OfficeDesktopIcon.js.map

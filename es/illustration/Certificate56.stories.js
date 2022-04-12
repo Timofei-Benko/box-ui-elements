@@ -10,3 +10,4 @@ export default {
     notes: "`import Certificate56 from 'box-ui-elements/es/illustration/Certificate56';`"
   }
 };
+//# sourceMappingURL=Certificate56.stories.js.map

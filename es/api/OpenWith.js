@@ -157,3 +157,4 @@ function (_Base) {
 }(Base);
 
 export default OpenWith;
+//# sourceMappingURL=OpenWith.js.map

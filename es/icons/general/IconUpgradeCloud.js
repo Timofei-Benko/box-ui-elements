@@ -72,3 +72,4 @@ var IconUpgradeCloud = function IconUpgradeCloud(_ref) {
 };
 
 export default IconUpgradeCloud;
+//# sourceMappingURL=IconUpgradeCloud.js.map

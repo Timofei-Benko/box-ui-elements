@@ -110,3 +110,4 @@ _defineProperty(IconWordDesktop, "defaultProps", {
 });
 
 export default IconWordDesktop;
+//# sourceMappingURL=IconWordDesktop.js.map

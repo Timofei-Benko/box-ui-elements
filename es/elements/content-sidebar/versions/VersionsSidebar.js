@@ -71,3 +71,4 @@ var VersionsSidebar = function VersionsSidebar(_ref) {
 };
 
 export default VersionsSidebar;
+//# sourceMappingURL=VersionsSidebar.js.map

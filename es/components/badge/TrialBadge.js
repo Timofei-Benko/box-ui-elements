@@ -24,3 +24,4 @@ var TrialBadge = function TrialBadge(_ref) {
 };
 
 export default TrialBadge;
+//# sourceMappingURL=TrialBadge.js.map

@@ -22,3 +22,4 @@ var LinkButton = function LinkButton(_ref) {
 };
 
 export default LinkButton;
+//# sourceMappingURL=LinkButton.js.map

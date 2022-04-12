@@ -29,3 +29,4 @@ var IconChatBubble = function IconChatBubble(_ref) {
 };
 
 export default IconChatBubble;
+//# sourceMappingURL=IconChatBubble.js.map

@@ -98,3 +98,4 @@ _defineProperty(EditableDescription, "defaultProps", {
 
 export { EditableDescription as EditableDescriptionBase };
 export default injectIntl(EditableDescription);
+//# sourceMappingURL=EditableDescription.js.map

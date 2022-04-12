@@ -11,3 +11,4 @@ var DEFAULT = APP_RESTRICTION_MESSAGE_TYPE.DEFAULT,
     WITH_OVERFLOWN_APP_LIST = APP_RESTRICTION_MESSAGE_TYPE.WITH_OVERFLOWN_APP_LIST;
 var appRestrictionsMessageMap = (_appRestrictionsMessa = {}, _defineProperty(_appRestrictionsMessa, BLACKLIST, (_BLACKLIST = {}, _defineProperty(_BLACKLIST, DEFAULT, messages.appDownloadRestricted), _defineProperty(_BLACKLIST, WITH_APP_LIST, messages.appDownloadBlacklist), _defineProperty(_BLACKLIST, WITH_OVERFLOWN_APP_LIST, messages.appDownloadBlacklistOverflow), _BLACKLIST)), _defineProperty(_appRestrictionsMessa, WHITELIST, (_WHITELIST = {}, _defineProperty(_WHITELIST, DEFAULT, messages.appDownloadRestricted), _defineProperty(_WHITELIST, WITH_APP_LIST, messages.appDownloadWhitelist), _defineProperty(_WHITELIST, WITH_OVERFLOWN_APP_LIST, messages.appDownloadWhitelistOverflow), _WHITELIST)), _appRestrictionsMessa);
 export default appRestrictionsMessageMap;
+//# sourceMappingURL=appRestrictionsMessageMap.js.map

@@ -28,3 +28,4 @@ var IconPlay = function IconPlay(_ref) {
 };
 
 export default IconPlay;
+//# sourceMappingURL=IconPlay.js.map

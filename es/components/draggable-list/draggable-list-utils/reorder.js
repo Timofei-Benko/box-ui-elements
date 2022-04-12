@@ -18,3 +18,4 @@ function reorder(list, startIndex, endIndex) {
 }
 
 export default reorder;
+//# sourceMappingURL=reorder.js.map

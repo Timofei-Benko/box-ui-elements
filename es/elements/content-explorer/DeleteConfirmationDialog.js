@@ -53,3 +53,4 @@ var DeleteConfirmationDialog = function DeleteConfirmationDialog(_ref) {
 };
 
 export default injectIntl(DeleteConfirmationDialog);
+//# sourceMappingURL=DeleteConfirmationDialog.js.map

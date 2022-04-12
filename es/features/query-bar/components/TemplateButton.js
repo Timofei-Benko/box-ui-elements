@@ -144,3 +144,4 @@ _defineProperty(TemplateButton, "defaultProps", {
 });
 
 export default TemplateButton;
+//# sourceMappingURL=TemplateButton.js.map

@@ -61,3 +61,4 @@ var IconNotesLogo = function IconNotesLogo(_ref) {
 };
 
 export default IconNotesLogo;
+//# sourceMappingURL=IconNotesLogo.js.map

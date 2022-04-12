@@ -41,3 +41,4 @@ var ItemRemove = function ItemRemove(_ref) {
 };
 
 export default ItemRemove;
+//# sourceMappingURL=ItemRemove.js.map

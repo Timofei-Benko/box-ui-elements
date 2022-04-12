@@ -25,3 +25,4 @@ var SlideButton = function SlideButton(_ref) {
 };
 
 export default SlideButton;
+//# sourceMappingURL=SlideButton.js.map

@@ -182,3 +182,4 @@ _defineProperty(FormattedCompMessage, "defaultProps", {
 });
 
 export default injectIntl(FormattedCompMessage);
+//# sourceMappingURL=FormattedCompMessage.js.map
