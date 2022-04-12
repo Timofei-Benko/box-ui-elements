@@ -67,6 +67,7 @@
         "lint:ts": "tsc && eslint --ext=.tsx,.ts --max-warnings=0 .",
         "lint:css": "stylelint \"src/**/*.scss\" --syntax scss",
         "prebuild:es": "npm-run-all build:variables copy:styles ts:defs copy:flow",
+        "prepare": "npm run build",
         "release": "yarn release:beta",
         "release:beta": "DIST=beta BRANCH=master ./scripts/release.sh",
         "release:hotfix": "DIST=latest HOTFIX=true ./scripts/release.sh",
