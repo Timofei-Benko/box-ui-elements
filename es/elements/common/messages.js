@@ -161,6 +161,10 @@ var messages = defineMessages({
     "id": "be.itemModified",
     "defaultMessage": "Modified"
   },
+  updated: {
+    "id": "be.itemUpdated",
+    "defaultMessage": "Last Updated"
+  },
   modifiedDateBy: {
     "id": "be.modifiedDateBy",
     "defaultMessage": "Modified {date} by {name}"
@@ -191,7 +195,7 @@ var messages = defineMessages({
   },
   name: {
     "id": "be.itemName",
-    "defaultMessage": "Name"
+    "defaultMessage": "File Name"
   },
   size: {
     "id": "be.itemSize",

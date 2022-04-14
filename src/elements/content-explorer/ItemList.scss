@@ -83,11 +83,12 @@
 
 .bce-item-header-row {
     border-bottom: 1px solid $bdl-gray-10;
+    background-color: #F9FBFC;
     box-shadow: 0 4px 6px -2px $transparent-black;
 
     .ReactVirtualized__Table__headerColumn {
         color: $bdl-gray-62;
-        font-weight: normal;
+        font-weight: bold;
         text-transform: none;
     }
 

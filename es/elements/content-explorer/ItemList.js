@@ -16,8 +16,10 @@ import messages from '../common/messages';
 import headerCellRenderer from './headerCellRenderer';
 import sizeCellRenderer from './sizeCellRenderer';
 import dateCellRenderer from './dateCellRenderer';
+import labelCellRenderer from './labelCellRenderer';
+import authorCellRenderer from './authorCellRenderer';
 import moreOptionsCellRenderer from './moreOptionsCellRenderer';
-import { FIELD_DATE, FIELD_ID, FIELD_NAME, FIELD_SIZE, VIEW_FOLDER, VIEW_RECENTS } from '../../constants';
+import { FIELD_ID, FIELD_NAME, FIELD_SIZE, VIEW_FOLDER, VIEW_RECENTS, FIELD_CONTENT_MODIFIED_AT, FIELD_CREATED_AT, FIELD_CREATED_BY } from '../../constants';
 import '@box/react-virtualized/styles.css';
 import './ItemList.scss';
 
@@ -47,9 +49,13 @@ var ItemList = function ItemList(_ref) {
       intl = _ref.intl;
   var nameCell = nameCellRenderer(rootId, view, onItemClick, onItemSelect, canPreview, isSmall, // shows details if false
   isTouch);
-  var iconCell = iconCellRenderer();
-  var dateCell = dateCellRenderer();
+  var iconCell = iconCellRenderer(16); // const dateCell = dateCellRenderer();
+
+  var createdByCell = authorCellRenderer();
+  var createdOnCell = dateCellRenderer('created');
+  var lastUpdatedCell = dateCellRenderer('updated');
   var sizeAccessCell = sizeCellRenderer();
+  var labelCell = labelCellRenderer();
   var moreOptionsCell = moreOptionsCellRenderer(canPreview, canShare, canDownload, canDelete, canRename, onItemSelect, onItemDelete, onItemDownload, onItemRename, onItemShare, onItemPreview, isSmall);
   var isRecents = view === VIEW_RECENTS;
   var hasSort = view === VIEW_FOLDER;
@@ -106,8 +112,8 @@ var ItemList = function ItemList(_ref) {
       return React.createElement(Table, {
         width: width,
         height: height,
-        headerHeight: isSmall ? 0 : 40,
-        rowHeight: 50,
+        headerHeight: 42,
+        rowHeight: 42,
         rowCount: rowCount,
         rowGetter: function rowGetter(_ref7) {
           var index = _ref7.index;
@@ -139,7 +145,7 @@ var ItemList = function ItemList(_ref) {
         disableSort: true,
         dataKey: FIELD_ID,
         cellRenderer: iconCell,
-        width: isSmall ? 30 : 50,
+        width: 50,
         flexShrink: 0
       }), React.createElement(Column, {
         disableSort: !hasSort,
@@ -152,9 +158,18 @@ var ItemList = function ItemList(_ref) {
       }), isSmall ? null : React.createElement(Column, {
         className: "bce-item-coloumn",
         disableSort: !hasSort,
-        label: isRecents ? intl.formatMessage(messages.interacted) : intl.formatMessage(messages.modified),
-        dataKey: FIELD_DATE,
-        cellRenderer: dateCell,
+        label: "Created On",
+        dataKey: FIELD_CREATED_AT,
+        cellRenderer: createdOnCell,
+        headerRenderer: headerCellRenderer,
+        width: isRecents ? 120 : 300,
+        flexGrow: 1
+      }), isSmall ? null : React.createElement(Column, {
+        className: "bce-item-coloumn",
+        disableSort: !hasSort,
+        label: intl.formatMessage(messages.updated),
+        dataKey: FIELD_CONTENT_MODIFIED_AT,
+        cellRenderer: lastUpdatedCell,
         headerRenderer: headerCellRenderer,
         width: isRecents ? 120 : 300,
         flexGrow: 1
@@ -166,13 +181,29 @@ var ItemList = function ItemList(_ref) {
         cellRenderer: sizeAccessCell,
         headerRenderer: headerCellRenderer,
         width: 80,
-        flexShrink: 0
+        flexGrow: 0
+      }), isSmall || isMedium ? null : React.createElement(Column, {
+        className: "bce-item-coloumn",
+        label: "Author",
+        dataKey: FIELD_CREATED_BY,
+        cellRenderer: createdByCell,
+        headerRenderer: headerCellRenderer,
+        width: 80,
+        flexGrow: 0
+      }), isSmall || isMedium ? null : React.createElement(Column, {
+        className: "bce-item-coloumn",
+        label: "Label",
+        dataKey: FIELD_SIZE,
+        cellRenderer: labelCell,
+        headerRenderer: headerCellRenderer,
+        width: 80,
+        flexGrow: 0
       }), React.createElement(Column, {
         disableSort: true,
         dataKey: FIELD_ID,
         cellRenderer: moreOptionsCell,
         width: isSmall || !canShare ? 58 : 140,
-        flexShrink: 0
+        flexGrow: 0
       }));
     });
   });

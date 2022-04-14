@@ -267,11 +267,11 @@ class ContentExplorer extends Component<Props, State> {
         this.state = {
             currentCollection: {},
             currentOffset: initialPageSize * (initialPage - 1),
-            currentPageSize: initialPageSize,
+            currentPageSize: 14,
             currentPageNumber: 0,
             errorCode: '',
             focusedRow: 0,
-            gridColumnCount: 4,
+            gridColumnCount: 7,
             isCreateFolderModalOpen: false,
             isDeleteModalOpen: false,
             isLoading: false,

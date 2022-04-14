@@ -18,8 +18,19 @@ import messages from '../common/messages';
 import headerCellRenderer from './headerCellRenderer';
 import sizeCellRenderer from './sizeCellRenderer';
 import dateCellRenderer from './dateCellRenderer';
+import labelCellRenderer from './labelCellRenderer';
+import authorCellRenderer from './authorCellRenderer';
 import moreOptionsCellRenderer from './moreOptionsCellRenderer';
-import { FIELD_DATE, FIELD_ID, FIELD_NAME, FIELD_SIZE, VIEW_FOLDER, VIEW_RECENTS } from '../../constants';
+import {
+    FIELD_ID,
+    FIELD_NAME,
+    FIELD_SIZE,
+    VIEW_FOLDER,
+    VIEW_RECENTS,
+    FIELD_CONTENT_MODIFIED_AT,
+    FIELD_CREATED_AT,
+    FIELD_CREATED_BY,
+} from '../../constants';
 import type { View, Collection } from '../../common/types/core';
 import '@box/react-virtualized/styles.css';
 import './ItemList.scss';
@@ -83,9 +94,13 @@ const ItemList = ({
         isSmall, // shows details if false
         isTouch,
     );
-    const iconCell = iconCellRenderer();
-    const dateCell = dateCellRenderer();
+    const iconCell = iconCellRenderer(16);
+    // const dateCell = dateCellRenderer();
+    const createdByCell = authorCellRenderer();
+    const createdOnCell = dateCellRenderer('created');
+    const lastUpdatedCell = dateCellRenderer('updated');
     const sizeAccessCell = sizeCellRenderer();
+    const labelCell = labelCellRenderer();
     const moreOptionsCell = moreOptionsCellRenderer(
         canPreview,
         canShare,
@@ -141,8 +156,8 @@ const ItemList = ({
                         <Table
                             width={width}
                             height={height}
-                            headerHeight={isSmall ? 0 : 40}
-                            rowHeight={50}
+                            headerHeight={42}
+                            rowHeight={42}
                             rowCount={rowCount}
                             rowGetter={({ index }) => items[index]}
                             ref={tableRef}
@@ -162,13 +177,7 @@ const ItemList = ({
                                 }
                             }}
                         >
-                            <Column
-                                disableSort
-                                dataKey={FIELD_ID}
-                                cellRenderer={iconCell}
-                                width={isSmall ? 30 : 50}
-                                flexShrink={0}
-                            />
+                            <Column disableSort dataKey={FIELD_ID} cellRenderer={iconCell} width={50} flexShrink={0} />
                             <Column
                                 disableSort={!hasSort}
                                 label={intl.formatMessage(messages.name)}
@@ -182,13 +191,21 @@ const ItemList = ({
                                 <Column
                                     className="bce-item-coloumn"
                                     disableSort={!hasSort}
-                                    label={
-                                        isRecents
-                                            ? intl.formatMessage(messages.interacted)
-                                            : intl.formatMessage(messages.modified)
-                                    }
-                                    dataKey={FIELD_DATE}
-                                    cellRenderer={dateCell}
+                                    label="Created On"
+                                    dataKey={FIELD_CREATED_AT}
+                                    cellRenderer={createdOnCell}
+                                    headerRenderer={headerCellRenderer}
+                                    width={isRecents ? 120 : 300}
+                                    flexGrow={1}
+                                />
+                            )}
+                            {isSmall ? null : (
+                                <Column
+                                    className="bce-item-coloumn"
+                                    disableSort={!hasSort}
+                                    label={intl.formatMessage(messages.updated)}
+                                    dataKey={FIELD_CONTENT_MODIFIED_AT}
+                                    cellRenderer={lastUpdatedCell}
                                     headerRenderer={headerCellRenderer}
                                     width={isRecents ? 120 : 300}
                                     flexGrow={1}
@@ -203,7 +220,29 @@ const ItemList = ({
                                     cellRenderer={sizeAccessCell}
                                     headerRenderer={headerCellRenderer}
                                     width={80}
-                                    flexShrink={0}
+                                    flexGrow={0}
+                                />
+                            )}
+                            {isSmall || isMedium ? null : (
+                                <Column
+                                    className="bce-item-coloumn"
+                                    label="Author"
+                                    dataKey={FIELD_CREATED_BY}
+                                    cellRenderer={createdByCell}
+                                    headerRenderer={headerCellRenderer}
+                                    width={80}
+                                    flexGrow={0}
+                                />
+                            )}
+                            {isSmall || isMedium ? null : (
+                                <Column
+                                    className="bce-item-coloumn"
+                                    label="Label"
+                                    dataKey={FIELD_SIZE}
+                                    cellRenderer={labelCell}
+                                    headerRenderer={headerCellRenderer}
+                                    width={80}
+                                    flexGrow={0}
                                 />
                             )}
                             <Column
@@ -211,7 +250,7 @@ const ItemList = ({
                                 dataKey={FIELD_ID}
                                 cellRenderer={moreOptionsCell}
                                 width={isSmall || !canShare ? 58 : 140}
-                                flexShrink={0}
+                                flexGrow={0}
                             />
                         </Table>
                     )}

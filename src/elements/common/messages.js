@@ -202,6 +202,11 @@ const messages = defineMessages({
         description: 'Label for item modified date.',
         defaultMessage: 'Modified',
     },
+    updated: {
+        id: 'be.itemUpdated',
+        description: 'Label for item update date.',
+        defaultMessage: 'Last Updated',
+    },
     modifiedDateBy: {
         id: 'be.modifiedDateBy',
         description: 'Text for modified date with user with modified prefix.',
@@ -240,7 +245,7 @@ const messages = defineMessages({
     name: {
         id: 'be.itemName',
         description: 'Label for item name attribute.',
-        defaultMessage: 'Name',
+        defaultMessage: 'File Name',
     },
     size: {
         id: 'be.itemSize',
